@@ -1,0 +1,708 @@
+{
+  "data": {
+    "title": "評估結果報告",
+    "groups": [
+      {
+        "title": "主訴與就診問題",
+        "inputs": [
+          {
+            "index": 1,
+            "isRequired": true,
+            "type": "TextArea",
+            "label": "主訴",
+            "value": "<p>HTNDYXVVUZYYZXCAINBHGKMDEOIWJB</p>\n\n<p>CMGUKMTMYYPIVJLVFRWXEHVZLMCEOE</p>\n\n<p>RJMBRKCNUCNIRDJHEHTSQQQVNSJQGW</p>\n\n<p>BYLJZZGAURUVZNPCDGDETRIDKFJOHK</p>\n\n<p>GHGVHVJLEATBGBTDEPGPZJBZMIBXWA</p>\n"
+          },
+          {
+            "index": 2,
+            "isRequired": true,
+            "type": "MultipleAnswers",
+            "label": "就診問題",
+            "options": [
+              { "text": "生理" },
+              { "text": "視力" },
+              { "text": "聽覺功能" },
+              { "text": "粗大動作" },
+              { "text": "精細動作" },
+              { "text": "認知" },
+              { "text": "情緒" },
+              { "text": "行為" },
+              { "text": "學習" },
+              { "text": "社會適應" },
+              { "text": "人際互動" },
+              { "text": "感覺統合" },
+              { "text": "語言溝通" },
+              { "text": "吞嚥障礙" },
+              { "text": "注意力" },
+              { "text": "活動量" },
+              { "text": "衝動性" },
+              { "text": "日常活動功能(請註明)", "hasInput": true },
+              { "text": "遺傳諮詢" },
+              { "text": "開立(更新)證明" },
+              { "text": "輔具需求" },
+              { "text": "追蹤評估" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"生理\",\"checked\":true,\"value\":\"\"},{\"text\":\"視力\",\"checked\":true,\"value\":\"\"},{\"text\":\"聽覺功能\",\"checked\":true,\"value\":\"\"},{\"text\":\"粗大動作\",\"checked\":true,\"value\":\"\"},{\"text\":\"精細動作\",\"checked\":true,\"value\":\"\"},{\"text\":\"認知\",\"checked\":true,\"value\":\"\"},{\"text\":\"情緒\",\"checked\":true,\"value\":\"\"},{\"text\":\"行為\",\"checked\":true,\"value\":\"\"},{\"text\":\"學習\",\"checked\":true,\"value\":\"\"},{\"text\":\"社會適應\",\"checked\":true,\"value\":\"\"},{\"text\":\"人際互動\",\"checked\":true,\"value\":\"\"},{\"text\":\"感覺統合\",\"checked\":true,\"value\":\"\"},{\"text\":\"語言溝通\",\"checked\":true,\"value\":\"\"},{\"text\":\"吞嚥障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"注意力\",\"checked\":true,\"value\":\"\"},{\"text\":\"活動量\",\"checked\":true,\"value\":\"\"},{\"text\":\"衝動性\",\"checked\":true,\"value\":\"\"},{\"text\":\"日常活動功能(請註明)\",\"checked\":true,\"hasInput\":true,\"value\":\"KYLVXTUXWMOBRHYHHKRFWQWBRSDRQL\"},{\"text\":\"遺傳諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"開立(更新)證明\",\"checked\":true,\"value\":\"\"},{\"text\":\"輔具需求\",\"checked\":true,\"value\":\"\"},{\"text\":\"追蹤評估\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"NZAAJLQKEGKJYZOCLAFTOHFERANKES\"}]"
+          }
+        ]
+      },
+      {
+        "title": "團隊評估總結",
+        "inputs": [
+          {
+            "index": 3,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "兒童心智評估",
+            "value": "<p>KFBTBUWQNGSFIZXUFDBZXBEGSABBBC</p>\n\n<p>SLHEFOOYIJFDBPGGGIIJGPLNEERWYZ</p>\n\n<p>RCUFLSINVWLJGXYAFQOBTZAWWEHOSL</p>\n\n<p>PSNUZZUMDAJPVSOKPQXWCVAFIXJVEH</p>\n\n<p>EOIZGRLQOLLHLEJBSCBKXNLWEJVJUM</p>\n"
+          },
+          {
+            "index": 4,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "小兒神經評估",
+            "value": "<p>WYTJLATDQDYUXLRMDPWAOUZSKLHBCE</p>\n\n<p>NGIBBCJENLQBSPVOPOQUMNOGXFYZFK</p>\n\n<p>UNDKWQBASCNBVEBYHUAMDBVDLFZQHA</p>\n\n<p>ZDNICNTKGDNAQQBNNYISRNPGFSSHAD</p>\n\n<p>TMVWSASLDGXINBVVGCYPYFLKEUUTCR</p>\n"
+          },
+          {
+            "index": 5,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "小兒復健評估",
+            "value": "<p>XYFKYGCEXSTNKKEILEGLVMVWCRMTSZ</p>\n\n<p>RAUGLZJBIQDXPMSUQVQQTVOJYOMXKC</p>\n\n<p>ERQYZRZCTBRKRRBTCLHRADHWOGQVRC</p>\n\n<p>RPBTQRLHWJKXBGELXNMASEOUJBDTKV</p>\n\n<p>KVEEXYDRVMQGAQQMXHQNPSQKKHXYNU</p>\n"
+          },
+          {
+            "index": 6,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "臨床心理評估",
+            "value": "<p>NADFSQKPWRWWKBMSEFQDFXMQALWOUI</p>\n\n<p>RJJSAZQJEIZCUJZDAIFOAOAWXSTWMH</p>\n\n<p>BXVACVCKEHGRSSHTSQXBFPOGXVZGBQ</p>\n\n<p>FGQVOYNEEQPWDNBNUQTDXLORVKTKVD</p>\n\n<p>RQNAIKNZIYHBLBGKUGMUYLVCASNHQM</p>\n"
+          },
+          {
+            "index": 7,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "職能治療評估",
+            "value": "<p>LJOFAASZKNUQLLUOCNHJJVCJHTIQBY</p>\n\n<p>VUEPCNYNQLJEVOHHKSUDIKKDAOADIW</p>\n\n<p>BWVGYXIXGZYKOFFMZNJZXLBFGFGJKS</p>\n\n<p>JLQTEYUEJJCWZTZYCBSPMPWDUHHGMT</p>\n\n<p>HPXGSDSXYYCCTVXQJTUZWOAQCMUJEC</p>\n"
+          },
+          {
+            "index": 8,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "物理治療評估",
+            "value": "<p>YDMTLYCBZGDNFEBYJFNJXIZMNGHFBM</p>\n\n<p>OJVGLBUBWHUQRGSTMMHKDWAILUMGPI</p>\n\n<p>LHQNGDTPFHUBWJGVBMTUGSRQPILOZU</p>\n\n<p>IWMVQCUMFWDYECZSCDKEWMTVQXGXZF</p>\n\n<p>OQFPYVJAUAVGPUUUKBCVYWKNIYUBYM</p>\n"
+          },
+          {
+            "index": 9,
+            "isRequired": false,
+            "type": "MultipleChoices",
+            "label": "社會工作評估",
+            "options": [
+              {
+                "text": "同意將兒童基本資料提供給「新北市政府兒童健康發展中心」以利提供早期療育資源服務"
+              },
+              { "text": "不同意，原因：擔心標籤化問題" },
+              { "text": "不同意，原因：不瞭解通報後所能獲得之協助及資源" },
+              { "text": "不同意，原因：擔憂個人資料洩密問題" },
+              { "text": "不同意，原因：家庭功能尚佳，可自行連結資源" },
+              { "text": "不同意，原因：家庭功能不彰，早療知能薄弱" }
+            ],
+            "value": "[{\"text\":\"同意將兒童基本資料提供給「新北市政府兒童健康發展中心」以利提供早期療育資源服務\",\"checked\":false,\"value\":\"\"},{\"text\":\"不同意，原因：擔心標籤化問題\",\"checked\":true,\"value\":\"\"},{\"text\":\"不同意，原因：不瞭解通報後所能獲得之協助及資源\",\"checked\":false,\"value\":\"\"},{\"text\":\"不同意，原因：擔憂個人資料洩密問題\",\"checked\":false,\"value\":\"\"},{\"text\":\"不同意，原因：家庭功能尚佳，可自行連結資源\",\"checked\":false,\"value\":\"\"},{\"text\":\"不同意，原因：家庭功能不彰，早療知能薄弱\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "index": 10,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "社會工作評估內容",
+            "value": "<p>MRTGOQQOGCIRMMVASKFPMORGADTNDM</p>\n\n<p>CYIGADRXPSMSJQWOYOMXYCSXWRUOQU</p>\n\n<p>QTYSHXNZJWCKLKNEYMJBJORQNOMKXV</p>\n\n<p>SCBNWLERPOWQRLISDTJCFYLQYXRWYI</p>\n\n<p>EUFKPFXIWWSPAQADMGLEKSEQGRYGCU</p>\n"
+          },
+          {
+            "index": 11,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "溝通語言評估",
+            "value": "<p>YJVUCKMZTGHHTBDYBGANRTQYQKWBAR</p>\n\n<p>LHKCVWKKQFZFUDNAKVSSBQVZDCZOLO</p>\n\n<p>WNAVXKAJCEZBLHIMEHIXGHAYAPUJGF</p>\n\n<p>XNFWUTBSXICRRNANKGFUSMGAFEKEDW</p>\n\n<p>MKUYMFEYZWKAKXPPHIIFAIFRUBUCTC</p>\n"
+          },
+          {
+            "index": 12,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "耳鼻喉評估",
+            "value": "<p>DENMMUEFCTYYGJUXRUTBSSJXUHIHQY</p>\n\n<p>RPPSQXNPVFXNXNJYFZCSHZSPBSRWHW</p>\n\n<p>NXFSYTPOCBEAQGZRAOTKWIZOAMUUYK</p>\n\n<p>ORKPKZYABOSIIWICXXIFCLCOVPMWPB</p>\n\n<p>IJNXMIXRTMLDXFIVVIYYBGXHECGUWK</p>\n"
+          },
+          {
+            "index": 13,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "其它科別評估",
+            "value": "<p>SONFHSLYLEPRTKAUTZKSDKBIGZCRAU</p>\n\n<p>FGZTWCHMKIHRSDSJQMOBZEJQBQNGBE</p>\n\n<p>FYEUKCGBEMWHLNTPEIQWHYHRRNZLKA</p>\n\n<p>RWJQYNJEAWXCITLWBSXKJGUMAMRAJJ</p>\n\n<p>LVJSQRFAXWHRBCFLFLQIFEPCDSTMGD</p>\n"
+          },
+          {
+            "index": 14,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "小兒遺傳內分泌",
+            "value": "<p>RSSYAJIDCNMJHLMLSSANLSBTKJYJTF</p>\n\n<p>QEHYQNIIFADZGRSHEKLKRCHLRXLOTH</p>\n\n<p>SGMOXTEIXJYTGSEVOQCFQZCAOSVTBR</p>\n\n<p>FWADCUCENIMXYZKPQUMDRUKHOIQBEA</p>\n\n<p>WBJELYCHRVIGLLKQLDANMGKBBTGJUK</p>\n"
+          },
+          {
+            "index": 15,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "聽力評估(兒童聽力)",
+            "value": "<p>FQLZKRFQCLWDDTLMCAWVJYSOMZKSDV</p>\n\n<p>KOCOFDAHOYRKVBSQEINUFBGGDLMWNO</p>\n\n<p>LWBBHUXQWRPQPQCNAKZZOXKXJIXUGB</p>\n\n<p>FQVJHWCXEINLBOMBQCFAZPEVSDUVSS</p>\n\n<p>DZCAFCYUNILWLAWNMMBQEOXFBGEOFL</p>\n"
+          },
+          {
+            "index": 16,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "視力評估(兒童視力)",
+            "value": "<p>GQEKBUWCZHAUCIAFGWIAHNLZUGXLWO</p>\n\n<p>VUAWIVTDFUIMNROJMCMOOGARJVKXCG</p>\n\n<p>MCUXRNOWUPWRXIKXUDPMAQNLWQXQSR</p>\n\n<p>BXHDNIMAEACPQSEXWKWKPVEXWGUGVW</p>\n\n<p>WGCQQDPVKVTBNTXNTGOLNKDAKGYCYK</p>\n"
+          },
+          {
+            "index": 17,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "特殊教育評估(教育評量)",
+            "value": "<p>LTGVODYCAAVBMAWRCJDHCJASIDWFXK</p>\n\n<p>OAXNSKWXUGSHIJEPMRXWPJHZVAGCPX</p>\n\n<p>UCQDZGIKHPDKRTHFBTUEAYTREFNRWJ</p>\n\n<p>TTEUQCZRVCKVXHGQFOUYSHSTBNGXQE</p>\n\n<p>BVMSGLHBGAAVJLFDEQOWUTKNINHMHD</p>\n"
+          },
+          {
+            "index": 18,
+            "isRequired": true,
+            "type": "TextArea",
+            "label": "團隊評估建議",
+            "value": "<p>VNAYHXLOCRSWGFEGIUCHKQADCLBYFF</p>\n\n<p>BDWHMYBEGEPKMDGTROMGVASNMZDLDJ</p>\n\n<p>SFJZEFNZHGURPFMVRRMBPTAFJORDMM</p>\n\n<p>AJWPSOPUPSMFBAUWIMDYEJBGXMMWVF</p>\n\n<p>XAOZANXQXKRLWLUJSUEERNGRVLSZUH</p>\n"
+          }
+        ]
+      },
+      {
+        "title": "疾病診斷",
+        "inputs": [
+          {
+            "index": 19,
+            "isRequired": true,
+            "type": "TextArea",
+            "label": "疑似",
+            "value": "<p>GGMEMUAJLSZRNAMXDKIAVLERGUOBQC</p>\n\n<p>HFTWJNSTISYVYQJUCOLYCEGXSBXMZQ</p>\n\n<p>VZKAOLWXGYPMEZDNPFRVQQTQWEZVRG</p>\n\n<p>WQSMLUNWTUZCKZBZHZSZHJDQIGFIXG</p>\n\n<p>YQBUFJPFWLOYTFFDWRKCNKAFEJNFMN</p>\n"
+          },
+          {
+            "index": 20,
+            "isRequired": true,
+            "type": "TextArea",
+            "label": "確定",
+            "value": "<p>PPXDZVIBKAZOHVEFDZZVBMVSEMOAZQ</p>\n\n<p>ZIYGSXDCWKZDTRZRQYDJCZIEUZXHWE</p>\n\n<p>JBTMJOHISDZRBPIYGBSALWXFLLVZPK</p>\n\n<p>FCWIOVWXDSVQVVHKQPLCLINAOJZPHG</p>\n\n<p>IJJBUIHRLNHFKYSCMKZMQQPEBJJEXZ</p>\n"
+          }
+        ]
+      },
+      {
+        "title": "評估結果",
+        "inputs": [
+          {
+            "index": 21,
+            "isRequired": true,
+            "type": "DropDownList",
+            "label": "知覺動作發展",
+            "options": [
+              { "text": "無異常" },
+              { "text": "未進行此項評估" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"未進行此項評估\",\"checked\":false,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":false,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "index": 22,
+            "isRequired": true,
+            "type": "MultipleAnswers",
+            "label": "知覺動作發展結果",
+            "options": [
+              { "text": "粗大動作" },
+              { "text": "精細動作" },
+              { "text": "感覺統合失調" },
+              { "text": "動作靈巧與協調度異常" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"粗大動作\",\"checked\":true,\"value\":\"\"},{\"text\":\"精細動作\",\"checked\":true,\"value\":\"\"},{\"text\":\"感覺統合失調\",\"checked\":true,\"value\":\"\"},{\"text\":\"動作靈巧與協調度異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"QCFHSRLCGHPOLHRNAHPMGGYILPNKAL\"}]"
+          },
+          {
+            "index": 23,
+            "isRequired": true,
+            "type": "DropDownList",
+            "label": "語言發展",
+            "options": [
+              { "text": "無異常" },
+              { "text": "未進行此項評估" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":false,\"value\":\"\"},{\"text\":\"未進行此項評估\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":false,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "index": 24,
+            "isRequired": true,
+            "type": "MultipleAnswers",
+            "label": "語言發展結果",
+            "options": [
+              { "text": "說話異常" },
+              { "text": "語言理解" },
+              { "text": "語言表達" },
+              { "text": "混合性語言" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"說話異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"語言理解\",\"checked\":true,\"value\":\"\"},{\"text\":\"語言表達\",\"checked\":true,\"value\":\"\"},{\"text\":\"混合性語言\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"ZIUIBSKKUCHHTFRFYLEEJMJIZSARGO\"}]"
+          },
+          {
+            "index": 25,
+            "isRequired": true,
+            "type": "DropDownList",
+            "label": "認知發展",
+            "options": [
+              { "text": "無異常" },
+              { "text": "未進行此項評估" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":false,\"value\":\"\"},{\"text\":\"未進行此項評估\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":false,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "index": 26,
+            "isRequired": true,
+            "type": "MultipleAnswers",
+            "label": "認知發展結果",
+            "options": [
+              { "text": "認知全面遲緩" },
+              { "text": "內部能力表現不一致" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"認知全面遲緩\",\"checked\":true,\"value\":\"\"},{\"text\":\"內部能力表現不一致\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"GMBCTGQMOAFOUQALRIWOKUWWBPDNYV\"}]"
+          },
+          {
+            "index": 27,
+            "isRequired": true,
+            "type": "DropDownList",
+            "label": "社會情緒發展",
+            "options": [
+              { "text": "無異常" },
+              { "text": "未進行此項評估" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"未進行此項評估\",\"checked\":false,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":false,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "index": 28,
+            "isRequired": true,
+            "type": "MultipleAnswers",
+            "label": "社會情緒發展結果",
+            "options": [
+              { "text": "情緒表現" },
+              { "text": "環境適應" },
+              { "text": "人際互動" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"情緒表現\",\"checked\":true,\"value\":\"\"},{\"text\":\"環境適應\",\"checked\":true,\"value\":\"\"},{\"text\":\"人際互動\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"JOTJDWQFOMKEYIBZMQIGEQAPMOUSTM\"}]"
+          },
+          {
+            "index": 29,
+            "isRequired": true,
+            "type": "MultipleAnswers",
+            "label": "感官功能",
+            "options": [
+              { "text": "無異常" },
+              { "text": "未進行此項評估" },
+              { "text": "異常-聽障" },
+              { "text": "異常-視障" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"未進行此項評估\",\"checked\":true,\"value\":\"\"},{\"text\":\"異常-聽障\",\"checked\":true,\"value\":\"\"},{\"text\":\"異常-視障\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "index": 30,
+            "isRequired": true,
+            "type": "MultipleAnswers",
+            "label": "感官功能結果",
+            "options": [
+              { "text": "聽力" },
+              { "text": "聽力-左__分貝", "hasInput": true },
+              { "text": "聽力-右__分貝", "hasInput": true },
+              { "text": "視力" },
+              { "text": "視力-左__", "hasInput": true },
+              { "text": "視力-右__", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"聽力\",\"checked\":true,\"value\":\"\"},{\"text\":\"聽力-左__分貝\",\"checked\":true,\"hasInput\":true,\"value\":\"DYZWFFWIUOAEAGDIXUQFRCXHSHCHYN\"},{\"text\":\"聽力-右__分貝\",\"checked\":true,\"hasInput\":true,\"value\":\"UQYZVYOIMNEXPACXGANPILQTTRQYMH\"},{\"text\":\"視力\",\"checked\":true,\"value\":\"\"},{\"text\":\"視力-左__\",\"checked\":true,\"hasInput\":true,\"value\":\"DKWKOICUHAHMBXHTUSOVRXNCOTFHMI\"},{\"text\":\"視力-右__\",\"checked\":true,\"hasInput\":true,\"value\":\"NBNMMOFINTRAWFKEDPAETLALYPKJTW\"}]"
+          },
+          {
+            "index": 31,
+            "isRequired": true,
+            "type": "MultipleAnswers",
+            "label": "其他發展",
+            "options": [
+              { "text": "無異常" },
+              { "text": "未進行此項評估" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"未進行此項評估\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":true,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "index": 32,
+            "isRequired": true,
+            "type": "MultipleAnswers",
+            "label": "其他發展結果",
+            "options": [
+              { "text": "吞嚥功能" },
+              { "text": "日常生活功能" },
+              { "text": "視知覺" },
+              { "text": "聽知覺" },
+              { "text": "注意／執行功能" },
+              { "text": "過動／衝動" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"吞嚥功能\",\"checked\":true,\"value\":\"\"},{\"text\":\"日常生活功能\",\"checked\":true,\"value\":\"\"},{\"text\":\"視知覺\",\"checked\":true,\"value\":\"\"},{\"text\":\"聽知覺\",\"checked\":true,\"value\":\"\"},{\"text\":\"注意／執行功能\",\"checked\":true,\"value\":\"\"},{\"text\":\"過動／衝動\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"WCNWDRENLBOKDFBKBTLMAMMPLMAGCU\"}]"
+          }
+        ]
+      },
+      {
+        "title": "綜合建議",
+        "inputs": [
+          {
+            "index": 33,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "符合證明申請資格",
+            "options": [
+              { "text": "符合證明申請資格" },
+              { "text": "身心障礙證明" },
+              { "text": "重大傷病卡" },
+              { "text": "發展遲緩診斷證明書" }
+            ],
+            "value": "[{\"text\":\"符合證明申請資格\",\"checked\":true,\"value\":\"\"},{\"text\":\"身心障礙證明\",\"checked\":true,\"value\":\"\"},{\"text\":\"重大傷病卡\",\"checked\":true,\"value\":\"\"},{\"text\":\"發展遲緩診斷證明書\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "index": 34,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "追蹤評估諮詢",
+            "options": [
+              { "text": "追蹤評估諮詢" },
+              { "text": "門診追蹤" },
+              { "text": "門診追蹤：小兒神經科／小兒科" },
+              { "text": "門診追蹤：兒童青少年精神(兒童心智)科／精神科" },
+              { "text": "門診追蹤：復健科" },
+              { "text": "門診追蹤：其他", "hasInput": true },
+              { "text": "藥物治療" },
+              { "text": "手術治療" },
+              { "text": "輔具配置" },
+              { "text": "聽力檢查" },
+              { "text": "視力檢查" },
+              { "text": "牙齒矯正" },
+              { "text": "遺傳諮詢" },
+              { "text": "營養諮詢" },
+              { "text": "護理諮詢" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"追蹤評估諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"門診追蹤\",\"checked\":true,\"value\":\"\"},{\"text\":\"門診追蹤：小兒神經科／小兒科\",\"checked\":true,\"value\":\"\"},{\"text\":\"門診追蹤：兒童青少年精神(兒童心智)科／精神科\",\"checked\":true,\"value\":\"\"},{\"text\":\"門診追蹤：復健科\",\"checked\":true,\"value\":\"\"},{\"text\":\"門診追蹤：其他\",\"checked\":true,\"hasInput\":true,\"value\":\"LUVREAWTFXLVEXBQWTLAALXFBFAPBW\"},{\"text\":\"藥物治療\",\"checked\":true,\"value\":\"\"},{\"text\":\"手術治療\",\"checked\":true,\"value\":\"\"},{\"text\":\"輔具配置\",\"checked\":true,\"value\":\"\"},{\"text\":\"聽力檢查\",\"checked\":true,\"value\":\"\"},{\"text\":\"視力檢查\",\"checked\":true,\"value\":\"\"},{\"text\":\"牙齒矯正\",\"checked\":true,\"value\":\"\"},{\"text\":\"遺傳諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"營養諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"護理諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"USKOBBOMUTGUTDANIFNWGVVZOIEVAK\"}]"
+          },
+          {
+            "index": 35,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "相關療育與資源",
+            "options": [
+              { "text": "相關療育與資源" },
+              { "text": "物理治療" },
+              { "text": "職能治療" },
+              { "text": "語言溝通治療" },
+              { "text": "吞嚥治療" },
+              { "text": "聽能復健" },
+              { "text": "認知訓練" },
+              { "text": "行為訓練" },
+              { "text": "社交互動技巧訓練" },
+              { "text": "心理諮商與治療" },
+              { "text": "親職教育" },
+              { "text": "家庭處遇" },
+              { "text": "聽覺輔具驗配" },
+              { "text": "視力矯治" },
+              { "text": "福利諮詢" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"相關療育與資源\",\"checked\":true,\"value\":\"\"},{\"text\":\"物理治療\",\"checked\":true,\"value\":\"\"},{\"text\":\"職能治療\",\"checked\":true,\"value\":\"\"},{\"text\":\"語言溝通治療\",\"checked\":true,\"value\":\"\"},{\"text\":\"吞嚥治療\",\"checked\":true,\"value\":\"\"},{\"text\":\"聽能復健\",\"checked\":true,\"value\":\"\"},{\"text\":\"認知訓練\",\"checked\":true,\"value\":\"\"},{\"text\":\"行為訓練\",\"checked\":true,\"value\":\"\"},{\"text\":\"社交互動技巧訓練\",\"checked\":true,\"value\":\"\"},{\"text\":\"心理諮商與治療\",\"checked\":true,\"value\":\"\"},{\"text\":\"親職教育\",\"checked\":true,\"value\":\"\"},{\"text\":\"家庭處遇\",\"checked\":true,\"value\":\"\"},{\"text\":\"聽覺輔具驗配\",\"checked\":true,\"value\":\"\"},{\"text\":\"視力矯治\",\"checked\":true,\"value\":\"\"},{\"text\":\"福利諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"KJKRGQWYEXMVCFCOBRWRPKRATNVITX\"}]"
+          }
+        ]
+      }
+    ],
+    "inputs": [],
+    "data": {
+      "主訴與就診問題_主訴": "<p>HTNDYXVVUZYYZXCAINBHGKMDEOIWJB</p>\n\n<p>CMGUKMTMYYPIVJLVFRWXEHVZLMCEOE</p>\n\n<p>RJMBRKCNUCNIRDJHEHTSQQQVNSJQGW</p>\n\n<p>BYLJZZGAURUVZNPCDGDETRIDKFJOHK</p>\n\n<p>GHGVHVJLEATBGBTDEPGPZJBZMIBXWA</p>\n",
+      "主訴與就診問題_就診問題": [
+        { "text": "生理", "checked": true, "value": "" },
+        { "text": "視力", "checked": true, "value": "" },
+        { "text": "聽覺功能", "checked": true, "value": "" },
+        { "text": "粗大動作", "checked": true, "value": "" },
+        { "text": "精細動作", "checked": true, "value": "" },
+        { "text": "認知", "checked": true, "value": "" },
+        { "text": "情緒", "checked": true, "value": "" },
+        { "text": "行為", "checked": true, "value": "" },
+        { "text": "學習", "checked": true, "value": "" },
+        { "text": "社會適應", "checked": true, "value": "" },
+        { "text": "人際互動", "checked": true, "value": "" },
+        { "text": "感覺統合", "checked": true, "value": "" },
+        { "text": "語言溝通", "checked": true, "value": "" },
+        { "text": "吞嚥障礙", "checked": true, "value": "" },
+        { "text": "注意力", "checked": true, "value": "" },
+        { "text": "活動量", "checked": true, "value": "" },
+        { "text": "衝動性", "checked": true, "value": "" },
+        {
+          "text": "日常活動功能(請註明)",
+          "checked": true,
+          "hasInput": true,
+          "value": "KYLVXTUXWMOBRHYHHKRFWQWBRSDRQL"
+        },
+        { "text": "遺傳諮詢", "checked": true, "value": "" },
+        { "text": "開立(更新)證明", "checked": true, "value": "" },
+        { "text": "輔具需求", "checked": true, "value": "" },
+        { "text": "追蹤評估", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "NZAAJLQKEGKJYZOCLAFTOHFERANKES"
+        }
+      ],
+      "團隊評估總結_兒童心智評估": "<p>KFBTBUWQNGSFIZXUFDBZXBEGSABBBC</p>\n\n<p>SLHEFOOYIJFDBPGGGIIJGPLNEERWYZ</p>\n\n<p>RCUFLSINVWLJGXYAFQOBTZAWWEHOSL</p>\n\n<p>PSNUZZUMDAJPVSOKPQXWCVAFIXJVEH</p>\n\n<p>EOIZGRLQOLLHLEJBSCBKXNLWEJVJUM</p>\n",
+      "團隊評估總結_小兒神經評估": "<p>WYTJLATDQDYUXLRMDPWAOUZSKLHBCE</p>\n\n<p>NGIBBCJENLQBSPVOPOQUMNOGXFYZFK</p>\n\n<p>UNDKWQBASCNBVEBYHUAMDBVDLFZQHA</p>\n\n<p>ZDNICNTKGDNAQQBNNYISRNPGFSSHAD</p>\n\n<p>TMVWSASLDGXINBVVGCYPYFLKEUUTCR</p>\n",
+      "團隊評估總結_小兒復健評估": "<p>XYFKYGCEXSTNKKEILEGLVMVWCRMTSZ</p>\n\n<p>RAUGLZJBIQDXPMSUQVQQTVOJYOMXKC</p>\n\n<p>ERQYZRZCTBRKRRBTCLHRADHWOGQVRC</p>\n\n<p>RPBTQRLHWJKXBGELXNMASEOUJBDTKV</p>\n\n<p>KVEEXYDRVMQGAQQMXHQNPSQKKHXYNU</p>\n",
+      "團隊評估總結_臨床心理評估": "<p>NADFSQKPWRWWKBMSEFQDFXMQALWOUI</p>\n\n<p>RJJSAZQJEIZCUJZDAIFOAOAWXSTWMH</p>\n\n<p>BXVACVCKEHGRSSHTSQXBFPOGXVZGBQ</p>\n\n<p>FGQVOYNEEQPWDNBNUQTDXLORVKTKVD</p>\n\n<p>RQNAIKNZIYHBLBGKUGMUYLVCASNHQM</p>\n",
+      "團隊評估總結_職能治療評估": "<p>LJOFAASZKNUQLLUOCNHJJVCJHTIQBY</p>\n\n<p>VUEPCNYNQLJEVOHHKSUDIKKDAOADIW</p>\n\n<p>BWVGYXIXGZYKOFFMZNJZXLBFGFGJKS</p>\n\n<p>JLQTEYUEJJCWZTZYCBSPMPWDUHHGMT</p>\n\n<p>HPXGSDSXYYCCTVXQJTUZWOAQCMUJEC</p>\n",
+      "團隊評估總結_物理治療評估": "<p>YDMTLYCBZGDNFEBYJFNJXIZMNGHFBM</p>\n\n<p>OJVGLBUBWHUQRGSTMMHKDWAILUMGPI</p>\n\n<p>LHQNGDTPFHUBWJGVBMTUGSRQPILOZU</p>\n\n<p>IWMVQCUMFWDYECZSCDKEWMTVQXGXZF</p>\n\n<p>OQFPYVJAUAVGPUUUKBCVYWKNIYUBYM</p>\n",
+      "團隊評估總結_社會工作評估": [
+        {
+          "text": "同意將兒童基本資料提供給「新北市政府兒童健康發展中心」以利提供早期療育資源服務",
+          "checked": false,
+          "value": ""
+        },
+        {
+          "text": "不同意，原因：擔心標籤化問題",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "不同意，原因：不瞭解通報後所能獲得之協助及資源",
+          "checked": false,
+          "value": ""
+        },
+        {
+          "text": "不同意，原因：擔憂個人資料洩密問題",
+          "checked": false,
+          "value": ""
+        },
+        {
+          "text": "不同意，原因：家庭功能尚佳，可自行連結資源",
+          "checked": false,
+          "value": ""
+        },
+        {
+          "text": "不同意，原因：家庭功能不彰，早療知能薄弱",
+          "checked": false,
+          "value": ""
+        }
+      ],
+      "團隊評估總結_社會工作評估內容": "<p>MRTGOQQOGCIRMMVASKFPMORGADTNDM</p>\n\n<p>CYIGADRXPSMSJQWOYOMXYCSXWRUOQU</p>\n\n<p>QTYSHXNZJWCKLKNEYMJBJORQNOMKXV</p>\n\n<p>SCBNWLERPOWQRLISDTJCFYLQYXRWYI</p>\n\n<p>EUFKPFXIWWSPAQADMGLEKSEQGRYGCU</p>\n",
+      "團隊評估總結_溝通語言評估": "<p>YJVUCKMZTGHHTBDYBGANRTQYQKWBAR</p>\n\n<p>LHKCVWKKQFZFUDNAKVSSBQVZDCZOLO</p>\n\n<p>WNAVXKAJCEZBLHIMEHIXGHAYAPUJGF</p>\n\n<p>XNFWUTBSXICRRNANKGFUSMGAFEKEDW</p>\n\n<p>MKUYMFEYZWKAKXPPHIIFAIFRUBUCTC</p>\n",
+      "團隊評估總結_耳鼻喉評估": "<p>DENMMUEFCTYYGJUXRUTBSSJXUHIHQY</p>\n\n<p>RPPSQXNPVFXNXNJYFZCSHZSPBSRWHW</p>\n\n<p>NXFSYTPOCBEAQGZRAOTKWIZOAMUUYK</p>\n\n<p>ORKPKZYABOSIIWICXXIFCLCOVPMWPB</p>\n\n<p>IJNXMIXRTMLDXFIVVIYYBGXHECGUWK</p>\n",
+      "團隊評估總結_其它科別評估": "<p>SONFHSLYLEPRTKAUTZKSDKBIGZCRAU</p>\n\n<p>FGZTWCHMKIHRSDSJQMOBZEJQBQNGBE</p>\n\n<p>FYEUKCGBEMWHLNTPEIQWHYHRRNZLKA</p>\n\n<p>RWJQYNJEAWXCITLWBSXKJGUMAMRAJJ</p>\n\n<p>LVJSQRFAXWHRBCFLFLQIFEPCDSTMGD</p>\n",
+      "團隊評估總結_小兒遺傳內分泌": "<p>RSSYAJIDCNMJHLMLSSANLSBTKJYJTF</p>\n\n<p>QEHYQNIIFADZGRSHEKLKRCHLRXLOTH</p>\n\n<p>SGMOXTEIXJYTGSEVOQCFQZCAOSVTBR</p>\n\n<p>FWADCUCENIMXYZKPQUMDRUKHOIQBEA</p>\n\n<p>WBJELYCHRVIGLLKQLDANMGKBBTGJUK</p>\n",
+      "團隊評估總結_聽力評估(兒童聽力)": "<p>FQLZKRFQCLWDDTLMCAWVJYSOMZKSDV</p>\n\n<p>KOCOFDAHOYRKVBSQEINUFBGGDLMWNO</p>\n\n<p>LWBBHUXQWRPQPQCNAKZZOXKXJIXUGB</p>\n\n<p>FQVJHWCXEINLBOMBQCFAZPEVSDUVSS</p>\n\n<p>DZCAFCYUNILWLAWNMMBQEOXFBGEOFL</p>\n",
+      "團隊評估總結_視力評估(兒童視力)": "<p>GQEKBUWCZHAUCIAFGWIAHNLZUGXLWO</p>\n\n<p>VUAWIVTDFUIMNROJMCMOOGARJVKXCG</p>\n\n<p>MCUXRNOWUPWRXIKXUDPMAQNLWQXQSR</p>\n\n<p>BXHDNIMAEACPQSEXWKWKPVEXWGUGVW</p>\n\n<p>WGCQQDPVKVTBNTXNTGOLNKDAKGYCYK</p>\n",
+      "團隊評估總結_特殊教育評估(教育評量)": "<p>LTGVODYCAAVBMAWRCJDHCJASIDWFXK</p>\n\n<p>OAXNSKWXUGSHIJEPMRXWPJHZVAGCPX</p>\n\n<p>UCQDZGIKHPDKRTHFBTUEAYTREFNRWJ</p>\n\n<p>TTEUQCZRVCKVXHGQFOUYSHSTBNGXQE</p>\n\n<p>BVMSGLHBGAAVJLFDEQOWUTKNINHMHD</p>\n",
+      "團隊評估總結_團隊評估建議": "<p>VNAYHXLOCRSWGFEGIUCHKQADCLBYFF</p>\n\n<p>BDWHMYBEGEPKMDGTROMGVASNMZDLDJ</p>\n\n<p>SFJZEFNZHGURPFMVRRMBPTAFJORDMM</p>\n\n<p>AJWPSOPUPSMFBAUWIMDYEJBGXMMWVF</p>\n\n<p>XAOZANXQXKRLWLUJSUEERNGRVLSZUH</p>\n",
+      "疾病診斷_疑似": "<p>GGMEMUAJLSZRNAMXDKIAVLERGUOBQC</p>\n\n<p>HFTWJNSTISYVYQJUCOLYCEGXSBXMZQ</p>\n\n<p>VZKAOLWXGYPMEZDNPFRVQQTQWEZVRG</p>\n\n<p>WQSMLUNWTUZCKZBZHZSZHJDQIGFIXG</p>\n\n<p>YQBUFJPFWLOYTFFDWRKCNKAFEJNFMN</p>\n",
+      "疾病診斷_確定": "<p>PPXDZVIBKAZOHVEFDZZVBMVSEMOAZQ</p>\n\n<p>ZIYGSXDCWKZDTRZRQYDJCZIEUZXHWE</p>\n\n<p>JBTMJOHISDZRBPIYGBSALWXFLLVZPK</p>\n\n<p>FCWIOVWXDSVQVVHKQPLCLINAOJZPHG</p>\n\n<p>IJJBUIHRLNHFKYSCMKZMQQPEBJJEXZ</p>\n",
+      "評估結果_知覺動作發展": [
+        { "text": "無異常", "checked": true, "value": "" },
+        { "text": "未進行此項評估", "checked": false, "value": "" },
+        { "text": "臨界發展遲緩", "checked": false, "value": "" },
+        { "text": "發展遲緩", "checked": false, "value": "" }
+      ],
+      "評估結果_知覺動作發展結果": [
+        { "text": "粗大動作", "checked": true, "value": "" },
+        { "text": "精細動作", "checked": true, "value": "" },
+        { "text": "感覺統合失調", "checked": true, "value": "" },
+        { "text": "動作靈巧與協調度異常", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "QCFHSRLCGHPOLHRNAHPMGGYILPNKAL"
+        }
+      ],
+      "評估結果_語言發展": [
+        { "text": "無異常", "checked": false, "value": "" },
+        { "text": "未進行此項評估", "checked": true, "value": "" },
+        { "text": "臨界發展遲緩", "checked": false, "value": "" },
+        { "text": "發展遲緩", "checked": false, "value": "" }
+      ],
+      "評估結果_語言發展結果": [
+        { "text": "說話異常", "checked": true, "value": "" },
+        { "text": "語言理解", "checked": true, "value": "" },
+        { "text": "語言表達", "checked": true, "value": "" },
+        { "text": "混合性語言", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "ZIUIBSKKUCHHTFRFYLEEJMJIZSARGO"
+        }
+      ],
+      "評估結果_認知發展": [
+        { "text": "無異常", "checked": false, "value": "" },
+        { "text": "未進行此項評估", "checked": true, "value": "" },
+        { "text": "臨界發展遲緩", "checked": false, "value": "" },
+        { "text": "發展遲緩", "checked": false, "value": "" }
+      ],
+      "評估結果_認知發展結果": [
+        { "text": "認知全面遲緩", "checked": true, "value": "" },
+        { "text": "內部能力表現不一致", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "GMBCTGQMOAFOUQALRIWOKUWWBPDNYV"
+        }
+      ],
+      "評估結果_社會情緒發展": [
+        { "text": "無異常", "checked": true, "value": "" },
+        { "text": "未進行此項評估", "checked": false, "value": "" },
+        { "text": "臨界發展遲緩", "checked": false, "value": "" },
+        { "text": "發展遲緩", "checked": false, "value": "" }
+      ],
+      "評估結果_社會情緒發展結果": [
+        { "text": "情緒表現", "checked": true, "value": "" },
+        { "text": "環境適應", "checked": true, "value": "" },
+        { "text": "人際互動", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "JOTJDWQFOMKEYIBZMQIGEQAPMOUSTM"
+        }
+      ],
+      "評估結果_感官功能": [
+        { "text": "無異常", "checked": true, "value": "" },
+        { "text": "未進行此項評估", "checked": true, "value": "" },
+        { "text": "異常-聽障", "checked": true, "value": "" },
+        { "text": "異常-視障", "checked": true, "value": "" }
+      ],
+      "評估結果_感官功能結果": [
+        { "text": "聽力", "checked": true, "value": "" },
+        {
+          "text": "聽力-左__分貝",
+          "checked": true,
+          "hasInput": true,
+          "value": "DYZWFFWIUOAEAGDIXUQFRCXHSHCHYN"
+        },
+        {
+          "text": "聽力-右__分貝",
+          "checked": true,
+          "hasInput": true,
+          "value": "UQYZVYOIMNEXPACXGANPILQTTRQYMH"
+        },
+        { "text": "視力", "checked": true, "value": "" },
+        {
+          "text": "視力-左__",
+          "checked": true,
+          "hasInput": true,
+          "value": "DKWKOICUHAHMBXHTUSOVRXNCOTFHMI"
+        },
+        {
+          "text": "視力-右__",
+          "checked": true,
+          "hasInput": true,
+          "value": "NBNMMOFINTRAWFKEDPAETLALYPKJTW"
+        }
+      ],
+      "評估結果_其他發展": [
+        { "text": "無異常", "checked": true, "value": "" },
+        { "text": "未進行此項評估", "checked": true, "value": "" },
+        { "text": "臨界發展遲緩", "checked": true, "value": "" },
+        { "text": "發展遲緩", "checked": true, "value": "" }
+      ],
+      "評估結果_其他發展結果": [
+        { "text": "吞嚥功能", "checked": true, "value": "" },
+        { "text": "日常生活功能", "checked": true, "value": "" },
+        { "text": "視知覺", "checked": true, "value": "" },
+        { "text": "聽知覺", "checked": true, "value": "" },
+        { "text": "注意／執行功能", "checked": true, "value": "" },
+        { "text": "過動／衝動", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "WCNWDRENLBOKDFBKBTLMAMMPLMAGCU"
+        }
+      ],
+      "綜合建議_符合證明申請資格": [
+        { "text": "符合證明申請資格", "checked": true, "value": "" },
+        { "text": "身心障礙證明", "checked": true, "value": "" },
+        { "text": "重大傷病卡", "checked": true, "value": "" },
+        { "text": "發展遲緩診斷證明書", "checked": true, "value": "" }
+      ],
+      "綜合建議_追蹤評估諮詢": [
+        { "text": "追蹤評估諮詢", "checked": true, "value": "" },
+        { "text": "門診追蹤", "checked": true, "value": "" },
+        {
+          "text": "門診追蹤：小兒神經科／小兒科",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "門診追蹤：兒童青少年精神(兒童心智)科／精神科",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "門診追蹤：復健科", "checked": true, "value": "" },
+        {
+          "text": "門診追蹤：其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "LUVREAWTFXLVEXBQWTLAALXFBFAPBW"
+        },
+        { "text": "藥物治療", "checked": true, "value": "" },
+        { "text": "手術治療", "checked": true, "value": "" },
+        { "text": "輔具配置", "checked": true, "value": "" },
+        { "text": "聽力檢查", "checked": true, "value": "" },
+        { "text": "視力檢查", "checked": true, "value": "" },
+        { "text": "牙齒矯正", "checked": true, "value": "" },
+        { "text": "遺傳諮詢", "checked": true, "value": "" },
+        { "text": "營養諮詢", "checked": true, "value": "" },
+        { "text": "護理諮詢", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "USKOBBOMUTGUTDANIFNWGVVZOIEVAK"
+        }
+      ],
+      "綜合建議_相關療育與資源": [
+        { "text": "相關療育與資源", "checked": true, "value": "" },
+        { "text": "物理治療", "checked": true, "value": "" },
+        { "text": "職能治療", "checked": true, "value": "" },
+        { "text": "語言溝通治療", "checked": true, "value": "" },
+        { "text": "吞嚥治療", "checked": true, "value": "" },
+        { "text": "聽能復健", "checked": true, "value": "" },
+        { "text": "認知訓練", "checked": true, "value": "" },
+        { "text": "行為訓練", "checked": true, "value": "" },
+        { "text": "社交互動技巧訓練", "checked": true, "value": "" },
+        { "text": "心理諮商與治療", "checked": true, "value": "" },
+        { "text": "親職教育", "checked": true, "value": "" },
+        { "text": "家庭處遇", "checked": true, "value": "" },
+        { "text": "聽覺輔具驗配", "checked": true, "value": "" },
+        { "text": "視力矯治", "checked": true, "value": "" },
+        { "text": "福利諮詢", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "KJKRGQWYEXMVCFCOBRWRPKRATNVITX"
+        }
+      ]
+    }
+  }
+}

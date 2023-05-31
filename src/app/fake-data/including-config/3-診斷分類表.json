@@ -1,0 +1,866 @@
+{
+  "data": {
+    "title": "診斷分類表",
+    "groups": [
+      {
+        "title": "病因分類",
+        "inputs": [
+          {
+            "index": 1,
+            "isRequired": false,
+            "type": "LikertScale",
+            "label": "病因分類",
+            "likertOptions": ["無", "確定", "可能"],
+            "options": [
+              { "text": "神經系統缺氧/缺血" },
+              { "text": "神經系統感染" },
+              { "text": "腦中風(缺血/出血)" },
+              { "text": "神經系統外傷" },
+              { "text": "染色體/基因" },
+              { "text": "先天症候群", "hasInput": true },
+              { "text": "代謝/內分泌障礙" },
+              { "text": "退化性疾病" },
+              { "text": "腫瘤" },
+              { "text": "藥物/毒物" },
+              { "text": "兒童虐待及忽略" },
+              { "text": "次發於慢性疾病" },
+              { "text": "早產/低出生體重兒" },
+              { "text": "家庭/社區/心理社會環境" },
+              { "text": "視力障礙" },
+              { "text": "聽力障礙" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"神經系統缺氧/缺血\",\"checked\":false,\"value\":\"JDQBYCSIAAXERZAYBYPEENRGMFMAMN\",\"selectedValue\":\"確定\",\"likertOptions\":[{\"text\":\"無\",\"checked\":false},{\"text\":\"確定\",\"checked\":true},{\"text\":\"可能\",\"checked\":false}]},{\"text\":\"神經系統感染\",\"checked\":false,\"value\":\"OFQIKRDKXJHNSGLFVCZJJRPOMVAOQE\",\"selectedValue\":\"無\",\"likertOptions\":[{\"text\":\"無\",\"checked\":true},{\"text\":\"確定\",\"checked\":false},{\"text\":\"可能\",\"checked\":false}]},{\"text\":\"腦中風(缺血/出血)\",\"checked\":false,\"value\":\"BBGEHBUJFJZKWLJJJXQKMQUGGQGCDN\",\"selectedValue\":\"確定\",\"likertOptions\":[{\"text\":\"無\",\"checked\":false},{\"text\":\"確定\",\"checked\":true},{\"text\":\"可能\",\"checked\":false}]},{\"text\":\"神經系統外傷\",\"checked\":false,\"value\":\"YJOXYUGSGXHIMBJSPGBKQXMVSOOSOS\",\"selectedValue\":\"確定\",\"likertOptions\":[{\"text\":\"無\",\"checked\":false},{\"text\":\"確定\",\"checked\":true},{\"text\":\"可能\",\"checked\":false}]},{\"text\":\"染色體/基因\",\"checked\":false,\"value\":\"VWIJPAZSRHNJXIYAVOVRPVMGNKRWYC\",\"selectedValue\":\"無\",\"likertOptions\":[{\"text\":\"無\",\"checked\":true},{\"text\":\"確定\",\"checked\":false},{\"text\":\"可能\",\"checked\":false}]},{\"text\":\"先天症候群\",\"checked\":false,\"hasInput\":true,\"value\":\"VEAQNFDTEXINGNWKKBLCPWHRQSFESU\",\"selectedValue\":\"可能\",\"likertOptions\":[{\"text\":\"無\",\"checked\":false},{\"text\":\"確定\",\"checked\":false},{\"text\":\"可能\",\"checked\":true}]},{\"text\":\"代謝/內分泌障礙\",\"checked\":false,\"value\":\"RCBIEPZWWHOGXYEXLTXGYINQKHNKJZ\",\"selectedValue\":\"可能\",\"likertOptions\":[{\"text\":\"無\",\"checked\":false},{\"text\":\"確定\",\"checked\":false},{\"text\":\"可能\",\"checked\":true}]},{\"text\":\"退化性疾病\",\"checked\":false,\"value\":\"NFVQALPEVKMGQSQNGGLDMKPDRQWQFK\",\"selectedValue\":\"確定\",\"likertOptions\":[{\"text\":\"無\",\"checked\":false},{\"text\":\"確定\",\"checked\":true},{\"text\":\"可能\",\"checked\":false}]},{\"text\":\"腫瘤\",\"checked\":false,\"value\":\"WCCYVSWTUKDAQPLCGZNAFTGIVSGYMB\",\"selectedValue\":\"確定\",\"likertOptions\":[{\"text\":\"無\",\"checked\":false},{\"text\":\"確定\",\"checked\":true},{\"text\":\"可能\",\"checked\":false}]},{\"text\":\"藥物/毒物\",\"checked\":false,\"value\":\"GFMYDGHVVOEUJTGWQHSVETGZTGUFSE\",\"selectedValue\":\"可能\",\"likertOptions\":[{\"text\":\"無\",\"checked\":false},{\"text\":\"確定\",\"checked\":false},{\"text\":\"可能\",\"checked\":true}]},{\"text\":\"兒童虐待及忽略\",\"checked\":false,\"value\":\"HUYEDIVLGFHZMWIMFYPINIIQKEYAUW\",\"selectedValue\":\"無\",\"likertOptions\":[{\"text\":\"無\",\"checked\":true},{\"text\":\"確定\",\"checked\":false},{\"text\":\"可能\",\"checked\":false}]},{\"text\":\"次發於慢性疾病\",\"checked\":false,\"value\":\"DKVTRCRDZOOYTKHGYSIQVQUKIPAWKV\",\"selectedValue\":\"確定\",\"likertOptions\":[{\"text\":\"無\",\"checked\":false},{\"text\":\"確定\",\"checked\":true},{\"text\":\"可能\",\"checked\":false}]},{\"text\":\"早產/低出生體重兒\",\"checked\":false,\"value\":\"NXKDYFCYVOCDGCORZHVIRLDGKXTTXZ\",\"selectedValue\":\"可能\",\"likertOptions\":[{\"text\":\"無\",\"checked\":false},{\"text\":\"確定\",\"checked\":false},{\"text\":\"可能\",\"checked\":true}]},{\"text\":\"家庭/社區/心理社會環境\",\"checked\":false,\"value\":\"STUFVEALERQFRHAVUQCVEVUKORVMCH\",\"selectedValue\":\"可能\",\"likertOptions\":[{\"text\":\"無\",\"checked\":false},{\"text\":\"確定\",\"checked\":false},{\"text\":\"可能\",\"checked\":true}]},{\"text\":\"視力障礙\",\"checked\":false,\"value\":\"QKSYSMPSDVAEIFXKMRZYVYVTEXEVWO\",\"selectedValue\":\"無\",\"likertOptions\":[{\"text\":\"無\",\"checked\":true},{\"text\":\"確定\",\"checked\":false},{\"text\":\"可能\",\"checked\":false}]},{\"text\":\"聽力障礙\",\"checked\":false,\"value\":\"JSUYEEXFCKCBZHBAAYWMDRBMTPSBXP\",\"selectedValue\":\"無\",\"likertOptions\":[{\"text\":\"無\",\"checked\":true},{\"text\":\"確定\",\"checked\":false},{\"text\":\"可能\",\"checked\":false}]},{\"text\":\"其他\",\"checked\":false,\"hasInput\":true,\"value\":\"BODVOYMGOOCLKELYDGAXCTBCHKQMRW\",\"selectedValue\":\"可能\",\"likertOptions\":[{\"text\":\"無\",\"checked\":false},{\"text\":\"確定\",\"checked\":false},{\"text\":\"可能\",\"checked\":true}]}]"
+          },
+          {
+            "index": 2,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "不知原因",
+            "options": [{ "text": "隱因性" }, { "text": "不明原因" }],
+            "value": "[{\"text\":\"隱因性\",\"checked\":true,\"value\":\"\"},{\"text\":\"不明原因\",\"checked\":true,\"value\":\"\"}]"
+          }
+        ]
+      },
+      {
+        "title": "相關疾病",
+        "description": "",
+        "inputs": [
+          {
+            "title": "神經相關疾病",
+            "index": 3,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "神經相關疾病",
+            "options": [
+              { "text": "無" },
+              { "text": "有" },
+              { "text": "腦性麻痺" },
+              { "text": "腦膜炎/腦炎" },
+              { "text": "周邊神經疾病" },
+              { "text": "腦發育畸形" },
+              { "text": "水腦" },
+              { "text": "癲癇" },
+              { "text": "脊髓畸形" },
+              { "text": "神經肌肉疾患" },
+              { "text": "神經退化性疾病" },
+              { "text": "神經皮膚症候群" },
+              { "text": "神經發展性障礙" },
+              { "text": "腦瘤" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"無\",\"checked\":true,\"value\":\"\"},{\"text\":\"有\",\"checked\":true,\"value\":\"\"},{\"text\":\"腦性麻痺\",\"checked\":true,\"value\":\"\"},{\"text\":\"腦膜炎/腦炎\",\"checked\":true,\"value\":\"\"},{\"text\":\"周邊神經疾病\",\"checked\":true,\"value\":\"\"},{\"text\":\"腦發育畸形\",\"checked\":true,\"value\":\"\"},{\"text\":\"水腦\",\"checked\":true,\"value\":\"\"},{\"text\":\"癲癇\",\"checked\":true,\"value\":\"\"},{\"text\":\"脊髓畸形\",\"checked\":true,\"value\":\"\"},{\"text\":\"神經肌肉疾患\",\"checked\":true,\"value\":\"\"},{\"text\":\"神經退化性疾病\",\"checked\":true,\"value\":\"\"},{\"text\":\"神經皮膚症候群\",\"checked\":true,\"value\":\"\"},{\"text\":\"神經發展性障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"腦瘤\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"JREIUAIVKSENKOSQETPLHKGAZENRGC\"}]"
+          },
+          {
+            "title": "神經相關疾病",
+            "index": 4,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "附註",
+            "value": "<p>NDUTMZXCKDBMKPJGVAJBWFBNIAOTNQ</p>\n\n<p>TEJEQAFHFTMOJYPQLPTPMOCZZKPOBX</p>\n\n<p>SAXEWPOYGONROOVQYHAGLSRABZTMCI</p>\n\n<p>HWXARMWLVHIZSUPDEACCGZLCLZXXUK</p>\n\n<p>EXPQVNPDVVPSQIYAZQYBSXMIBBUCVB</p>\n"
+          },
+          {
+            "title": "感官異常（耳部問題）",
+            "index": 5,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "感官異常（耳部問題）",
+            "options": [
+              { "text": "無" },
+              { "text": "有" },
+              { "text": "聽力障礙" },
+              { "text": "傳導性" },
+              { "text": "傳導性：左耳__分貝", "hasInput": true },
+              { "text": "傳導性：右耳__分貝", "hasInput": true },
+              { "text": "神經性" },
+              { "text": "神經性：左耳__分貝", "hasInput": true },
+              { "text": "神經性：右耳__分貝", "hasInput": true },
+              { "text": "混合性" },
+              { "text": "混合性：左耳__分貝", "hasInput": true },
+              { "text": "混合性：右耳__分貝", "hasInput": true },
+              { "text": "中樞聽覺障礙APD" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"無\",\"checked\":true,\"value\":\"\"},{\"text\":\"有\",\"checked\":true,\"value\":\"\"},{\"text\":\"聽力障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"傳導性\",\"checked\":true,\"value\":\"\"},{\"text\":\"傳導性：左耳__分貝\",\"checked\":true,\"hasInput\":true,\"value\":\"WZSFDSQKGRGHTISUUOZAWYNTNVHOJI\"},{\"text\":\"傳導性：右耳__分貝\",\"checked\":true,\"hasInput\":true,\"value\":\"BNNRQTYUCOGRVLBFSTEKNKCPRRMUHU\"},{\"text\":\"神經性\",\"checked\":true,\"value\":\"\"},{\"text\":\"神經性：左耳__分貝\",\"checked\":true,\"hasInput\":true,\"value\":\"CVOAUXBJFHOASQKMRUCPBKFXROXWCR\"},{\"text\":\"神經性：右耳__分貝\",\"checked\":true,\"hasInput\":true,\"value\":\"SBSNYFGYNCALWNPHFZZMAESKOGHYNE\"},{\"text\":\"混合性\",\"checked\":true,\"value\":\"\"},{\"text\":\"混合性：左耳__分貝\",\"checked\":true,\"hasInput\":true,\"value\":\"HCMNMMXJMBFKDOOJYJZOSRISCKXHTG\"},{\"text\":\"混合性：右耳__分貝\",\"checked\":true,\"hasInput\":true,\"value\":\"XVOLUGGGBLVZHDXXMDBFXYWNNOYIQR\"},{\"text\":\"中樞聽覺障礙APD\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"KNARLOZODTGPJCFJYFKHFREMJJVUFB\"}]"
+          },
+          {
+            "title": "感官異常（眼睛問題）",
+            "index": 6,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "感官異常（眼睛問題）",
+            "options": [
+              { "text": "無" },
+              { "text": "有" },
+              { "text": "視力不良" },
+              { "text": "屈光異常（中度或重度異常）" },
+              { "text": "遠視" },
+              { "text": "遠視：左眼", "hasInput": true },
+              { "text": "遠視：右眼", "hasInput": true },
+              { "text": "近視" },
+              { "text": "近視：左眼", "hasInput": true },
+              { "text": "近視：右眼", "hasInput": true },
+              { "text": "散光" },
+              { "text": "散光：左眼", "hasInput": true },
+              { "text": "散光：右眼", "hasInput": true },
+              { "text": "雙眼視功能不良" },
+              { "text": "斜視" },
+              { "text": "雙眼視功能不良：斜視-內斜" },
+              { "text": "雙眼視功能不良：斜視-外斜" },
+              { "text": "雙眼視功能不良：斜視-上下斜視" },
+              { "text": "雙眼視功能不良：其他視功能異常-其他視功能異常" },
+              { "text": "雙眼視功能不良：其他視功能異常-調節力異常" },
+              { "text": "雙眼視功能不良：其他視功能異常-內聚外展失衡" },
+              { "text": "雙眼視功能不良：其他視功能異常-影像抑制" },
+              { "text": "雙眼視功能不良：其他視功能異常-立體感不良" },
+              {
+                "text": "雙眼視功能不良：其他視功能異常-診斷",
+                "hasInput": true
+              },
+              { "text": "弱視" },
+              { "text": "弱視：左眼" },
+              { "text": "弱視：右眼" },
+              { "text": "弱視：雙眼" },
+              { "text": "弱視原因", "hasInput": true },
+              { "text": "眼疾" },
+              { "text": "遮蔽或介質模糊" },
+              { "text": "眼疾：遮蔽或介質模糊-眼瞼下垂" },
+              { "text": "眼疾：遮蔽或介質模糊-角膜混濁" },
+              { "text": "眼疾：遮蔽或介質模糊-白內障" },
+              { "text": "眼疾：遮蔽或介質模糊-其他", "hasInput": true },
+              { "text": "眼疾：視網膜病變" },
+              { "text": "眼疾：視神經萎縮" },
+              { "text": "眼疾：其他", "hasInput": true },
+              { "text": "中樞性視力障礙" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"無\",\"checked\":true,\"value\":\"\"},{\"text\":\"有\",\"checked\":true,\"value\":\"\"},{\"text\":\"視力不良\",\"checked\":true,\"value\":\"\"},{\"text\":\"屈光異常（中度或重度異常）\",\"checked\":true,\"value\":\"\"},{\"text\":\"遠視\",\"checked\":true,\"value\":\"\"},{\"text\":\"遠視：左眼\",\"checked\":true,\"hasInput\":true,\"value\":\"TGONNSCDREIJHQGLPQRUBBMUMSPDUH\"},{\"text\":\"遠視：右眼\",\"checked\":true,\"hasInput\":true,\"value\":\"GDHHPWXOBLQOHWULLPAWYTTYXCCVNO\"},{\"text\":\"近視\",\"checked\":true,\"value\":\"\"},{\"text\":\"近視：左眼\",\"checked\":true,\"hasInput\":true,\"value\":\"XKKEXAPXPXQYNTJDXNYTIZJCGEFFPI\"},{\"text\":\"近視：右眼\",\"checked\":true,\"hasInput\":true,\"value\":\"WZGDTHKKZOIVKRHHCSDBFVJIAFCFNG\"},{\"text\":\"散光\",\"checked\":true,\"value\":\"\"},{\"text\":\"散光：左眼\",\"checked\":true,\"hasInput\":true,\"value\":\"NTGZANYYATEZKKUQTLRGZOGNEZXFXG\"},{\"text\":\"散光：右眼\",\"checked\":true,\"hasInput\":true,\"value\":\"THBKKDJOJKULEXPHJAERHOFJTFCSYV\"},{\"text\":\"雙眼視功能不良\",\"checked\":true,\"value\":\"\"},{\"text\":\"斜視\",\"checked\":true,\"value\":\"\"},{\"text\":\"雙眼視功能不良：斜視-內斜\",\"checked\":true,\"value\":\"\"},{\"text\":\"雙眼視功能不良：斜視-外斜\",\"checked\":true,\"value\":\"\"},{\"text\":\"雙眼視功能不良：斜視-上下斜視\",\"checked\":true,\"value\":\"\"},{\"text\":\"雙眼視功能不良：其他視功能異常-其他視功能異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"雙眼視功能不良：其他視功能異常-調節力異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"雙眼視功能不良：其他視功能異常-內聚外展失衡\",\"checked\":true,\"value\":\"\"},{\"text\":\"雙眼視功能不良：其他視功能異常-影像抑制\",\"checked\":true,\"value\":\"\"},{\"text\":\"雙眼視功能不良：其他視功能異常-立體感不良\",\"checked\":true,\"value\":\"\"},{\"text\":\"雙眼視功能不良：其他視功能異常-診斷\",\"checked\":true,\"hasInput\":true,\"value\":\"COJGLOGVXZOTASHFMWSXMVVQGKIZVZ\"},{\"text\":\"弱視\",\"checked\":true,\"value\":\"\"},{\"text\":\"弱視：左眼\",\"checked\":true,\"value\":\"\"},{\"text\":\"弱視：右眼\",\"checked\":true,\"value\":\"\"},{\"text\":\"弱視：雙眼\",\"checked\":true,\"value\":\"\"},{\"text\":\"弱視原因\",\"checked\":true,\"hasInput\":true,\"value\":\"ASIVSMWIRCBXRPFHFNXYXJCUMCCELE\"},{\"text\":\"眼疾\",\"checked\":true,\"value\":\"\"},{\"text\":\"遮蔽或介質模糊\",\"checked\":true,\"value\":\"\"},{\"text\":\"眼疾：遮蔽或介質模糊-眼瞼下垂\",\"checked\":true,\"value\":\"\"},{\"text\":\"眼疾：遮蔽或介質模糊-角膜混濁\",\"checked\":true,\"value\":\"\"},{\"text\":\"眼疾：遮蔽或介質模糊-白內障\",\"checked\":true,\"value\":\"\"},{\"text\":\"眼疾：遮蔽或介質模糊-其他\",\"checked\":true,\"hasInput\":true,\"value\":\"JYMWCXAXEQLBOBSTKOVPIASVKSRIML\"},{\"text\":\"眼疾：視網膜病變\",\"checked\":true,\"value\":\"\"},{\"text\":\"眼疾：視神經萎縮\",\"checked\":true,\"value\":\"\"},{\"text\":\"眼疾：其他\",\"checked\":true,\"hasInput\":true,\"value\":\"YRXJASNHJPMDRKZKBRHQGMNMHRYZIR\"},{\"text\":\"中樞性視力障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"MHGRLCKCUMFTFOREJPCFJYXZYHOSBS\"}]"
+          },
+          {
+            "title": "遺傳、先天症候群",
+            "index": 7,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "遺傳、先天症候群",
+            "options": [
+              { "text": "無" },
+              { "text": "有" },
+              { "text": "唐氏症" },
+              { "text": "Prader-Willi氏症候群" },
+              { "text": "Goldenhar氏症候群" },
+              { "text": "胎兒酒精症候群" },
+              { "text": "Turner氏症候群" },
+              { "text": "Williams氏症候群" },
+              { "text": "軟骨發育不全症" },
+              { "text": "X染色體脆折症" },
+              { "text": "Angelman氏症候群（快樂布偶症候群）" },
+              { "text": "胎兒藥物症候群" },
+              { "text": "CATCH 22 症候群" },
+              { "text": "Rett氏症候群" },
+              { "text": "先天性代謝障礙" },
+              { "text": "Crouzon症候群" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"無\",\"checked\":true,\"value\":\"\"},{\"text\":\"有\",\"checked\":true,\"value\":\"\"},{\"text\":\"唐氏症\",\"checked\":true,\"value\":\"\"},{\"text\":\"Prader-Willi氏症候群\",\"checked\":true,\"value\":\"\"},{\"text\":\"Goldenhar氏症候群\",\"checked\":true,\"value\":\"\"},{\"text\":\"胎兒酒精症候群\",\"checked\":true,\"value\":\"\"},{\"text\":\"Turner氏症候群\",\"checked\":true,\"value\":\"\"},{\"text\":\"Williams氏症候群\",\"checked\":true,\"value\":\"\"},{\"text\":\"軟骨發育不全症\",\"checked\":true,\"value\":\"\"},{\"text\":\"X染色體脆折症\",\"checked\":true,\"value\":\"\"},{\"text\":\"Angelman氏症候群（快樂布偶症候群）\",\"checked\":true,\"value\":\"\"},{\"text\":\"胎兒藥物症候群\",\"checked\":true,\"value\":\"\"},{\"text\":\"CATCH 22 症候群\",\"checked\":true,\"value\":\"\"},{\"text\":\"Rett氏症候群\",\"checked\":true,\"value\":\"\"},{\"text\":\"先天性代謝障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"Crouzon症候群\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"RNEDMVRTYCOQEMTSMAIAJDNPRUYEHV\"}]"
+          },
+          {
+            "title": "心智發展方面",
+            "index": 8,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "心智發展方面",
+            "options": [
+              { "text": "無" },
+              { "text": "有" },
+              { "text": "混合性特定性發展障礙" },
+              { "text": "發展性協調障礙" },
+              { "text": "其他特定之發展遲緩" },
+              { "text": "非特定之發展遲緩" },
+              { "text": "注意力缺損過動症候群" },
+              {
+                "text": "注意力缺損過動症候群：注意力不足疾患，未提及過動行為"
+              },
+              { "text": "注意力缺損過動症候群：注意力不足疾患，伴有過動行為" },
+              { "text": "注意力缺損過動症候群：注意力缺失過動疾患，其他型" },
+              { "text": "廣泛性發展障礙" },
+              { "text": "廣泛性發展障礙：自閉症" },
+              { "text": "廣泛性發展障礙：兒童期崩解疾患" },
+              { "text": "廣泛性發展障礙：亞斯伯格症候群" },
+              { "text": "廣泛性發展障礙：其他廣泛性發展疾患" },
+              { "text": "廣泛性發展障礙：廣泛性發展疾患，未特定" },
+              { "text": "智能障礙" },
+              { "text": "智能障礙：輕度" },
+              { "text": "智能障礙：中度" },
+              { "text": "智能障礙：重度" },
+              { "text": "智能障礙：極重度" },
+              { "text": "智能障礙：其他", "hasInput": true },
+              { "text": "語言障礙" },
+              { "text": "語言障礙：表達" },
+              { "text": "語言障礙：理解" },
+              { "text": "語言障礙：混合" },
+              { "text": "語言障礙：語暢" },
+              { "text": "語言障礙：其他", "hasInput": true },
+              { "text": "聽障導致之語言或語文發展障礙" },
+              { "text": "特發於兒童及青少年期行為及情緒障礙" },
+              { "text": "特發於兒童及青少年期之過度焦慮症" },
+              { "text": "其他兒童期情緒疾患(包括悲傷及不快樂害羞內向)" },
+              { "text": "特發於兒童及青少年期之人際關係困難" },
+              { "text": "兒童期其他社會功能疾患" },
+              { "text": "對立反抗症" },
+              { "text": "選擇性之不語症" },
+              { "text": "睡眠障礙" },
+              { "text": "飲食障礙" },
+              { "text": "抽動症(Tic)" },
+              { "text": "遺尿症，遺屎症" },
+              { "text": "兒童虐待／疏忽" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"無\",\"checked\":true,\"value\":\"\"},{\"text\":\"有\",\"checked\":true,\"value\":\"\"},{\"text\":\"混合性特定性發展障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"發展性協調障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他特定之發展遲緩\",\"checked\":true,\"value\":\"\"},{\"text\":\"非特定之發展遲緩\",\"checked\":true,\"value\":\"\"},{\"text\":\"注意力缺損過動症候群\",\"checked\":true,\"value\":\"\"},{\"text\":\"注意力缺損過動症候群：注意力不足疾患，未提及過動行為\",\"checked\":true,\"value\":\"\"},{\"text\":\"注意力缺損過動症候群：注意力不足疾患，伴有過動行為\",\"checked\":true,\"value\":\"\"},{\"text\":\"注意力缺損過動症候群：注意力缺失過動疾患，其他型\",\"checked\":true,\"value\":\"\"},{\"text\":\"廣泛性發展障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"廣泛性發展障礙：自閉症\",\"checked\":true,\"value\":\"\"},{\"text\":\"廣泛性發展障礙：兒童期崩解疾患\",\"checked\":true,\"value\":\"\"},{\"text\":\"廣泛性發展障礙：亞斯伯格症候群\",\"checked\":true,\"value\":\"\"},{\"text\":\"廣泛性發展障礙：其他廣泛性發展疾患\",\"checked\":true,\"value\":\"\"},{\"text\":\"廣泛性發展障礙：廣泛性發展疾患，未特定\",\"checked\":true,\"value\":\"\"},{\"text\":\"智能障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"智能障礙：輕度\",\"checked\":true,\"value\":\"\"},{\"text\":\"智能障礙：中度\",\"checked\":true,\"value\":\"\"},{\"text\":\"智能障礙：重度\",\"checked\":true,\"value\":\"\"},{\"text\":\"智能障礙：極重度\",\"checked\":true,\"value\":\"\"},{\"text\":\"智能障礙：其他\",\"checked\":true,\"hasInput\":true,\"value\":\"KDHJTDALXKPPCIQMQDTSYWJAEJLJID\"},{\"text\":\"語言障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"語言障礙：表達\",\"checked\":true,\"value\":\"\"},{\"text\":\"語言障礙：理解\",\"checked\":true,\"value\":\"\"},{\"text\":\"語言障礙：混合\",\"checked\":true,\"value\":\"\"},{\"text\":\"語言障礙：語暢\",\"checked\":true,\"value\":\"\"},{\"text\":\"語言障礙：其他\",\"checked\":true,\"hasInput\":true,\"value\":\"XXHCPSCYCNCFLMMPMZKSPHGYPZKGXJ\"},{\"text\":\"聽障導致之語言或語文發展障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"特發於兒童及青少年期行為及情緒障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"特發於兒童及青少年期之過度焦慮症\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他兒童期情緒疾患(包括悲傷及不快樂害羞內向)\",\"checked\":true,\"value\":\"\"},{\"text\":\"特發於兒童及青少年期之人際關係困難\",\"checked\":true,\"value\":\"\"},{\"text\":\"兒童期其他社會功能疾患\",\"checked\":true,\"value\":\"\"},{\"text\":\"對立反抗症\",\"checked\":true,\"value\":\"\"},{\"text\":\"選擇性之不語症\",\"checked\":true,\"value\":\"\"},{\"text\":\"睡眠障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"飲食障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"抽動症(Tic)\",\"checked\":true,\"value\":\"\"},{\"text\":\"遺尿症，遺屎症\",\"checked\":true,\"value\":\"\"},{\"text\":\"兒童虐待／疏忽\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"NXLZQHEUXMKFHKULYEXMGHVQAGMWGM\"}]"
+          },
+          {
+            "title": "其他身體疾病",
+            "index": 9,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "其他身體疾病",
+            "options": [
+              { "text": "無" },
+              { "text": "有" },
+              { "text": "消化系統", "hasInput": true },
+              { "text": "骨骼系統", "hasInput": true },
+              { "text": "心臟血管系統", "hasInput": true },
+              { "text": "內分泌代謝異常", "hasInput": true },
+              { "text": "泌尿系統", "hasInput": true },
+              { "text": "生長遲滯", "hasInput": true },
+              { "text": "唇顎裂", "hasInput": true },
+              { "text": "牙齒排列不整", "hasInput": true },
+              { "text": "口功能異常", "hasInput": true },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"無\",\"checked\":true,\"value\":\"\"},{\"text\":\"有\",\"checked\":true,\"value\":\"\"},{\"text\":\"消化系統\",\"checked\":true,\"hasInput\":true,\"value\":\"QDTJOCFCHSSPBPXLQXXREXYTCPVDYE\"},{\"text\":\"骨骼系統\",\"checked\":true,\"hasInput\":true,\"value\":\"JRJONFXIFOBGQAPMYZILTRNDFNAZUC\"},{\"text\":\"心臟血管系統\",\"checked\":true,\"hasInput\":true,\"value\":\"AADSYDTPBQYVAUKCHPZYEQMYBXYWLT\"},{\"text\":\"內分泌代謝異常\",\"checked\":true,\"hasInput\":true,\"value\":\"ABFSXVMIOXBZJURTGZZHDRMSZPUVNE\"},{\"text\":\"泌尿系統\",\"checked\":true,\"hasInput\":true,\"value\":\"TDLIJMDLQUIGUTEEQGCSFGVJRONKRZ\"},{\"text\":\"生長遲滯\",\"checked\":true,\"hasInput\":true,\"value\":\"TQOBHZUKZMZFHHDYYATQGBIJOBYBHL\"},{\"text\":\"唇顎裂\",\"checked\":true,\"hasInput\":true,\"value\":\"JIATKZAFCQHTHJIYRGDCJUTYRDVFFX\"},{\"text\":\"牙齒排列不整\",\"checked\":true,\"hasInput\":true,\"value\":\"VVLIKJVQHXFEGWPZDJOBFVATEAERCI\"},{\"text\":\"口功能異常\",\"checked\":true,\"hasInput\":true,\"value\":\"FRAJSMXWYRUBHSEZQZFJSJYGNDQLCB\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"SUXPVZCWDRNTADVFSILUUVAAZPRAJK\"}]"
+          }
+        ]
+      }
+    ],
+    "inputs": [],
+    "data": {
+      "病因分類_病因分類": [
+        {
+          "text": "神經系統缺氧/缺血",
+          "checked": false,
+          "value": "JDQBYCSIAAXERZAYBYPEENRGMFMAMN",
+          "selectedValue": "確定",
+          "likertOptions": [
+            { "text": "無", "checked": false },
+            { "text": "確定", "checked": true },
+            { "text": "可能", "checked": false }
+          ]
+        },
+        {
+          "text": "神經系統感染",
+          "checked": false,
+          "value": "OFQIKRDKXJHNSGLFVCZJJRPOMVAOQE",
+          "selectedValue": "無",
+          "likertOptions": [
+            { "text": "無", "checked": true },
+            { "text": "確定", "checked": false },
+            { "text": "可能", "checked": false }
+          ]
+        },
+        {
+          "text": "腦中風(缺血/出血)",
+          "checked": false,
+          "value": "BBGEHBUJFJZKWLJJJXQKMQUGGQGCDN",
+          "selectedValue": "確定",
+          "likertOptions": [
+            { "text": "無", "checked": false },
+            { "text": "確定", "checked": true },
+            { "text": "可能", "checked": false }
+          ]
+        },
+        {
+          "text": "神經系統外傷",
+          "checked": false,
+          "value": "YJOXYUGSGXHIMBJSPGBKQXMVSOOSOS",
+          "selectedValue": "確定",
+          "likertOptions": [
+            { "text": "無", "checked": false },
+            { "text": "確定", "checked": true },
+            { "text": "可能", "checked": false }
+          ]
+        },
+        {
+          "text": "染色體/基因",
+          "checked": false,
+          "value": "VWIJPAZSRHNJXIYAVOVRPVMGNKRWYC",
+          "selectedValue": "無",
+          "likertOptions": [
+            { "text": "無", "checked": true },
+            { "text": "確定", "checked": false },
+            { "text": "可能", "checked": false }
+          ]
+        },
+        {
+          "text": "先天症候群",
+          "checked": false,
+          "hasInput": true,
+          "value": "VEAQNFDTEXINGNWKKBLCPWHRQSFESU",
+          "selectedValue": "可能",
+          "likertOptions": [
+            { "text": "無", "checked": false },
+            { "text": "確定", "checked": false },
+            { "text": "可能", "checked": true }
+          ]
+        },
+        {
+          "text": "代謝/內分泌障礙",
+          "checked": false,
+          "value": "RCBIEPZWWHOGXYEXLTXGYINQKHNKJZ",
+          "selectedValue": "可能",
+          "likertOptions": [
+            { "text": "無", "checked": false },
+            { "text": "確定", "checked": false },
+            { "text": "可能", "checked": true }
+          ]
+        },
+        {
+          "text": "退化性疾病",
+          "checked": false,
+          "value": "NFVQALPEVKMGQSQNGGLDMKPDRQWQFK",
+          "selectedValue": "確定",
+          "likertOptions": [
+            { "text": "無", "checked": false },
+            { "text": "確定", "checked": true },
+            { "text": "可能", "checked": false }
+          ]
+        },
+        {
+          "text": "腫瘤",
+          "checked": false,
+          "value": "WCCYVSWTUKDAQPLCGZNAFTGIVSGYMB",
+          "selectedValue": "確定",
+          "likertOptions": [
+            { "text": "無", "checked": false },
+            { "text": "確定", "checked": true },
+            { "text": "可能", "checked": false }
+          ]
+        },
+        {
+          "text": "藥物/毒物",
+          "checked": false,
+          "value": "GFMYDGHVVOEUJTGWQHSVETGZTGUFSE",
+          "selectedValue": "可能",
+          "likertOptions": [
+            { "text": "無", "checked": false },
+            { "text": "確定", "checked": false },
+            { "text": "可能", "checked": true }
+          ]
+        },
+        {
+          "text": "兒童虐待及忽略",
+          "checked": false,
+          "value": "HUYEDIVLGFHZMWIMFYPINIIQKEYAUW",
+          "selectedValue": "無",
+          "likertOptions": [
+            { "text": "無", "checked": true },
+            { "text": "確定", "checked": false },
+            { "text": "可能", "checked": false }
+          ]
+        },
+        {
+          "text": "次發於慢性疾病",
+          "checked": false,
+          "value": "DKVTRCRDZOOYTKHGYSIQVQUKIPAWKV",
+          "selectedValue": "確定",
+          "likertOptions": [
+            { "text": "無", "checked": false },
+            { "text": "確定", "checked": true },
+            { "text": "可能", "checked": false }
+          ]
+        },
+        {
+          "text": "早產/低出生體重兒",
+          "checked": false,
+          "value": "NXKDYFCYVOCDGCORZHVIRLDGKXTTXZ",
+          "selectedValue": "可能",
+          "likertOptions": [
+            { "text": "無", "checked": false },
+            { "text": "確定", "checked": false },
+            { "text": "可能", "checked": true }
+          ]
+        },
+        {
+          "text": "家庭/社區/心理社會環境",
+          "checked": false,
+          "value": "STUFVEALERQFRHAVUQCVEVUKORVMCH",
+          "selectedValue": "可能",
+          "likertOptions": [
+            { "text": "無", "checked": false },
+            { "text": "確定", "checked": false },
+            { "text": "可能", "checked": true }
+          ]
+        },
+        {
+          "text": "視力障礙",
+          "checked": false,
+          "value": "QKSYSMPSDVAEIFXKMRZYVYVTEXEVWO",
+          "selectedValue": "無",
+          "likertOptions": [
+            { "text": "無", "checked": true },
+            { "text": "確定", "checked": false },
+            { "text": "可能", "checked": false }
+          ]
+        },
+        {
+          "text": "聽力障礙",
+          "checked": false,
+          "value": "JSUYEEXFCKCBZHBAAYWMDRBMTPSBXP",
+          "selectedValue": "無",
+          "likertOptions": [
+            { "text": "無", "checked": true },
+            { "text": "確定", "checked": false },
+            { "text": "可能", "checked": false }
+          ]
+        },
+        {
+          "text": "其他",
+          "checked": false,
+          "hasInput": true,
+          "value": "BODVOYMGOOCLKELYDGAXCTBCHKQMRW",
+          "selectedValue": "可能",
+          "likertOptions": [
+            { "text": "無", "checked": false },
+            { "text": "確定", "checked": false },
+            { "text": "可能", "checked": true }
+          ]
+        }
+      ],
+      "病因分類_不知原因": [
+        { "text": "隱因性", "checked": true, "value": "" },
+        { "text": "不明原因", "checked": true, "value": "" }
+      ],
+      "相關疾病_神經相關疾病_神經相關疾病": [
+        { "text": "無", "checked": true, "value": "" },
+        { "text": "有", "checked": true, "value": "" },
+        { "text": "腦性麻痺", "checked": true, "value": "" },
+        { "text": "腦膜炎/腦炎", "checked": true, "value": "" },
+        { "text": "周邊神經疾病", "checked": true, "value": "" },
+        { "text": "腦發育畸形", "checked": true, "value": "" },
+        { "text": "水腦", "checked": true, "value": "" },
+        { "text": "癲癇", "checked": true, "value": "" },
+        { "text": "脊髓畸形", "checked": true, "value": "" },
+        { "text": "神經肌肉疾患", "checked": true, "value": "" },
+        { "text": "神經退化性疾病", "checked": true, "value": "" },
+        { "text": "神經皮膚症候群", "checked": true, "value": "" },
+        { "text": "神經發展性障礙", "checked": true, "value": "" },
+        { "text": "腦瘤", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "JREIUAIVKSENKOSQETPLHKGAZENRGC"
+        }
+      ],
+      "相關疾病_神經相關疾病_附註": "<p>NDUTMZXCKDBMKPJGVAJBWFBNIAOTNQ</p>\n\n<p>TEJEQAFHFTMOJYPQLPTPMOCZZKPOBX</p>\n\n<p>SAXEWPOYGONROOVQYHAGLSRABZTMCI</p>\n\n<p>HWXARMWLVHIZSUPDEACCGZLCLZXXUK</p>\n\n<p>EXPQVNPDVVPSQIYAZQYBSXMIBBUCVB</p>\n",
+      "相關疾病_感官異常（耳部問題）_感官異常（耳部問題）": [
+        { "text": "無", "checked": true, "value": "" },
+        { "text": "有", "checked": true, "value": "" },
+        { "text": "聽力障礙", "checked": true, "value": "" },
+        { "text": "傳導性", "checked": true, "value": "" },
+        {
+          "text": "傳導性：左耳__分貝",
+          "checked": true,
+          "hasInput": true,
+          "value": "WZSFDSQKGRGHTISUUOZAWYNTNVHOJI"
+        },
+        {
+          "text": "傳導性：右耳__分貝",
+          "checked": true,
+          "hasInput": true,
+          "value": "BNNRQTYUCOGRVLBFSTEKNKCPRRMUHU"
+        },
+        { "text": "神經性", "checked": true, "value": "" },
+        {
+          "text": "神經性：左耳__分貝",
+          "checked": true,
+          "hasInput": true,
+          "value": "CVOAUXBJFHOASQKMRUCPBKFXROXWCR"
+        },
+        {
+          "text": "神經性：右耳__分貝",
+          "checked": true,
+          "hasInput": true,
+          "value": "SBSNYFGYNCALWNPHFZZMAESKOGHYNE"
+        },
+        { "text": "混合性", "checked": true, "value": "" },
+        {
+          "text": "混合性：左耳__分貝",
+          "checked": true,
+          "hasInput": true,
+          "value": "HCMNMMXJMBFKDOOJYJZOSRISCKXHTG"
+        },
+        {
+          "text": "混合性：右耳__分貝",
+          "checked": true,
+          "hasInput": true,
+          "value": "XVOLUGGGBLVZHDXXMDBFXYWNNOYIQR"
+        },
+        { "text": "中樞聽覺障礙APD", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "KNARLOZODTGPJCFJYFKHFREMJJVUFB"
+        }
+      ],
+      "相關疾病_感官異常（眼睛問題）_感官異常（眼睛問題）": [
+        { "text": "無", "checked": true, "value": "" },
+        { "text": "有", "checked": true, "value": "" },
+        { "text": "視力不良", "checked": true, "value": "" },
+        { "text": "屈光異常（中度或重度異常）", "checked": true, "value": "" },
+        { "text": "遠視", "checked": true, "value": "" },
+        {
+          "text": "遠視：左眼",
+          "checked": true,
+          "hasInput": true,
+          "value": "TGONNSCDREIJHQGLPQRUBBMUMSPDUH"
+        },
+        {
+          "text": "遠視：右眼",
+          "checked": true,
+          "hasInput": true,
+          "value": "GDHHPWXOBLQOHWULLPAWYTTYXCCVNO"
+        },
+        { "text": "近視", "checked": true, "value": "" },
+        {
+          "text": "近視：左眼",
+          "checked": true,
+          "hasInput": true,
+          "value": "XKKEXAPXPXQYNTJDXNYTIZJCGEFFPI"
+        },
+        {
+          "text": "近視：右眼",
+          "checked": true,
+          "hasInput": true,
+          "value": "WZGDTHKKZOIVKRHHCSDBFVJIAFCFNG"
+        },
+        { "text": "散光", "checked": true, "value": "" },
+        {
+          "text": "散光：左眼",
+          "checked": true,
+          "hasInput": true,
+          "value": "NTGZANYYATEZKKUQTLRGZOGNEZXFXG"
+        },
+        {
+          "text": "散光：右眼",
+          "checked": true,
+          "hasInput": true,
+          "value": "THBKKDJOJKULEXPHJAERHOFJTFCSYV"
+        },
+        { "text": "雙眼視功能不良", "checked": true, "value": "" },
+        { "text": "斜視", "checked": true, "value": "" },
+        { "text": "雙眼視功能不良：斜視-內斜", "checked": true, "value": "" },
+        { "text": "雙眼視功能不良：斜視-外斜", "checked": true, "value": "" },
+        {
+          "text": "雙眼視功能不良：斜視-上下斜視",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "雙眼視功能不良：其他視功能異常-其他視功能異常",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "雙眼視功能不良：其他視功能異常-調節力異常",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "雙眼視功能不良：其他視功能異常-內聚外展失衡",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "雙眼視功能不良：其他視功能異常-影像抑制",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "雙眼視功能不良：其他視功能異常-立體感不良",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "雙眼視功能不良：其他視功能異常-診斷",
+          "checked": true,
+          "hasInput": true,
+          "value": "COJGLOGVXZOTASHFMWSXMVVQGKIZVZ"
+        },
+        { "text": "弱視", "checked": true, "value": "" },
+        { "text": "弱視：左眼", "checked": true, "value": "" },
+        { "text": "弱視：右眼", "checked": true, "value": "" },
+        { "text": "弱視：雙眼", "checked": true, "value": "" },
+        {
+          "text": "弱視原因",
+          "checked": true,
+          "hasInput": true,
+          "value": "ASIVSMWIRCBXRPFHFNXYXJCUMCCELE"
+        },
+        { "text": "眼疾", "checked": true, "value": "" },
+        { "text": "遮蔽或介質模糊", "checked": true, "value": "" },
+        {
+          "text": "眼疾：遮蔽或介質模糊-眼瞼下垂",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "眼疾：遮蔽或介質模糊-角膜混濁",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "眼疾：遮蔽或介質模糊-白內障", "checked": true, "value": "" },
+        {
+          "text": "眼疾：遮蔽或介質模糊-其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "JYMWCXAXEQLBOBSTKOVPIASVKSRIML"
+        },
+        { "text": "眼疾：視網膜病變", "checked": true, "value": "" },
+        { "text": "眼疾：視神經萎縮", "checked": true, "value": "" },
+        {
+          "text": "眼疾：其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "YRXJASNHJPMDRKZKBRHQGMNMHRYZIR"
+        },
+        { "text": "中樞性視力障礙", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "MHGRLCKCUMFTFOREJPCFJYXZYHOSBS"
+        }
+      ],
+      "相關疾病_遺傳、先天症候群_遺傳、先天症候群": [
+        { "text": "無", "checked": true, "value": "" },
+        { "text": "有", "checked": true, "value": "" },
+        { "text": "唐氏症", "checked": true, "value": "" },
+        { "text": "Prader-Willi氏症候群", "checked": true, "value": "" },
+        { "text": "Goldenhar氏症候群", "checked": true, "value": "" },
+        { "text": "胎兒酒精症候群", "checked": true, "value": "" },
+        { "text": "Turner氏症候群", "checked": true, "value": "" },
+        { "text": "Williams氏症候群", "checked": true, "value": "" },
+        { "text": "軟骨發育不全症", "checked": true, "value": "" },
+        { "text": "X染色體脆折症", "checked": true, "value": "" },
+        {
+          "text": "Angelman氏症候群（快樂布偶症候群）",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "胎兒藥物症候群", "checked": true, "value": "" },
+        { "text": "CATCH 22 症候群", "checked": true, "value": "" },
+        { "text": "Rett氏症候群", "checked": true, "value": "" },
+        { "text": "先天性代謝障礙", "checked": true, "value": "" },
+        { "text": "Crouzon症候群", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "RNEDMVRTYCOQEMTSMAIAJDNPRUYEHV"
+        }
+      ],
+      "相關疾病_心智發展方面_心智發展方面": [
+        { "text": "無", "checked": true, "value": "" },
+        { "text": "有", "checked": true, "value": "" },
+        { "text": "混合性特定性發展障礙", "checked": true, "value": "" },
+        { "text": "發展性協調障礙", "checked": true, "value": "" },
+        { "text": "其他特定之發展遲緩", "checked": true, "value": "" },
+        { "text": "非特定之發展遲緩", "checked": true, "value": "" },
+        { "text": "注意力缺損過動症候群", "checked": true, "value": "" },
+        {
+          "text": "注意力缺損過動症候群：注意力不足疾患，未提及過動行為",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "注意力缺損過動症候群：注意力不足疾患，伴有過動行為",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "注意力缺損過動症候群：注意力缺失過動疾患，其他型",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "廣泛性發展障礙", "checked": true, "value": "" },
+        { "text": "廣泛性發展障礙：自閉症", "checked": true, "value": "" },
+        {
+          "text": "廣泛性發展障礙：兒童期崩解疾患",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "廣泛性發展障礙：亞斯伯格症候群",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "廣泛性發展障礙：其他廣泛性發展疾患",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "廣泛性發展障礙：廣泛性發展疾患，未特定",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "智能障礙", "checked": true, "value": "" },
+        { "text": "智能障礙：輕度", "checked": true, "value": "" },
+        { "text": "智能障礙：中度", "checked": true, "value": "" },
+        { "text": "智能障礙：重度", "checked": true, "value": "" },
+        { "text": "智能障礙：極重度", "checked": true, "value": "" },
+        {
+          "text": "智能障礙：其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "KDHJTDALXKPPCIQMQDTSYWJAEJLJID"
+        },
+        { "text": "語言障礙", "checked": true, "value": "" },
+        { "text": "語言障礙：表達", "checked": true, "value": "" },
+        { "text": "語言障礙：理解", "checked": true, "value": "" },
+        { "text": "語言障礙：混合", "checked": true, "value": "" },
+        { "text": "語言障礙：語暢", "checked": true, "value": "" },
+        {
+          "text": "語言障礙：其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "XXHCPSCYCNCFLMMPMZKSPHGYPZKGXJ"
+        },
+        {
+          "text": "聽障導致之語言或語文發展障礙",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "特發於兒童及青少年期行為及情緒障礙",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "特發於兒童及青少年期之過度焦慮症",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他兒童期情緒疾患(包括悲傷及不快樂害羞內向)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "特發於兒童及青少年期之人際關係困難",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "兒童期其他社會功能疾患", "checked": true, "value": "" },
+        { "text": "對立反抗症", "checked": true, "value": "" },
+        { "text": "選擇性之不語症", "checked": true, "value": "" },
+        { "text": "睡眠障礙", "checked": true, "value": "" },
+        { "text": "飲食障礙", "checked": true, "value": "" },
+        { "text": "抽動症(Tic)", "checked": true, "value": "" },
+        { "text": "遺尿症，遺屎症", "checked": true, "value": "" },
+        { "text": "兒童虐待／疏忽", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "NXLZQHEUXMKFHKULYEXMGHVQAGMWGM"
+        }
+      ],
+      "相關疾病_其他身體疾病_其他身體疾病": [
+        { "text": "無", "checked": true, "value": "" },
+        { "text": "有", "checked": true, "value": "" },
+        {
+          "text": "消化系統",
+          "checked": true,
+          "hasInput": true,
+          "value": "QDTJOCFCHSSPBPXLQXXREXYTCPVDYE"
+        },
+        {
+          "text": "骨骼系統",
+          "checked": true,
+          "hasInput": true,
+          "value": "JRJONFXIFOBGQAPMYZILTRNDFNAZUC"
+        },
+        {
+          "text": "心臟血管系統",
+          "checked": true,
+          "hasInput": true,
+          "value": "AADSYDTPBQYVAUKCHPZYEQMYBXYWLT"
+        },
+        {
+          "text": "內分泌代謝異常",
+          "checked": true,
+          "hasInput": true,
+          "value": "ABFSXVMIOXBZJURTGZZHDRMSZPUVNE"
+        },
+        {
+          "text": "泌尿系統",
+          "checked": true,
+          "hasInput": true,
+          "value": "TDLIJMDLQUIGUTEEQGCSFGVJRONKRZ"
+        },
+        {
+          "text": "生長遲滯",
+          "checked": true,
+          "hasInput": true,
+          "value": "TQOBHZUKZMZFHHDYYATQGBIJOBYBHL"
+        },
+        {
+          "text": "唇顎裂",
+          "checked": true,
+          "hasInput": true,
+          "value": "JIATKZAFCQHTHJIYRGDCJUTYRDVFFX"
+        },
+        {
+          "text": "牙齒排列不整",
+          "checked": true,
+          "hasInput": true,
+          "value": "VVLIKJVQHXFEGWPZDJOBFVATEAERCI"
+        },
+        {
+          "text": "口功能異常",
+          "checked": true,
+          "hasInput": true,
+          "value": "FRAJSMXWYRUBHSEZQZFJSJYGNDQLCB"
+        },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "SUXPVZCWDRNTADVFSILUUVAAZPRAJK"
+        }
+      ]
+    }
+  }
+}

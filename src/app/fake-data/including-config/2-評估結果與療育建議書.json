@@ -1,0 +1,3891 @@
+{
+  "data": {
+    "title": "評估結果與療育建議書",
+    "groups": [
+      {
+        "title": "知覺動作功能",
+        "inputs": [
+          {
+            "title": "粗大動作",
+            "index": 1,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "粗大動作評估",
+            "options": [
+              { "text": "無異常" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":false,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":false,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "粗大動作",
+            "index": 2,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "粗大動作",
+            "index": 3,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_歲",
+            "value": "QTVLOXRWSECUMMXKUHLVFNFBWCPHNO"
+          },
+          {
+            "title": "粗大動作",
+            "index": 4,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_個月",
+            "value": "PRIHYJGMEUWGZFSJQCKTEQRVJANATF"
+          },
+          {
+            "title": "粗大動作",
+            "index": 5,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "百分位",
+            "value": "UMUEJUFIFFPJKBWELALAWKGRSDMBKQ"
+          },
+          {
+            "title": "粗大動作",
+            "index": 6,
+            "isRequired": false,
+            "type": "Number",
+            "label": "發展商數",
+            "value": 5
+          },
+          {
+            "title": "粗大動作",
+            "index": 7,
+            "isRequired": false,
+            "type": "Number",
+            "label": "標準分數",
+            "value": 74
+          },
+          {
+            "title": "粗大動作",
+            "index": 8,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估工具",
+            "options": [
+              { "text": "臨床觀察" },
+              { "text": "臨床觀察(肌肉張力或動作型態異常):無異常" },
+              {
+                "text": "臨床觀察(肌肉張力或動作型態異常):異常，部位：",
+                "hasInput": true
+              },
+              { "text": "臨床晤談" },
+              { "text": "亞伯它嬰幼兒動作量表 (AIMS)" },
+              { "text": "皮巴迪動作發展量表第二版 (PDMS-2)" },
+              { "text": "嬰幼兒綜合發展量表 (CDIIT)" },
+              {
+                "text": "兒童動作ABC評量表第二版(Movement Assessment Battery For Children-2 Movement ABC-2)"
+              },
+              {
+                "text": "布魯茵克斯-歐西瑞斯基動作量表第二版 (Bruininks-Oseretsky Test of Motor Proficiency BOT-2)"
+              },
+              { "text": "學前兒童粗大動作品質量表" },
+              { "text": "日常生活功能量表中文版 (PEDI-C)" },
+              { "text": "其他(請敘明)", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"臨床觀察\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨床觀察(肌肉張力或動作型態異常):無異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨床觀察(肌肉張力或動作型態異常):異常，部位：\",\"checked\":true,\"hasInput\":true,\"value\":\"YNORYRNCECWMMQSICALKRQEBPGZSXO\"},{\"text\":\"臨床晤談\",\"checked\":true,\"value\":\"\"},{\"text\":\"亞伯它嬰幼兒動作量表 (AIMS)\",\"checked\":true,\"value\":\"\"},{\"text\":\"皮巴迪動作發展量表第二版 (PDMS-2)\",\"checked\":true,\"value\":\"\"},{\"text\":\"嬰幼兒綜合發展量表 (CDIIT)\",\"checked\":true,\"value\":\"\"},{\"text\":\"兒童動作ABC評量表第二版(Movement Assessment Battery For Children-2 Movement ABC-2)\",\"checked\":true,\"value\":\"\"},{\"text\":\"布魯茵克斯-歐西瑞斯基動作量表第二版 (Bruininks-Oseretsky Test of Motor Proficiency BOT-2)\",\"checked\":true,\"value\":\"\"},{\"text\":\"學前兒童粗大動作品質量表\",\"checked\":true,\"value\":\"\"},{\"text\":\"日常生活功能量表中文版 (PEDI-C)\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他(請敘明)\",\"checked\":true,\"hasInput\":true,\"value\":\"RCKVGQGWHUGZKVGARYQYUCMQNWWVLP\"}]"
+          },
+          {
+            "title": "粗大動作",
+            "index": 9,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>PEIWPPZQTBOQXCWHFVEDIUGWFELTFO</p><p>MCLKZJEAATSUEBZBCEAPZLVVSUOGVI</p><p>YLALOGPDKDAUABCBNYXJEKREHNTSDR</p><p>XJJKICKSROHYPXEIQZHZRLAYMOKFJU</p><p>GDQHPLMGVEDTFEONNSVWMTXNIMVDSR</p>"
+          },
+          {
+            "title": "粗動作訓練",
+            "index": 10,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "粗動作訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "粗動作訓練",
+            "index": 11,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "誘發姿勢控制或姿勢變換的能力" },
+              { "text": "增加走路、爬行或上下樓梯等移位能力" },
+              { "text": "增加動態或是靜態平衡能力" },
+              { "text": "增加粗動作學習或粗動作計劃的能力" },
+              { "text": "增加物品傳接的能力" },
+              { "text": "增加運動相關技巧或動作協調性" },
+              { "text": "增加粗動作遊戲的能力" },
+              { "text": "增加呼吸功能或心肺耐力" },
+              { "text": "增加肌力、肌耐力或調整肌肉張力" },
+              { "text": "增加關節活動度或柔軟度" },
+              { "text": "促進與社會參與相關之動作功能" },
+              { "text": "其他(請敘明)", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"誘發姿勢控制或姿勢變換的能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"增加走路、爬行或上下樓梯等移位能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"增加動態或是靜態平衡能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"增加粗動作學習或粗動作計劃的能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"增加物品傳接的能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"增加運動相關技巧或動作協調性\",\"checked\":true,\"value\":\"\"},{\"text\":\"增加粗動作遊戲的能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"增加呼吸功能或心肺耐力\",\"checked\":true,\"value\":\"\"},{\"text\":\"增加肌力、肌耐力或調整肌肉張力\",\"checked\":true,\"value\":\"\"},{\"text\":\"增加關節活動度或柔軟度\",\"checked\":true,\"value\":\"\"},{\"text\":\"促進與社會參與相關之動作功能\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他(請敘明)\",\"checked\":true,\"hasInput\":true,\"value\":\"GMLTQNQRXWFOKZXHCKTGWWAKFDZLBJ\"}]"
+          },
+          {
+            "title": "粗動作訓練",
+            "index": 12,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>PIPQOALSAGUTEWDWSFAVUOBJOYPVKF</p><p>WXGCAVQCUJBIALCKDBAATHXGGRMGAN</p><p>KQPGOMOGYQYBSOJNNUPNWHHPMSJQWQ</p><p>SXPCYWDEMPMJONVGOSAOKMKODNPKSQ</p><p>LMAVXBOLHBVYXAQGYPWVSGOBPLUPEB</p>"
+          },
+          {
+            "title": "精細動作",
+            "index": 13,
+            "isRequired": false,
+            "type": "MultipleChoices",
+            "label": "精細動作評估",
+            "options": [
+              { "text": "無異常" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":false,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "精細動作",
+            "index": 14,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "精細動作",
+            "index": 15,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_歲",
+            "value": "VPCZENDLVOKYZEBBRPOFDGTSTOBMLW"
+          },
+          {
+            "title": "精細動作",
+            "index": 16,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_個月",
+            "value": "NNZWZJRQXFGBSUUSUYAKDSTUWCIQBP"
+          },
+          {
+            "title": "精細動作",
+            "index": 17,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "百分位",
+            "value": "TOVFATTFGWGXGPWICPAMZUQBOIBSGV"
+          },
+          {
+            "title": "精細動作",
+            "index": 18,
+            "isRequired": false,
+            "type": "Number",
+            "label": "發展商數",
+            "value": 58
+          },
+          {
+            "title": "精細動作",
+            "index": 19,
+            "isRequired": false,
+            "type": "Number",
+            "label": "標準分數",
+            "value": 9
+          },
+          {
+            "title": "精細動作",
+            "index": 20,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估工具",
+            "options": [
+              { "text": "臨床觀察" },
+              { "text": "臨床觀察(肌肉張力或動作型態異常):無異常" },
+              {
+                "text": "臨床觀察(肌肉張力或動作型態異常):異常，部位：",
+                "hasInput": true
+              },
+              { "text": "臨床晤談" },
+              { "text": "皮巴迪動作發展量表第二版 (PDMS-2)" },
+              { "text": "嬰幼兒綜合發展量表 (CDIIT)" },
+              { "text": "Bayley Scales of Infant and Toddler Development" },
+              { "text": "Test of Visual-Motor Skill 3rd Edition" },
+              {
+                "text": "布魯茵克斯-歐西瑞斯基動作量表第二版 (Bruininks-Oseretsky Test of Motor Proficiency BOT-2)"
+              },
+              {
+                "text": "兒童動作ABC評量表第二版 (Movement Assessment Battery For Children-2 Movement ABC-2)"
+              },
+              { "text": "其他(請敘明)", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"臨床觀察\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨床觀察(肌肉張力或動作型態異常):無異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨床觀察(肌肉張力或動作型態異常):異常，部位：\",\"checked\":true,\"hasInput\":true,\"value\":\"TZPMPNWDGRAZMCPVXCDQZJHBMUFONG\"},{\"text\":\"臨床晤談\",\"checked\":true,\"value\":\"\"},{\"text\":\"皮巴迪動作發展量表第二版 (PDMS-2)\",\"checked\":true,\"value\":\"\"},{\"text\":\"嬰幼兒綜合發展量表 (CDIIT)\",\"checked\":true,\"value\":\"\"},{\"text\":\"Bayley Scales of Infant and Toddler Development\",\"checked\":true,\"value\":\"\"},{\"text\":\"Test of Visual-Motor Skill 3rd Edition\",\"checked\":true,\"value\":\"\"},{\"text\":\"布魯茵克斯-歐西瑞斯基動作量表第二版 (Bruininks-Oseretsky Test of Motor Proficiency BOT-2)\",\"checked\":true,\"value\":\"\"},{\"text\":\"兒童動作ABC評量表第二版 (Movement Assessment Battery For Children-2 Movement ABC-2)\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他(請敘明)\",\"checked\":true,\"hasInput\":true,\"value\":\"SXFVSFOYSYNQQPNOZUBRIGBTEPMWSE\"}]"
+          },
+          {
+            "title": "精細動作",
+            "index": 21,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>VXTOJNUWMOTYIZTOYUXZYTTKJGDDYS</p><p>GUHZEGJAMYGCZEHPZMAQEXTOCSEKYN</p><p>SJULRWCFQMJVLEAAWAAQMGTCALIDMU</p><p>NNQQQWZGFMSUYMECUMXXFLNINBFXDH</p><p>TQMONTQMWVPFBLYXCFSDUOKOVJFHIQ</p>"
+          },
+          {
+            "title": "精細動作訓練",
+            "index": 22,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "精細動作訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "精細動作訓練",
+            "index": 23,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "發展慣用手" },
+              { "text": "發展抓握、拈取及釋放等基本手功能" },
+              { "text": "提升手部肌力、肌耐力" },
+              { "text": "增進雙手使用能力/ 協調性" },
+              { "text": "提升力量調節及動作速度之控制" },
+              {
+                "text": "提升手部操作各種工具之技巧(包括剪刀、筆、膠水等之使用)"
+              },
+              { "text": "提升手眼協調" }
+            ],
+            "value": "[{\"text\":\"發展慣用手\",\"checked\":true,\"value\":\"\"},{\"text\":\"發展抓握、拈取及釋放等基本手功能\",\"checked\":true,\"value\":\"\"},{\"text\":\"提升手部肌力、肌耐力\",\"checked\":true,\"value\":\"\"},{\"text\":\"增進雙手使用能力/ 協調性\",\"checked\":true,\"value\":\"\"},{\"text\":\"提升力量調節及動作速度之控制\",\"checked\":true,\"value\":\"\"},{\"text\":\"提升手部操作各種工具之技巧(包括剪刀、筆、膠水等之使用)\",\"checked\":true,\"value\":\"\"},{\"text\":\"提升手眼協調\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "精細動作訓練",
+            "index": 24,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>VRGHOXYRQNYPGRQAKBXWJFDUQVBZSO</p><p>RHTSDMHKCACOPNDJXVKWDFVXWIGZUV</p><p>ZFVAVYDWQSWRTUTZHDOIWAEDAOCFUC</p><p>ZQLZPOSUNFRVOJHAUPNXMZGUIXHLYM</p><p>IOXBHMRAERTOYJWKMTRGXFXDFFXNAN</p>"
+          },
+          {
+            "title": "感覺統合",
+            "index": 25,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "感覺統合評估",
+            "options": [
+              { "text": "無異常" },
+              { "text": "疑似失調" },
+              { "text": "失調" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"疑似失調\",\"checked\":false,\"value\":\"\"},{\"text\":\"失調\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "感覺統合",
+            "index": 26,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "感覺統合",
+            "index": 27,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_歲",
+            "value": "NOUWJSLZVKPBALHKGQGJHEKUVWTUGV"
+          },
+          {
+            "title": "感覺統合",
+            "index": 28,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_個月",
+            "value": "CZBCCLMWSAVWFZACWKDQRUNMBUUJUZ"
+          },
+          {
+            "title": "感覺統合",
+            "index": 29,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "百分位",
+            "value": "LPYTQABOEJULJZBIBNYAIBNQJCPLCN"
+          },
+          {
+            "title": "感覺統合",
+            "index": 30,
+            "isRequired": false,
+            "type": "Number",
+            "label": "發展商數",
+            "value": 47
+          },
+          {
+            "title": "感覺統合",
+            "index": 31,
+            "isRequired": false,
+            "type": "Number",
+            "label": "標準分數",
+            "value": 51
+          },
+          {
+            "title": "感覺統合",
+            "index": 32,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估工具：感覺處理",
+            "options": [
+              { "text": "感覺處理能力剖析量表7-36個月(Sensory Profile)中文版" },
+              { "text": "感覺處理能力剖析量表3-10歲(Sensory Profile)中文版" }
+            ],
+            "value": "[{\"text\":\"感覺處理能力剖析量表7-36個月(Sensory Profile)中文版\",\"checked\":true,\"value\":\"\"},{\"text\":\"感覺處理能力剖析量表3-10歲(Sensory Profile)中文版\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "感覺統合",
+            "index": 33,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估工具：視覺動作",
+            "options": [
+              {
+                "text": "拜瑞布坦尼卡視覺 - 動作統整發展測驗中文版 (The Berry-Buktenica Developmental Test of Visual-Motor Integration, VMI) ，英文版則為第 6 版"
+              },
+              {
+                "text": "視知覺技巧測驗第 4 版 (Test of Visual Perceptual Skills 4th Edition)"
+              },
+              {
+                "text": "視知覺發展測驗第 3 版 (Developmental Test of Visual Perception-3)"
+              },
+              {
+                "text": "非動作視知覺測驗第 4 版 (Motor-Free Visual Perception Test-4)"
+              }
+            ],
+            "value": "[{\"text\":\"拜瑞布坦尼卡視覺 - 動作統整發展測驗中文版 (The Berry-Buktenica Developmental Test of Visual-Motor Integration, VMI) ，英文版則為第 6 版\",\"checked\":true,\"value\":\"\"},{\"text\":\"視知覺技巧測驗第 4 版 (Test of Visual Perceptual Skills 4th Edition)\",\"checked\":true,\"value\":\"\"},{\"text\":\"視知覺發展測驗第 3 版 (Developmental Test of Visual Perception-3)\",\"checked\":true,\"value\":\"\"},{\"text\":\"非動作視知覺測驗第 4 版 (Motor-Free Visual Perception Test-4)\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "感覺統合",
+            "index": 34,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估工具：整體功能",
+            "options": [
+              { "text": "臨床觀察" },
+              { "text": "臨床晤談" },
+              { "text": "動作問題簡易量表(Quick Motor Problem Inventory)" },
+              {
+                "text": "嬰兒感覺功能測驗(Test of Sensory Functions in Infants)"
+              },
+              {
+                "text": "Degangi-Berk感覺統合測驗(Degangi-Berk Test of Sensory Integration)"
+              },
+              {
+                "text": "感覺統合臨床評量(Sensory Integration Clinical Observation SICO)"
+              },
+              { "text": "其他(請敘明)", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"臨床觀察\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨床晤談\",\"checked\":true,\"value\":\"\"},{\"text\":\"動作問題簡易量表(Quick Motor Problem Inventory)\",\"checked\":true,\"value\":\"\"},{\"text\":\"嬰兒感覺功能測驗(Test of Sensory Functions in Infants)\",\"checked\":true,\"value\":\"\"},{\"text\":\"Degangi-Berk感覺統合測驗(Degangi-Berk Test of Sensory Integration)\",\"checked\":true,\"value\":\"\"},{\"text\":\"感覺統合臨床評量(Sensory Integration Clinical Observation SICO)\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他(請敘明)\",\"checked\":true,\"hasInput\":true,\"value\":\"XQNYXZBDGQRELLSJKLZZOEMOPKGIXW\"}]"
+          },
+          {
+            "title": "感覺統合",
+            "index": 35,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>JERATKFRXFPKNQGOKJDZNUZATAZHQW</p><p>TUMEENTZWYKTLSMPXTTXTVMWPWKEDH</p><p>VZPRHWBLVSJRDCHMRHUVEHLMATKELJ</p><p>QSKCUMPCBJNGFBWIRYXROTKPQCBMYR</p><p>GUQLXYLMLDBZGUEVQEASKYAYCQYVKX</p>"
+          },
+          {
+            "title": "感覺統合訓練",
+            "index": 36,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "感覺統合訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "感覺統合訓練",
+            "index": 37,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "警醒度最佳化" },
+              { "text": "感覺系統正常化(normalization)" },
+              { "text": "建立對身體部位及功能的瞭解(body schema)" },
+              { "text": "改善視覺動作協調功能" },
+              { "text": "改善平衡及兩側協調功能" },
+              { "text": "改善動作計畫功能" }
+            ],
+            "value": "[{\"text\":\"警醒度最佳化\",\"checked\":true,\"value\":\"\"},{\"text\":\"感覺系統正常化(normalization)\",\"checked\":true,\"value\":\"\"},{\"text\":\"建立對身體部位及功能的瞭解(body schema)\",\"checked\":true,\"value\":\"\"},{\"text\":\"改善視覺動作協調功能\",\"checked\":true,\"value\":\"\"},{\"text\":\"改善平衡及兩側協調功能\",\"checked\":true,\"value\":\"\"},{\"text\":\"改善動作計畫功能\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "感覺統合訓練",
+            "index": 38,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>HTWBAZOCZDIMPWROFMOJNDZQNMOCYB</p><p>JRBNKUXKKJGQVFWYNALUACPVBVEFOG</p><p>ZRTDJAHYMZWFXDTKXUNBVBOMYVEIXG</p><p>KPMGXHBXPIROMRAEDJYAFDZBBAWCBE</p><p>NTZYDUMZSWOQOQZESWUOESYMJHWHYC</p>"
+          }
+        ]
+      },
+      {
+        "title": "吞嚥/口腔功能",
+        "inputs": [
+          {
+            "title": "口腔動作",
+            "index": 39,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "口腔動作",
+            "options": [
+              { "text": "無異常" },
+              { "text": "臨界" },
+              { "text": "異常" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨界\",\"checked\":false,\"value\":\"\"},{\"text\":\"異常\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "口腔動作",
+            "index": 40,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "口腔動作",
+            "index": 41,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估結果",
+            "options": [
+              { "text": "過度敏感" },
+              { "text": "反應遲鈍" },
+              { "text": "動作不靈活" },
+              { "text": "動作不協調" },
+              { "text": "流口水" },
+              { "text": "張力過低" },
+              { "text": "張力過高" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"過度敏感\",\"checked\":true,\"value\":\"\"},{\"text\":\"反應遲鈍\",\"checked\":true,\"value\":\"\"},{\"text\":\"動作不靈活\",\"checked\":true,\"value\":\"\"},{\"text\":\"動作不協調\",\"checked\":true,\"value\":\"\"},{\"text\":\"流口水\",\"checked\":true,\"value\":\"\"},{\"text\":\"張力過低\",\"checked\":true,\"value\":\"\"},{\"text\":\"張力過高\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"IKMIGPWOQLCYKIRVCPGMSTSYXPRHTD\"}]"
+          },
+          {
+            "title": "口腔動作",
+            "index": 42,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>KOPNACWWTOTETTBIOPHLIZBLANQBBP</p><p>EEKTKVUFAROROOKAGHFTRPOIZCKLEO</p><p>ZYGHBWQFDJHFLXXEJXIUBEFWTRLKPA</p><p>PWURZBYGOZPHJMLAQHKEFZHHLCNADJ</p><p>TXSFVELTPHHQKAIYUIHHQJEAMQVYLB</p>"
+          },
+          {
+            "title": "口腔功能訓練",
+            "index": 43,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "口腔功能訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "口腔功能訓練",
+            "index": 44,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "減/增 敏感訓練" },
+              { "text": "口腔動作訓練" },
+              { "text": "口腔動作訓練:雙唇動作訓練" },
+              { "text": "口腔動作訓練:下頷動作訓練" },
+              { "text": "口腔動作訓練:舌頭動作訓練" },
+              { "text": "口腔動作訓練:咀嚼動作訓練" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"減/增 敏感訓練\",\"checked\":true,\"value\":\"\"},{\"text\":\"口腔動作訓練\",\"checked\":true,\"value\":\"\"},{\"text\":\"口腔動作訓練:雙唇動作訓練\",\"checked\":true,\"value\":\"\"},{\"text\":\"口腔動作訓練:下頷動作訓練\",\"checked\":true,\"value\":\"\"},{\"text\":\"口腔動作訓練:舌頭動作訓練\",\"checked\":true,\"value\":\"\"},{\"text\":\"口腔動作訓練:咀嚼動作訓練\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"CZIFFUUKGWBBWQOZSBGZHVJXCTWOTT\"}]"
+          },
+          {
+            "title": "口腔功能訓練",
+            "index": 45,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>KXZOEHKZTHEQYDAOZOVCUEBXFRPQKP</p><p>PSQNGMPXALDBSTDYXDXLDADFBMDBFZ</p><p>YFBBDFAQBFAWAPJJWJDVVYRFVHMFPZ</p><p>YHZPBTXUELKOSTJMJTHTJHPEBJBLJM</p><p>HHUEUGSIVBFQZOWCWDLFYULQDGKDEY</p>"
+          },
+          {
+            "title": "吞嚥反射",
+            "index": 46,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "吞嚥反射",
+            "options": [{ "text": "異常" }, { "text": "無異常" }],
+            "value": "[{\"text\":\"異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"無異常\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "吞嚥反射",
+            "index": 47,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察與綜合結果",
+            "value": "<p>GXRDFSUGPSNKMNGSFTIPOIYXHUBMZC</p><p>KTAGOKDDRGEDVCOKWTDAGKZZEFEHFL</p><p>ZGDJVRKHHVNOUOXIPEGRQYPYUCONPW</p><p>ENMGOQQFGJFHPTHRZLGSYWRQFHDQUH</p><p>TCUIXXJABUKVJUKVKIFCSSCAOSACYE</p>"
+          },
+          {
+            "title": "吞嚥功能",
+            "index": 48,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "吞嚥功能",
+            "options": [
+              { "text": "無異常" },
+              { "text": "臨界" },
+              { "text": "異常" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨界\",\"checked\":false,\"value\":\"\"},{\"text\":\"異常\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "吞嚥功能",
+            "index": 49,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "會嗆食",
+            "options": [
+              { "text": "液體" },
+              { "text": "半固體" },
+              { "text": "固體" }
+            ],
+            "value": "[{\"text\":\"液體\",\"checked\":true,\"value\":\"\"},{\"text\":\"半固體\",\"checked\":true,\"value\":\"\"},{\"text\":\"固體\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "吞嚥功能",
+            "index": 50,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "主要食材",
+            "value": "<p>ISCCABRXNNYNNIWRGHGVXIUXVBINJA</p><p>GLQZIORQGPTGDTVYPNXCVKQOBLJYPY</p><p>ZQUMMZBTIOYTJGTFJHFEFGUYIASFKR</p><p>QOGSJGYOVLPBIKYZGBMENVPCBHTQNQ</p><p>LJXBJFPEJRUZVIEWTSIGPKUNWQNPAC</p>"
+          },
+          {
+            "title": "吞嚥功能",
+            "index": 51,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>RIEKQTZKXZBETJUPXWNSGPQLZLMMFW</p><p>CXOAEQQWPJODIBOHKGHLOXNTVSGQTI</p><p>ALNAADOKCAYZGBJFQTIRQUBRHETSOQ</p><p>JNUCEWKUDXOTFNZGSUEXWBLQMQLMBA</p><p>MCCKICRGWREIDLQVFMBUISPFTJKGGK</p>"
+          },
+          {
+            "title": "吞嚥訓練",
+            "index": 52,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "吞嚥訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "吞嚥訓練",
+            "index": 53,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "改變姿勢" },
+              { "text": "控制量", "hasInput": true },
+              { "text": "食物材質的選擇" },
+              { "text": "食物材質的選擇：流質" },
+              { "text": "食物材質的選擇：糊狀" },
+              { "text": "食物材質的選擇：軟質" },
+              { "text": "食物材質的選擇：固體" },
+              { "text": "食物材質的選擇：其他", "hasInput": true },
+              { "text": "食器的選擇" },
+              { "text": "食器的選擇：奶瓶" },
+              { "text": "食器的選擇：杯子" },
+              { "text": "食器的選擇：湯匙" },
+              { "text": "食器的選擇：筷子" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"改變姿勢\",\"checked\":true,\"value\":\"\"},{\"text\":\"控制量\",\"checked\":true,\"hasInput\":true,\"value\":\"ETRKDZBUXTLLVIXAJRKGJFYHJICMXS\"},{\"text\":\"食物材質的選擇\",\"checked\":true,\"value\":\"\"},{\"text\":\"食物材質的選擇：流質\",\"checked\":true,\"value\":\"\"},{\"text\":\"食物材質的選擇：糊狀\",\"checked\":true,\"value\":\"\"},{\"text\":\"食物材質的選擇：軟質\",\"checked\":true,\"value\":\"\"},{\"text\":\"食物材質的選擇：固體\",\"checked\":true,\"value\":\"\"},{\"text\":\"食物材質的選擇：其他\",\"checked\":true,\"hasInput\":true,\"value\":\"KXKXVHCKWAWCFNHWDPNGYUOMCJVLIK\"},{\"text\":\"食器的選擇\",\"checked\":true,\"value\":\"\"},{\"text\":\"食器的選擇：奶瓶\",\"checked\":true,\"value\":\"\"},{\"text\":\"食器的選擇：杯子\",\"checked\":true,\"value\":\"\"},{\"text\":\"食器的選擇：湯匙\",\"checked\":true,\"value\":\"\"},{\"text\":\"食器的選擇：筷子\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"OADVQOLEWLYUBUHAFBCSMPKNRUELSI\"}]"
+          },
+          {
+            "title": "吞嚥訓練",
+            "index": 54,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>FHGCWZSXVACNJBHAJKFZKWWEGJAJZQ</p><p>ZIYXDWDJQTGLDYGECFGCQDMCGQYAZM</p><p>CJELWDZODMHEZJNFFRSDVIOKMHCQGJ</p><p>ZUBPMAFKRLEZCHSBVITGWCDRVNTWIQ</p><p>DDUFHNJZYWLPWWNRGUFCUZYEGYCVDH</p>"
+          }
+        ]
+      },
+      {
+        "title": "口語溝通功能",
+        "inputs": [
+          {
+            "title": "口語理解",
+            "index": 55,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "口語理解",
+            "options": [
+              { "text": "無異常" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":false,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":true,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "口語理解",
+            "index": 56,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "口語理解",
+            "index": 57,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_歲",
+            "value": "FVABLUODQFDAFYCGVAIVKGTWIUEJFZ"
+          },
+          {
+            "title": "口語理解",
+            "index": 58,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_個月",
+            "value": "LVTJQYGKTDKQAMMIDYKADOFDJRZATV"
+          },
+          {
+            "title": "口語理解",
+            "index": 59,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "百分位",
+            "value": "PECRRBVBGSJHWQNDYHRDQCYCUAESEW"
+          },
+          {
+            "title": "口語理解",
+            "index": 60,
+            "isRequired": false,
+            "type": "Number",
+            "label": "發展商數",
+            "value": 35
+          },
+          {
+            "title": "口語理解",
+            "index": 61,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "T分數",
+            "value": "CHSCLVFYTFHKFWDZMECDWPDWLVKAAT"
+          },
+          {
+            "title": "口語理解",
+            "index": 62,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估工具",
+            "options": [
+              { "text": "臨床觀察" },
+              { "text": "臨床晤談" },
+              { "text": "修訂畢保德圖畫詞彙測驗 (PPVT-R)" },
+              { "text": "修訂學前兒童語言障礙評量表" },
+              { "text": "修訂學齡兒童語言障礙評量表" },
+              { "text": "學前兒童語言能力測驗" },
+              { "text": "嬰幼兒綜合發展測驗 (CDIIT)" },
+              { "text": "零至三歲華語嬰幼兒溝通及語言診斷測驗 (0-3CLST)" },
+              { "text": "華語兒童理解與表達詞彙測驗 (REVT)" },
+              { "text": "學前幼兒與國小低年級兒童口語語法診斷測驗" },
+              { "text": "其他(請敘明)", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"臨床觀察\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨床晤談\",\"checked\":true,\"value\":\"\"},{\"text\":\"修訂畢保德圖畫詞彙測驗 (PPVT-R)\",\"checked\":true,\"value\":\"\"},{\"text\":\"修訂學前兒童語言障礙評量表\",\"checked\":true,\"value\":\"\"},{\"text\":\"修訂學齡兒童語言障礙評量表\",\"checked\":true,\"value\":\"\"},{\"text\":\"學前兒童語言能力測驗\",\"checked\":true,\"value\":\"\"},{\"text\":\"嬰幼兒綜合發展測驗 (CDIIT)\",\"checked\":true,\"value\":\"\"},{\"text\":\"零至三歲華語嬰幼兒溝通及語言診斷測驗 (0-3CLST)\",\"checked\":true,\"value\":\"\"},{\"text\":\"華語兒童理解與表達詞彙測驗 (REVT)\",\"checked\":true,\"value\":\"\"},{\"text\":\"學前幼兒與國小低年級兒童口語語法診斷測驗\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他(請敘明)\",\"checked\":true,\"hasInput\":true,\"value\":\"ZRHSAAEXRDFICDLCJTIMHPVBANDQEX\"}]"
+          },
+          {
+            "title": "口語理解",
+            "index": 63,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>AWSUPXDKJCXLNKUAMYPGFNXATWBGDJ</p><p>RKTOWISBBEXRXKSFXWDMOFEUOXRDGJ</p><p>LFZGEWMDOKMKPABIORMVHKSVCLLKVT</p><p>IIYTAINLWPDHPKUBVVBWEIZQUKDVVC</p><p>LRPBSJUPLWBUPYIFIOADQPWNTPTOHE</p>"
+          },
+          {
+            "title": "理解訓練",
+            "index": 64,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "理解訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "理解訓練",
+            "index": 65,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "聽能訓練" },
+              { "text": "鼓勵兒童對話時能注視說話者" },
+              {
+                "text": "理解手勢及肢體動作的意思(如：搖頭／搖手表示”不可以”)"
+              },
+              { "text": "聽懂無手勢動作提示的單一口語指令(如：拿積木給我)" },
+              { "text": "能指認一般日常生活等熟悉物品或圖片(如：杯子／蘋果)" },
+              { "text": "理解形容詞、感覺、表情等抽象詞彙" },
+              { "text": "理解兩個或以上連續動作指令" },
+              { "text": "理解複雜句型" },
+              { "text": "理解經歷過的事件內容" },
+              { "text": "理解故事內容" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"聽能訓練\",\"checked\":true,\"value\":\"\"},{\"text\":\"鼓勵兒童對話時能注視說話者\",\"checked\":true,\"value\":\"\"},{\"text\":\"理解手勢及肢體動作的意思(如：搖頭／搖手表示”不可以”)\",\"checked\":true,\"value\":\"\"},{\"text\":\"聽懂無手勢動作提示的單一口語指令(如：拿積木給我)\",\"checked\":true,\"value\":\"\"},{\"text\":\"能指認一般日常生活等熟悉物品或圖片(如：杯子／蘋果)\",\"checked\":true,\"value\":\"\"},{\"text\":\"理解形容詞、感覺、表情等抽象詞彙\",\"checked\":true,\"value\":\"\"},{\"text\":\"理解兩個或以上連續動作指令\",\"checked\":true,\"value\":\"\"},{\"text\":\"理解複雜句型\",\"checked\":true,\"value\":\"\"},{\"text\":\"理解經歷過的事件內容\",\"checked\":true,\"value\":\"\"},{\"text\":\"理解故事內容\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"ZCRQWZSSIQXJJDFGNYNUGRDXMTOIOK\"}]"
+          },
+          {
+            "title": "理解訓練",
+            "index": 66,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>WCOQWFPHHLYFAHBEEWHQKWOGKQTKIE</p><p>VGNQYZBERKGNZLTKGCIFVJIADFOBVX</p><p>NUDUJNVCHLMXPXSQBGFJQVTBCVGMUS</p><p>GGHAWSAYXHJKTAKZVMFZNZNGXZQQAK</p><p>WRBXWPZYUPJAZDLPWZRMXKKIVNPITD</p>"
+          },
+          {
+            "title": "口語表達",
+            "index": 67,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "口語表達",
+            "options": [
+              { "text": "無異常" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":false,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":true,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "口語表達",
+            "index": 68,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "口語表達",
+            "index": 69,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_歲",
+            "value": "CFFSDWZCYJZAUXPHBSEZWCXKOQDENI"
+          },
+          {
+            "title": "口語表達",
+            "index": 70,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_個月",
+            "value": "IGMLUWBCEYYDQWKCPAOYJUHHLQNBMC"
+          },
+          {
+            "title": "口語表達",
+            "index": 71,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "百分位",
+            "value": "XRBVYPZCCGAFHEOUDWVOMQIMUFFFAI"
+          },
+          {
+            "title": "口語表達",
+            "index": 72,
+            "isRequired": false,
+            "type": "Number",
+            "label": "發展商數",
+            "value": 31
+          },
+          {
+            "title": "口語表達",
+            "index": 73,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "T分數",
+            "value": "SGGJKBURLIAQYYLSQDADSOBNXILDEQ"
+          },
+          {
+            "title": "口語表達",
+            "index": 74,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估工具",
+            "options": [
+              { "text": "臨床觀察" },
+              { "text": "臨床晤談" },
+              { "text": "修訂學前兒童語言障礙評量表" },
+              { "text": "修訂學齡兒童語言障礙評量表" },
+              { "text": "嬰幼兒綜合發展測驗 (CDIIT)" },
+              { "text": "零至三歲華語嬰幼兒溝通及語言診斷測驗 (0-3CLST)" },
+              { "text": "華語兒童理解與表達詞彙測驗 (REVT)" },
+              { "text": "其他(請敘明)", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"臨床觀察\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨床晤談\",\"checked\":true,\"value\":\"\"},{\"text\":\"修訂學前兒童語言障礙評量表\",\"checked\":true,\"value\":\"\"},{\"text\":\"修訂學齡兒童語言障礙評量表\",\"checked\":true,\"value\":\"\"},{\"text\":\"嬰幼兒綜合發展測驗 (CDIIT)\",\"checked\":true,\"value\":\"\"},{\"text\":\"零至三歲華語嬰幼兒溝通及語言診斷測驗 (0-3CLST)\",\"checked\":true,\"value\":\"\"},{\"text\":\"華語兒童理解與表達詞彙測驗 (REVT)\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他(請敘明)\",\"checked\":true,\"hasInput\":true,\"value\":\"KZNDOSJMZCMLEKRSVHEBJHJKJBFDXK\"}]"
+          },
+          {
+            "title": "口語表達",
+            "index": 75,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>FBCIBXRWDGPADMTBYUAXVZCNKGNSOO</p><p>QEJOVCISZBASIBBCPQDFRFEBUJBXDL</p><p>EPEIAOTCMLIZRLUDACPDEVNJQLGPRR</p><p>TWUWAJEXLBWPLZLEDEZOWFYOCOFMHL</p><p>ZJCIENRQFVBOUEENNONCPIRYUNCRBL</p>"
+          },
+          {
+            "title": "表達訓練",
+            "index": 76,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "表達訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "表達訓練",
+            "index": 77,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "使用溝通輔具／手勢／手語輔助溝通" },
+              { "text": "提升語用溝通技巧" },
+              { "text": "增加主動表達的意願和機會" },
+              { "text": "模仿發聲或模仿語音(發聲遊戲)" },
+              { "text": "以單字加上手勢動作表達，如：我要" },
+              { "text": "加強詞彙使用，如：常見物品名稱、功能性詞彙" },
+              { "text": "加強完整句的表達，如：我要喝水" },
+              { "text": "加強抽象詞彙的表達，如：好大的車子" },
+              { "text": "增長語句長度" },
+              { "text": "練習使用複雜句表達(如：因為…就…)" },
+              { "text": "練習描述經歷過的事件或說故事" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"使用溝通輔具／手勢／手語輔助溝通\",\"checked\":true,\"value\":\"\"},{\"text\":\"提升語用溝通技巧\",\"checked\":true,\"value\":\"\"},{\"text\":\"增加主動表達的意願和機會\",\"checked\":true,\"value\":\"\"},{\"text\":\"模仿發聲或模仿語音(發聲遊戲)\",\"checked\":true,\"value\":\"\"},{\"text\":\"以單字加上手勢動作表達，如：我要\",\"checked\":true,\"value\":\"\"},{\"text\":\"加強詞彙使用，如：常見物品名稱、功能性詞彙\",\"checked\":true,\"value\":\"\"},{\"text\":\"加強完整句的表達，如：我要喝水\",\"checked\":true,\"value\":\"\"},{\"text\":\"加強抽象詞彙的表達，如：好大的車子\",\"checked\":true,\"value\":\"\"},{\"text\":\"增長語句長度\",\"checked\":true,\"value\":\"\"},{\"text\":\"練習使用複雜句表達(如：因為…就…)\",\"checked\":true,\"value\":\"\"},{\"text\":\"練習描述經歷過的事件或說故事\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"PZZNBVPQMHANHSXCBVIYFWIOLDQZDR\"}]"
+          },
+          {
+            "title": "表達訓練",
+            "index": 78,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>VXKRQVIGZZWGGACPBYKSQIURZIYENT</p><p>QIAJMESDCKGILQSBKNWVWTAZDVSVUV</p><p>IEQXOUXCOFMNIRJRXYSWQKTETHTOTQ</p><p>XPWVELKQLQCGIMJFQPLHCGNZIOMWGS</p><p>YXQJKDNXEKJTFJCKGVIWOQXRVYIFNR</p>"
+          },
+          {
+            "title": "語用訓練",
+            "index": 79,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "語用訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "語用訓練",
+            "index": 80,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "建立對事物的廣泛興趣，勿過於侷限" },
+              { "text": "維持合乎情境的對話主題" },
+              { "text": "維持一來一往的對話輪替" },
+              { "text": "能使用合乎情境的適當口語" },
+              { "text": "能聽懂笑話、雙關語或詞彙非字面的意義" },
+              { "text": "能適切的開啟及結束對話" },
+              { "text": "增加語用預設的能力" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"建立對事物的廣泛興趣，勿過於侷限\",\"checked\":true,\"value\":\"\"},{\"text\":\"維持合乎情境的對話主題\",\"checked\":true,\"value\":\"\"},{\"text\":\"維持一來一往的對話輪替\",\"checked\":true,\"value\":\"\"},{\"text\":\"能使用合乎情境的適當口語\",\"checked\":true,\"value\":\"\"},{\"text\":\"能聽懂笑話、雙關語或詞彙非字面的意義\",\"checked\":true,\"value\":\"\"},{\"text\":\"能適切的開啟及結束對話\",\"checked\":true,\"value\":\"\"},{\"text\":\"增加語用預設的能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"WUJPNMLUPCEPGHWJZDFEJUAFPQYYOO\"}]"
+          },
+          {
+            "title": "說話",
+            "index": 81,
+            "isRequired": false,
+            "type": "MultipleChoices",
+            "label": "說話",
+            "options": [
+              { "text": "無異常" },
+              { "text": "異常" },
+              { "text": "需要追蹤及諮詢" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":false,\"value\":\"\"},{\"text\":\"異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "說話",
+            "index": 82,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "說話",
+            "index": 83,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估結果",
+            "options": [
+              { "text": "構音障礙" },
+              { "text": "言語不流暢/口吃/迅吃" },
+              { "text": "嗓音障礙" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"構音障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"言語不流暢/口吃/迅吃\",\"checked\":true,\"value\":\"\"},{\"text\":\"嗓音障礙\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"TEHUKIXSHAWOAASZCLFKDPWHWPOSLG\"}]"
+          },
+          {
+            "title": "說話",
+            "index": 84,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估工具",
+            "options": [
+              { "text": "國語正音檢核表" },
+              { "text": "華語兒童構音與音韻測驗" },
+              { "text": "修訂中文口吃嚴重度評估工具(兒童版)" },
+              { "text": "其他(請敘明)", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"國語正音檢核表\",\"checked\":true,\"value\":\"\"},{\"text\":\"華語兒童構音與音韻測驗\",\"checked\":true,\"value\":\"\"},{\"text\":\"修訂中文口吃嚴重度評估工具(兒童版)\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他(請敘明)\",\"checked\":true,\"hasInput\":true,\"value\":\"BLWDIBKFNLOJPCNOETOMIKQYLQJCMT\"}]"
+          },
+          {
+            "title": "說話",
+            "index": 85,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "構音矯正" },
+              { "text": "語暢訓練" },
+              { "text": "嗓音復健" },
+              { "text": "嗓音保健" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"構音矯正\",\"checked\":true,\"value\":\"\"},{\"text\":\"語暢訓練\",\"checked\":true,\"value\":\"\"},{\"text\":\"嗓音復健\",\"checked\":true,\"value\":\"\"},{\"text\":\"嗓音保健\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"YIHKDZKANCVTSEXABDJVNECEOFXBID\"}]"
+          },
+          {
+            "title": "說話",
+            "index": 86,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>AYGKUYNOANIABUQCXRYKGDYBJIIJXZ</p><p>XVYKJEUSDWKZBEHMFMWOLWERXHPJVA</p><p>KORNJREVDKYQSIPRNCVXGQFPBKVGQJ</p><p>FZUHOZOKKFLWJFOWPSQOKUAPYNLMLE</p><p>GCPMUONACZRXYGKMKQDFVZOMNSUYCC</p>"
+          }
+        ]
+      },
+      {
+        "title": "認知功能",
+        "inputs": [
+          {
+            "title": "認知功能",
+            "index": 87,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "認知功能",
+            "options": [
+              { "text": "無異常" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":false,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":true,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "認知功能",
+            "index": 88,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "認知功能",
+            "index": 89,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "發展商數或智商(百分位)",
+            "value": "MBMHZVEGQBUGQPXXBICLPFJFWSVTHO"
+          },
+          {
+            "title": "認知功能",
+            "index": 90,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "分量表(發展年齡／SS)",
+            "value": "LRKCUOLLMGOPQIFGJJWENWIWRUSDQR"
+          },
+          {
+            "title": "認知功能",
+            "index": 91,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估工具",
+            "options": [
+              { "text": "臨床觀察" },
+              { "text": "臨床晤談" },
+              { "text": "貝萊嬰兒發展量表 (Bayley-II或III)" },
+              { "text": "魏氏幼兒智力量表 (WPPSI-R 或 IV)" },
+              { "text": "魏氏兒童智力量表 (WISC-III或 IV)" },
+              { "text": "斯比智力量表(S-B IV或V)" },
+              { "text": "來特國際操作量表 (Leiter-R 或 III)" },
+              { "text": "穆林早期學期量表" },
+              { "text": "托尼非語文智力測驗-再版 (幼兒版 E1-7)" },
+              { "text": "適應行為評量系統第二版 (ABAS-II)" },
+              { "text": "社會適應表現檢核表" },
+              { "text": "文蘭適應行為量表教室版 (VABS)" },
+              {
+                "text": "電腦化持續性注意力測驗Conners’ Continuous Performance Test (CPT II)或(CPT III)或Conners Kiddie Continuous Performance Test II (KCPT II)"
+              },
+              { "text": "其他(請敘明)", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"臨床觀察\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨床晤談\",\"checked\":true,\"value\":\"\"},{\"text\":\"貝萊嬰兒發展量表 (Bayley-II或III)\",\"checked\":true,\"value\":\"\"},{\"text\":\"魏氏幼兒智力量表 (WPPSI-R 或 IV)\",\"checked\":true,\"value\":\"\"},{\"text\":\"魏氏兒童智力量表 (WISC-III或 IV)\",\"checked\":true,\"value\":\"\"},{\"text\":\"斯比智力量表(S-B IV或V)\",\"checked\":true,\"value\":\"\"},{\"text\":\"來特國際操作量表 (Leiter-R 或 III)\",\"checked\":true,\"value\":\"\"},{\"text\":\"穆林早期學期量表\",\"checked\":true,\"value\":\"\"},{\"text\":\"托尼非語文智力測驗-再版 (幼兒版 E1-7)\",\"checked\":true,\"value\":\"\"},{\"text\":\"適應行為評量系統第二版 (ABAS-II)\",\"checked\":true,\"value\":\"\"},{\"text\":\"社會適應表現檢核表\",\"checked\":true,\"value\":\"\"},{\"text\":\"文蘭適應行為量表教室版 (VABS)\",\"checked\":true,\"value\":\"\"},{\"text\":\"電腦化持續性注意力測驗Conners’ Continuous Performance Test (CPT II)或(CPT III)或Conners Kiddie Continuous Performance Test II (KCPT II)\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他(請敘明)\",\"checked\":true,\"hasInput\":true,\"value\":\"CGSEYMTQXOTSWBEKTMNQWCWDLETBJG\"}]"
+          },
+          {
+            "title": "認知功能",
+            "index": 92,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>WJEISIAWFAXTPJZAAGHHMLJZSISWKX</p><p>XSOYHBYDSYXVBFURSZVKYKUOZAYJBH</p><p>BWMMXDJDOJRSGXVSZVTANWAKRIVQAG</p><p>RRBPUGJWASCXAUYGALTYBIVSFHGQVU</p><p>KHYMUYSCQIETRPYSBBTVFFSJEKDVTQ</p>"
+          },
+          {
+            "title": "認知功能訓練",
+            "index": 93,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "認知功能訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "認知功能訓練",
+            "index": 94,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "嬰兒刺激/促發活動" },
+              {
+                "text": "認知技能促發(遊戲、物品使用、符號及表徵技能、模仿能力、問題解決、區辨、概念形成、一一對應、順序能力、畫圖等)"
+              },
+              { "text": "語彙/語意、基底常識、敘事、論述與對話能力" },
+              { "text": "良好工作習慣" },
+              { "text": "專注、記憶與執行功能" },
+              { "text": "提供童書、玩具和遊戲處方" },
+              { "text": "結構環境策略" },
+              { "text": "生活適應(相關認知應用)訓練" },
+              { "text": "接受應用行為原理強化目標行為的訓練方案" },
+              { "text": "教育／社區資源參與" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"嬰兒刺激/促發活動\",\"checked\":true,\"value\":\"\"},{\"text\":\"認知技能促發(遊戲、物品使用、符號及表徵技能、模仿能力、問題解決、區辨、概念形成、一一對應、順序能力、畫圖等)\",\"checked\":true,\"value\":\"\"},{\"text\":\"語彙/語意、基底常識、敘事、論述與對話能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"良好工作習慣\",\"checked\":true,\"value\":\"\"},{\"text\":\"專注、記憶與執行功能\",\"checked\":true,\"value\":\"\"},{\"text\":\"提供童書、玩具和遊戲處方\",\"checked\":true,\"value\":\"\"},{\"text\":\"結構環境策略\",\"checked\":true,\"value\":\"\"},{\"text\":\"生活適應(相關認知應用)訓練\",\"checked\":true,\"value\":\"\"},{\"text\":\"接受應用行為原理強化目標行為的訓練方案\",\"checked\":true,\"value\":\"\"},{\"text\":\"教育／社區資源參與\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"CZDKOFLAEJIPRAFGJVNCYIFORAWPGB\"}]"
+          },
+          {
+            "title": "認知功能訓練",
+            "index": 95,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>ODCWSIJRVEZVRNUWVRMURMEGNZKDJO</p><p>LCBETAPFZKFEJZKVYKKFDZFQCNYKWH</p><p>MREACNJCDYLVIQRBRQSCJDYXAEHIYX</p><p>QLBBACKNTKOLYDUUFCRRAVEVXIGVYB</p><p>XEFJUWWSNZVSUKMRWYPWTLNJEVPKJM</p>"
+          }
+        ]
+      },
+      {
+        "title": "社會情緒功能",
+        "inputs": [
+          {
+            "title": "情緒行為與社會適應功能",
+            "index": 96,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "情緒行為與社會適應功能",
+            "options": [
+              { "text": "無異常" },
+              { "text": "臨界" },
+              { "text": "異常" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":false,\"value\":\"\"},{\"text\":\"臨界\",\"checked\":true,\"value\":\"\"},{\"text\":\"異常\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "情緒行為與社會適應功能",
+            "index": 97,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "情緒行為與社會適應功能",
+            "index": 98,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估工具",
+            "options": [
+              { "text": "臨床觀察" },
+              { "text": "臨床晤談" },
+              { "text": "Autism Diagnostic Observation Schedule (ADOS或II)" },
+              { "text": "The Childhood Autism Rating Scale(CARS 或II)" },
+              { "text": "Clancy Behavior Scale" },
+              { "text": "Modified Checklist for Autism in Toddlers" },
+              {
+                "text": "Screening Tool for Autism in Toddlers & Young Children"
+              },
+              { "text": "Bayley-III Social-Emotional Questionnaire" },
+              { "text": "Leiter-R或3 Rating Scale" },
+              { "text": "適應行為評量系統第二版(ABAS-II)" },
+              { "text": "社會適應表現檢核表" },
+              { "text": "文蘭適應行為量表教室版(VABS或 II)" },
+              { "text": "嬰幼兒綜合發展測驗(CDIIT)" },
+              { "text": "兒童氣質量表" },
+              { "text": "SNAP-IV" },
+              { "text": "決裂(干擾)行為量表" },
+              { "text": "兒童活動量表" },
+              {
+                "text": "阿肯巴克實證衡鑑系統(ASEBA；臺灣版)、CBCL、C-TRF、TRF"
+              },
+              { "text": "其他(請敘明)", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"臨床觀察\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨床晤談\",\"checked\":true,\"value\":\"\"},{\"text\":\"Autism Diagnostic Observation Schedule (ADOS或II)\",\"checked\":true,\"value\":\"\"},{\"text\":\"The Childhood Autism Rating Scale(CARS 或II)\",\"checked\":true,\"value\":\"\"},{\"text\":\"Clancy Behavior Scale\",\"checked\":true,\"value\":\"\"},{\"text\":\"Modified Checklist for Autism in Toddlers\",\"checked\":true,\"value\":\"\"},{\"text\":\"Screening Tool for Autism in Toddlers & Young Children\",\"checked\":true,\"value\":\"\"},{\"text\":\"Bayley-III Social-Emotional Questionnaire\",\"checked\":true,\"value\":\"\"},{\"text\":\"Leiter-R或3 Rating Scale\",\"checked\":true,\"value\":\"\"},{\"text\":\"適應行為評量系統第二版(ABAS-II)\",\"checked\":true,\"value\":\"\"},{\"text\":\"社會適應表現檢核表\",\"checked\":true,\"value\":\"\"},{\"text\":\"文蘭適應行為量表教室版(VABS或 II)\",\"checked\":true,\"value\":\"\"},{\"text\":\"嬰幼兒綜合發展測驗(CDIIT)\",\"checked\":true,\"value\":\"\"},{\"text\":\"兒童氣質量表\",\"checked\":true,\"value\":\"\"},{\"text\":\"SNAP-IV\",\"checked\":true,\"value\":\"\"},{\"text\":\"決裂(干擾)行為量表\",\"checked\":true,\"value\":\"\"},{\"text\":\"兒童活動量表\",\"checked\":true,\"value\":\"\"},{\"text\":\"阿肯巴克實證衡鑑系統(ASEBA；臺灣版)、CBCL、C-TRF、TRF\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他(請敘明)\",\"checked\":true,\"hasInput\":true,\"value\":\"VVDAIJSSCLWITNNMSDFOSUADSXFFOK\"}]"
+          },
+          {
+            "title": "情緒行為與社會適應功能",
+            "index": 99,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "宜處理的問題行為",
+            "value": "<p>NILJEMCVPSMCRJLLJSQQSQZSVUVUST</p><p>BTCGWYFPLGOHQCBOZSEAIUISLFAXRI</p><p>IMBZBHZCOPVIZOHYYKILRTGBHZHYRM</p><p>JARITLSFWAKVSFIQPKTLFHSQJPGIZH</p><p>IIAMYNAHHJFEZLZFJRFISKQWOYSCTP</p>"
+          },
+          {
+            "title": "情緒行為與社會適應功能",
+            "index": 100,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>ZCPFLPVHHFEDZUQTMJGLRHQHTFCBZD</p><p>AITDRZDUTUSPMWCYEKLYMDYIQNSULB</p><p>QUYSWIRTYMPOZOHOZJJCOZOFLYAPBX</p><p>IIIRCMXMFJVOADYLOLLAEEEIOSCQRO</p><p>BCFEVSOMULSXFJNVRJIKOYFMTVVBUN</p>"
+          },
+          {
+            "title": "情緒行為與社會適應功能訓練",
+            "index": 101,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "情緒行為與社會適應功能訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "情緒行為與社會適應功能訓練",
+            "index": 102,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "心理行為治療(團體/個別)" },
+              { "text": "提升表達身心需求能力" },
+              { "text": "提升社會互動的興趣" },
+              { "text": "增強表情辨識、情緒解讀之能力" },
+              { "text": "提升注意與理解互動對象意圖、情緒感受之能力" },
+              {
+                "text": "提升理解情境潛規則及合宜社交應對行為 (如對話、合作遊戲、友誼處理、自我調節、同理、衝突處理等)"
+              },
+              { "text": "提升情緒調節能力" },
+              {
+                "text": "運用行為功能分析及行為改變策略處理行為問題及行為塑造"
+              },
+              { "text": "提升團體生活之常規遵循能力" },
+              { "text": "使用教室管理策略" },
+              { "text": "親職諮商" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"心理行為治療(團體/個別)\",\"checked\":true,\"value\":\"\"},{\"text\":\"提升表達身心需求能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"提升社會互動的興趣\",\"checked\":true,\"value\":\"\"},{\"text\":\"增強表情辨識、情緒解讀之能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"提升注意與理解互動對象意圖、情緒感受之能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"提升理解情境潛規則及合宜社交應對行為 (如對話、合作遊戲、友誼處理、自我調節、同理、衝突處理等)\",\"checked\":true,\"value\":\"\"},{\"text\":\"提升情緒調節能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"運用行為功能分析及行為改變策略處理行為問題及行為塑造\",\"checked\":true,\"value\":\"\"},{\"text\":\"提升團體生活之常規遵循能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"使用教室管理策略\",\"checked\":true,\"value\":\"\"},{\"text\":\"親職諮商\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"RQWTQSTOJLVYHQRLNIELXOXTSJJDOY\"}]"
+          },
+          {
+            "title": "情緒行為與社會適應功能訓練",
+            "index": 103,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>BUMUYFKIJLFCNMVVRVOHRNBHMVKSPS</p><p>RJLGPOHBNAGLPLSHWLKBRPALHWBXHJ</p><p>NBDHCMOVLUHNFXXECIEWIHENKRSZNT</p><p>LXABACIVLIYSUMMGKBPROWOGLXKUPH</p><p>MVGRSWRHGHHXVTRSIWWJYEWHHLEDMU</p>"
+          }
+        ]
+      },
+      {
+        "title": "日常生活功能",
+        "inputs": [
+          {
+            "title": "飲食",
+            "index": 104,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "飲食",
+            "options": [
+              { "text": "無異常" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":false,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":true,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "飲食",
+            "index": 105,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "飲食",
+            "index": 106,
+            "isRequired": false,
+            "type": "LikertScale",
+            "label": "評估方法",
+            "likertOptions": ["O", "V", "X"],
+            "options": [
+              { "text": "臨床觀察", "isNormalOption": true },
+              { "text": "臨床晤談", "isNormalOption": true },
+              {
+                "text": "自己會拿奶瓶喝奶或拿餅乾吃(1歲)",
+                "description": "(可以獨立完成請打O、需要協助請打V、完全依賴請打X)"
+              },
+              { "text": "會用聲音或動作表達想吃東西或想喝水(1-1.5歲)" },
+              { "text": "自己用湯匙吃東西(1.5-2歲)" },
+              { "text": "可使用吸管喝飲料(1.5歲)" },
+              { "text": "自己可以雙手拿著杯子喝水(2.5歲)" },
+              { "text": "自己用筷子夾食物吃(5.5-6歲)" },
+              { "text": "其他", "hasInput": true, "isNormalOption": true }
+            ],
+            "value": "[{\"text\":\"臨床觀察\",\"checked\":false,\"value\":\"DGCIGIJFISZTMEVPLNFHGUDNFUXUZT\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}],\"isNormalOption\":true},{\"text\":\"臨床晤談\",\"checked\":false,\"value\":\"VXSBHRWSSVEYCSWCSHVLJRLPILQIQZ\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}],\"isNormalOption\":true},{\"text\":\"自己會拿奶瓶喝奶或拿餅乾吃(1歲)\",\"checked\":false,\"value\":\"UQJEVBUDZOWPMIWIUOQHBRKWSRHONW\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}],\"description\":\"(可以獨立完成請打O、需要協助請打V、完全依賴請打X)\"},{\"text\":\"會用聲音或動作表達想吃東西或想喝水(1-1.5歲)\",\"checked\":false,\"value\":\"UPKWWUUTCPAYPXWTGAZWISDUNBCMPA\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"自己用湯匙吃東西(1.5-2歲)\",\"checked\":false,\"value\":\"DAHEXYIYVWEWEWJXIIHLQROBSWHLRP\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"可使用吸管喝飲料(1.5歲)\",\"checked\":false,\"value\":\"WMQHVMELOWHGVRNLSRJCODZENZDDGU\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"自己可以雙手拿著杯子喝水(2.5歲)\",\"checked\":false,\"value\":\"XXBDGDWBBWIYCJDAJBCRAPXQMGHDQG\",\"selectedValue\":\"O\",\"likertOptions\":[{\"text\":\"O\",\"checked\":true},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"自己用筷子夾食物吃(5.5-6歲)\",\"checked\":false,\"value\":\"HDGKJSQKKLWMQJWGBNMUCZJTBIXQYV\",\"selectedValue\":\"O\",\"likertOptions\":[{\"text\":\"O\",\"checked\":true},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"其他\",\"checked\":false,\"hasInput\":true,\"value\":\"XRKUNOYXRZOXDZWKCQMIFPWRNUJZMQ\",\"selectedValue\":\"O\",\"likertOptions\":[{\"text\":\"O\",\"checked\":true},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":false}],\"isNormalOption\":true}]"
+          },
+          {
+            "title": "飲食",
+            "index": 107,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>EWWLIRCTHYUMFPKWXZDXIDBTCKXMIK</p><p>LUXMAMZQKFOKILIWILKLNOWTMSMIWM</p><p>OTWOFEQYMZIMXSATOBXYOALHUGXDMO</p><p>AOQKROLTSAUVAIKYHYRQXEDNNPTHNX</p><p>EPISNCRGXECRMXTVWOUUINNWVTTPTJ</p>"
+          },
+          {
+            "title": "飲食訓練",
+            "index": 108,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "飲食訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "飲食訓練",
+            "index": 109,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "會表示要吃東西" },
+              { "text": "大人餵食時，練習用手扶食器或用嘴抿食物" },
+              { "text": "使用吸管喝飲料" },
+              { "text": "自己用湯匙吃東西或拿杯子喝水" },
+              { "text": "練習用筷子吃東西" },
+              { "text": "練習吃喝東西很少或不會掉落殘渣" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"會表示要吃東西\",\"checked\":true,\"value\":\"\"},{\"text\":\"大人餵食時，練習用手扶食器或用嘴抿食物\",\"checked\":true,\"value\":\"\"},{\"text\":\"使用吸管喝飲料\",\"checked\":true,\"value\":\"\"},{\"text\":\"自己用湯匙吃東西或拿杯子喝水\",\"checked\":true,\"value\":\"\"},{\"text\":\"練習用筷子吃東西\",\"checked\":true,\"value\":\"\"},{\"text\":\"練習吃喝東西很少或不會掉落殘渣\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"RBFAQTNTMPKWDDGRTHYFYHKDGEHVFO\"}]"
+          },
+          {
+            "title": "飲食訓練",
+            "index": 110,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>MZLKGVJRDVTURDNICDYUDRRXLHIIFF</p><p>VQKGDXMXZBALTBXIWAECDMTUNCHTEF</p><p>MASGGVZRZZVPIIXTAPKJZTCIOEBOIZ</p><p>OOUHRGOTDMAARTHGOJYSHSOKCRTVGJ</p><p>DTYLSMBPBOXPLWMLPZSNMMJEKDVELD</p>"
+          },
+          {
+            "title": "穿脫衣",
+            "index": 111,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "穿脫衣",
+            "options": [
+              { "text": "無異常" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":false,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "穿脫衣",
+            "index": 112,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "穿脫衣",
+            "index": 113,
+            "isRequired": false,
+            "type": "LikertScale",
+            "label": "評估方法",
+            "likertOptions": ["O", "V", "X"],
+            "options": [
+              { "text": "臨床觀察", "isNormalOption": true },
+              { "text": "臨床晤談", "isNormalOption": true },
+              {
+                "text": "可自己脫掉外套或鞋子(不包含開扣子與解鞋帶)(2歲)",
+                "description": "(可以獨立完成請打O、需要協助請打V、完全依賴請打X)"
+              },
+              {
+                "text": "可自己穿上襪子、鞋子(可能對不正、穿錯腳，不含繫鞋帶) (3歲)"
+              },
+              { "text": "可以自己穿上衣 (3.5歲)" },
+              { "text": "可自己脫套頭的衣服(4歲)" },
+              { "text": "可以扣一般大小的扣子(4.5歲)" },
+              { "text": "可完全獨立穿脫衣物(5-6歲)" },
+              { "text": "其他", "hasInput": true, "isNormalOption": true }
+            ],
+            "value": "[{\"text\":\"臨床觀察\",\"checked\":false,\"value\":\"LGGSPKQYOPNYVADESKPTFXTDSKOFXZ\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}],\"isNormalOption\":true},{\"text\":\"臨床晤談\",\"checked\":false,\"value\":\"MYFFCANBPYAXYTJAHINWDQBORESUAX\",\"selectedValue\":\"O\",\"likertOptions\":[{\"text\":\"O\",\"checked\":true},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":false}],\"isNormalOption\":true},{\"text\":\"可自己脫掉外套或鞋子(不包含開扣子與解鞋帶)(2歲)\",\"checked\":false,\"value\":\"EJXXZUFLXYVOBFDMDLIQWMISIKGAWS\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}],\"description\":\"(可以獨立完成請打O、需要協助請打V、完全依賴請打X)\"},{\"text\":\"可自己穿上襪子、鞋子(可能對不正、穿錯腳，不含繫鞋帶) (3歲)\",\"checked\":false,\"value\":\"SHEOPGAYNFJCLEUFAEJRYHHVUATCFT\",\"selectedValue\":\"O\",\"likertOptions\":[{\"text\":\"O\",\"checked\":true},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"可以自己穿上衣 (3.5歲)\",\"checked\":false,\"value\":\"RKMSNPLVMSTVIMMFGYIUZUBOCQMYES\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"可自己脫套頭的衣服(4歲)\",\"checked\":false,\"value\":\"UQVFQCZIZIPMTNAJUVYOFLUTKDOPNK\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"可以扣一般大小的扣子(4.5歲)\",\"checked\":false,\"value\":\"TWKOFLMWBIVQMNZELUPLGFQJOJAWEZ\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"可完全獨立穿脫衣物(5-6歲)\",\"checked\":false,\"value\":\"KDYJWBGJUSHFAQDGUZHXTPCBJAVSHZ\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"其他\",\"checked\":false,\"hasInput\":true,\"value\":\"WYQHSEIPDYVRDIYOBNRJOPVDPSWEJJ\",\"selectedValue\":\"O\",\"likertOptions\":[{\"text\":\"O\",\"checked\":true},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":false}],\"isNormalOption\":true}]"
+          },
+          {
+            "title": "穿脫衣",
+            "index": 114,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>OMAJVQENLOXTTQTARMISTYHDYOTXPF</p><p>KBSOEZKYSMBNXKNBKXYNVNXYBNYPBW</p><p>DGZTIDWZRTEEFUAXLBNBVCQQMAKYPD</p><p>FAAMGFZFXJZFBTVULZYLQBJAETWSSL</p><p>ROUZVSPWOMYGLZNOQHCLDZARIOCRJW</p>"
+          },
+          {
+            "title": "穿脫衣訓練",
+            "index": 115,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "穿脫衣訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "穿脫衣訓練",
+            "index": 116,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "大人幫忙穿脫衣服、鞋子時，練習配合伸出手腳" },
+              { "text": "練習自己穿脫無釦子的衣褲或無鞋帶的鞋子" },
+              { "text": "練習自行穿脫衣物或鞋子" },
+              { "text": "練習拉拉鍊、綁鞋帶、解釦子、扣釦子" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"大人幫忙穿脫衣服、鞋子時，練習配合伸出手腳\",\"checked\":true,\"value\":\"\"},{\"text\":\"練習自己穿脫無釦子的衣褲或無鞋帶的鞋子\",\"checked\":true,\"value\":\"\"},{\"text\":\"練習自行穿脫衣物或鞋子\",\"checked\":true,\"value\":\"\"},{\"text\":\"練習拉拉鍊、綁鞋帶、解釦子、扣釦子\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"FBYTHFTQUVNRLDAXKBJALPPNDCBYKQ\"}]"
+          },
+          {
+            "title": "穿脫衣訓練",
+            "index": 117,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>GOGZQJZXKTHNEVEQWEBREZCEZOMIJC</p><p>SZFMSQKKPVMMANUQLUBNGRWQWDNXAK</p><p>KQDXFJFRIOPWVYHYISZLHKXRFUVDCJ</p><p>AUHPUTIMUKVSOVLYFVPDYUYXHDDKJD</p><p>WRKILBNIWGRRPEUURGCZLJQNOVFTVP</p>"
+          },
+          {
+            "title": "盥洗衛生",
+            "index": 118,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "盥洗衛生",
+            "options": [
+              { "text": "無異常" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":false,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "盥洗衛生",
+            "index": 119,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "盥洗衛生",
+            "index": 120,
+            "isRequired": false,
+            "type": "LikertScale",
+            "label": "評估方法",
+            "likertOptions": ["O", "V", "X"],
+            "options": [
+              { "text": "臨床觀察", "isNormalOption": true },
+              { "text": "臨床晤談", "isNormalOption": true },
+              {
+                "text": "盥洗：別人幫忙洗澡時，會配合抬手或抬腳(1.5-2歲)",
+                "description": "(可以獨立完成請打O、需要協助請打V、完全依賴請打X)"
+              },
+              { "text": "盥洗：洗手時，可雙手互相搓洗(2-3歲)" },
+              { "text": "盥洗：能獨立完成洗手及擦乾(4歲)" },
+              { "text": "盥洗：可自行刷牙(4歲)" },
+              {
+                "text": "盥洗：在少許協助或監督下，可自己洗臉、洗澡及擦乾(5-6歲)"
+              },
+              { "text": "盥洗：其他", "hasInput": true },
+              { "text": "如廁：尿布濕了或髒了時，會有不舒服的表現(1歲)" },
+              { "text": "如廁：可主動表達要尿尿(2.5歲)" },
+              {
+                "text": "如廁：白天可規律如廁，僅偶爾尿濕褲子或大便在褲子(3歲)"
+              },
+              {
+                "text": "如廁：可自行完成所有如廁的步驟包括穿脫褲子、擦拭、沖水及洗手(5歲)"
+              },
+              { "text": "如廁：其他", "hasInput": true, "isNormalOption": true }
+            ],
+            "value": "[{\"text\":\"臨床觀察\",\"checked\":false,\"value\":\"FUNNVUKLUPOYSKCYOIZYAMPOAYZBKD\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}],\"isNormalOption\":true},{\"text\":\"臨床晤談\",\"checked\":false,\"value\":\"WDVJFCTKTHSTVQELSRJNSSSIEVYSFV\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}],\"isNormalOption\":true},{\"text\":\"盥洗：別人幫忙洗澡時，會配合抬手或抬腳(1.5-2歲)\",\"checked\":false,\"value\":\"JPRWTYRSRXYIULWROXPGSVZGWUSJFD\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}],\"description\":\"(可以獨立完成請打O、需要協助請打V、完全依賴請打X)\"},{\"text\":\"盥洗：洗手時，可雙手互相搓洗(2-3歲)\",\"checked\":false,\"value\":\"EICHWLRECRJNXVRLFCFASUZNLZYGTS\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"盥洗：能獨立完成洗手及擦乾(4歲)\",\"checked\":false,\"value\":\"IZSJQIKDMQBOKGKPJMXRMDPPEYWNWS\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"盥洗：可自行刷牙(4歲)\",\"checked\":false,\"value\":\"VFVALQLTWAWUATWBQEQUMENWJUODRK\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"盥洗：在少許協助或監督下，可自己洗臉、洗澡及擦乾(5-6歲)\",\"checked\":false,\"value\":\"IAQHYCTUDYYVTXRKUMOCMQRBFJQZHS\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"盥洗：其他\",\"checked\":false,\"hasInput\":true,\"value\":\"IXRKRPGSBIUIKMASXYGOOLYFXIRXDX\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"如廁：尿布濕了或髒了時，會有不舒服的表現(1歲)\",\"checked\":false,\"value\":\"NRGVADJGVRHXWPEWDQRDEYARIRWKEL\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"如廁：可主動表達要尿尿(2.5歲)\",\"checked\":false,\"value\":\"TXBYZUNCGXHUDIZGUSBNVXQDHOQMGO\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"如廁：白天可規律如廁，僅偶爾尿濕褲子或大便在褲子(3歲)\",\"checked\":false,\"value\":\"ROBVSVDAMJSQBHFABXZRRPWQBFTLPT\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"如廁：可自行完成所有如廁的步驟包括穿脫褲子、擦拭、沖水及洗手(5歲)\",\"checked\":false,\"value\":\"BOQFIXBAGXMWYPRZNJXWFGEGMGZCHT\",\"selectedValue\":\"O\",\"likertOptions\":[{\"text\":\"O\",\"checked\":true},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"如廁：其他\",\"checked\":false,\"hasInput\":true,\"value\":\"DFLDFSVXSBUJECFUFLNQRSHKCNNYWK\",\"selectedValue\":\"O\",\"likertOptions\":[{\"text\":\"O\",\"checked\":true},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":false}],\"isNormalOption\":true}]"
+          },
+          {
+            "title": "盥洗衛生",
+            "index": 121,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>KAKFYOFMCLRHNUBHJVXWJOUOTHRUFP</p><p>BLABLMXBLGSTHZIXFRLJDBNGNYFWMP</p><p>JDMSQFINYCKUIIMLIDLTSHRJULEHVG</p><p>QYETMYNOHIDVDTVGJDVVHTWJOALKLZ</p><p>BKCRVEQQMOFHBEZCFDXNHANXCEQAJD</p>"
+          },
+          {
+            "title": "盥洗訓練",
+            "index": 122,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "盥洗訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "盥洗訓練",
+            "index": 123,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "表示要大大或尿尿" },
+              { "text": "在別人幫忙下，坐馬桶上廁所" },
+              { "text": "自己去大／小便" },
+              { "text": "擤鼻涕／洗臉／刷牙／漱口／洗澡／洗手" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"表示要大大或尿尿\",\"checked\":true,\"value\":\"\"},{\"text\":\"在別人幫忙下，坐馬桶上廁所\",\"checked\":true,\"value\":\"\"},{\"text\":\"自己去大／小便\",\"checked\":true,\"value\":\"\"},{\"text\":\"擤鼻涕／洗臉／刷牙／漱口／洗澡／洗手\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"AGMAKAPPUCYRFSOHYLCNJWUMHOBXAL\"}]"
+          },
+          {
+            "title": "盥洗訓練",
+            "index": 124,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>MZIPQFFKZIMOVLEKYIDGLVXDIIFJNG</p><p>JNCUTCOOSHTSJYEKSEXJFLEDNMIIFL</p><p>IDIGUQRPQIKUERPTSKRFUVSLBJWBPB</p><p>JQHRFVJQUHITXMTVLGILBJACXZCEXO</p><p>XFGHDGNQJSXLBOKZKOWXQQNELXWXWV</p>"
+          },
+          {
+            "title": "遊戲活動",
+            "index": 125,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "遊戲活動",
+            "options": [
+              { "text": "無異常" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":false,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":true,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "遊戲活動",
+            "index": 126,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "遊戲活動",
+            "index": 127,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_歲",
+            "value": "IBLRXCVYVDKHEGEXEIRKCCJVQJZDQS"
+          },
+          {
+            "title": "遊戲活動",
+            "index": 128,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_個月",
+            "value": "RKSWULWDYSDCOEDAXGQJLPZIELULHL"
+          },
+          {
+            "title": "遊戲活動",
+            "index": 129,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "百分位",
+            "value": "JYSHLATKWKQVQQXJVUDZMYOLMQOLRI"
+          },
+          {
+            "title": "遊戲活動",
+            "index": 130,
+            "isRequired": false,
+            "type": "Number",
+            "label": "發展商數",
+            "value": 21
+          },
+          {
+            "title": "遊戲活動",
+            "index": 131,
+            "isRequired": false,
+            "type": "Number",
+            "label": "標準分數",
+            "value": 13
+          },
+          {
+            "title": "遊戲活動",
+            "index": 132,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估工具",
+            "options": [
+              { "text": "臨床觀察" },
+              { "text": "臨床晤談" },
+              {
+                "text": "Knox學前遊戲量表修正版 (Revised Knox Preschool Play Scale)"
+              },
+              { "text": "玩性評量 (Test of Playfulness)" },
+              { "text": "遊戲史 (Play History)" }
+            ],
+            "value": "[{\"text\":\"臨床觀察\",\"checked\":true,\"value\":\"\"},{\"text\":\"臨床晤談\",\"checked\":true,\"value\":\"\"},{\"text\":\"Knox學前遊戲量表修正版 (Revised Knox Preschool Play Scale)\",\"checked\":true,\"value\":\"\"},{\"text\":\"玩性評量 (Test of Playfulness)\",\"checked\":true,\"value\":\"\"},{\"text\":\"遊戲史 (Play History)\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "遊戲活動",
+            "index": 133,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>VMTKLRDZJXXOTHOPQBTOFNCBTQWDIO</p><p>MXBXNWHCDSYESINCKSVWNBKMCDFUAJ</p><p>EMLBONVIUFLDVJKAXCDUQZKYQZLHQM</p><p>PHNWPIPJXGOPIHSRDEMMCNYEVPYZAX</p><p>MNJIVSEYKKJOPUZICMNCJYZFPELZBJ</p>"
+          },
+          {
+            "title": "遊戲訓練",
+            "index": 134,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "遊戲訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "遊戲訓練",
+            "index": 135,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "功能性及探索性遊戲" },
+              { "text": "想像性遊戲" },
+              { "text": "象徵性與角色扮演遊戲" },
+              { "text": "建構性遊戲" },
+              { "text": "規則性遊戲(如123木頭人、棋藝或桌遊)" },
+              { "text": "可獨自玩一段時間" },
+              { "text": "可玩二人的遊戲(如親子或手足)" },
+              { "text": "可參與三人以上的團體遊戲" }
+            ],
+            "value": "[{\"text\":\"功能性及探索性遊戲\",\"checked\":true,\"value\":\"\"},{\"text\":\"想像性遊戲\",\"checked\":true,\"value\":\"\"},{\"text\":\"象徵性與角色扮演遊戲\",\"checked\":true,\"value\":\"\"},{\"text\":\"建構性遊戲\",\"checked\":true,\"value\":\"\"},{\"text\":\"規則性遊戲(如123木頭人、棋藝或桌遊)\",\"checked\":true,\"value\":\"\"},{\"text\":\"可獨自玩一段時間\",\"checked\":true,\"value\":\"\"},{\"text\":\"可玩二人的遊戲(如親子或手足)\",\"checked\":true,\"value\":\"\"},{\"text\":\"可參與三人以上的團體遊戲\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "遊戲訓練",
+            "index": 136,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>INFOHELVAEWXIHRZCBSEIOQRNJSKPU</p><p>ZPSSQBRKTGAMLAIJLSKNYOJUKOCLKI</p><p>BTKMFYPZSAKJXNCNWJNJSRVARPWEPU</p><p>IYNKMYIQDEEJIVCEOKAEIBJVLWZGUI</p><p>ASKRWIKXPETXUQQEAISZMTBHZZYQWG</p>"
+          },
+          {
+            "title": "生活作息及參與",
+            "index": 137,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "生活作息及參與",
+            "options": [
+              { "text": "無異常" },
+              { "text": "臨界發展遲緩" },
+              { "text": "發展遲緩" }
+            ],
+            "value": "[{\"text\":\"無異常\",\"checked\":false,\"value\":\"\"},{\"text\":\"臨界發展遲緩\",\"checked\":true,\"value\":\"\"},{\"text\":\"發展遲緩\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "生活作息及參與",
+            "index": 138,
+            "isRequired": false,
+            "type": "Date",
+            "label": "評估日期",
+            "value": "2023-05-15"
+          },
+          {
+            "title": "生活作息及參與",
+            "index": 139,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_歲",
+            "value": "KJGQTHYLRZECZMKTTOBBDTVRAILIET"
+          },
+          {
+            "title": "生活作息及參與",
+            "index": 140,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "目前能力約_個月",
+            "value": "WTMBWIBUSDHLQFDNFYWVSKFILVSCZX"
+          },
+          {
+            "title": "生活作息及參與",
+            "index": 141,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "百分位",
+            "value": "AEMAVKYCMYDOPJLTMMDZFRLLMIAAAQ"
+          },
+          {
+            "title": "生活作息及參與",
+            "index": 142,
+            "isRequired": false,
+            "type": "Number",
+            "label": "發展商數",
+            "value": 95
+          },
+          {
+            "title": "生活作息及參與",
+            "index": 143,
+            "isRequired": false,
+            "type": "Number",
+            "label": "標準分數",
+            "value": 99
+          },
+          {
+            "title": "生活作息及參與",
+            "index": 144,
+            "isRequired": false,
+            "type": "LikertScale",
+            "label": "評估工具",
+            "likertOptions": ["O", "V", "X"],
+            "options": [
+              { "text": "臨床觀察", "isNormalOption": true },
+              { "text": "臨床晤談", "isNormalOption": true },
+              {
+                "text": "規律作息：規律睡眠或休息習慣(6-18個月)",
+                "description": "(可以獨立完成請打O、需要協助請打V、完全依賴請打X)"
+              },
+              {
+                "text": "規律作息：吃飯或點心時間，自己坐到位子上準備吃東西(1.5-2歲)"
+              },
+              {
+                "text": "規律作息：在大人陪同下，自己上床、蓋被子睡覺(2-2.5歲)"
+              },
+              {
+                "text": "規律作息：自己會去完成例行常規，如洗手、擦乾，再來拿東西吃(4-4.5歲)"
+              },
+              {
+                "text": "規律作息：在提醒下，自己收玩具、去刷牙，然後上床睡覺(4-4.5歲)"
+              },
+              {
+                "text": "管理自己的事物：依要求將玩具或書放置好或歸位(1.5-2歲)"
+              },
+              { "text": "管理自己的事物：常用物品使用後會自動歸位(2.5-3歲)" },
+              {
+                "text": "管理自己的事物：能收拾好個人的物品，如文具、玩具、餐具等到固定的位置等(4-4.5歲)"
+              },
+              {
+                "text": "主動協助家庭事務：看到大人做事會要幫忙，如拿尿布去丟掉、拿東西去放好，或拿東西給收銀員(2歲) "
+              },
+              {
+                "text": "主動協助家庭事務：摺簡單的衣物，如毛巾，但還摺不整齊(2.5歲)"
+              },
+              { "text": "主動協助家庭事務：接聽電話，會叫要找的人(3歲)" },
+              {
+                "text": "主動協助家庭事務：協助簡單的家事，如擺碗筷，擦桌子(4.5-5歲)"
+              },
+              { "text": "主動協助家庭事務：自己摺衣服、涼被(4.5-5歲)" },
+              {
+                "text": "主動協助家庭事務：可負責簡單的家事，如負責盛每一餐的飯(5.5-6歲)"
+              },
+              { "text": "幼兒日常職能活動量表", "isNormalOption": true }
+            ],
+            "value": "[{\"text\":\"臨床觀察\",\"checked\":false,\"value\":\"ZCSRLZEIILPPDMOKPRIQXVZOIQMVRD\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}],\"isNormalOption\":true},{\"text\":\"臨床晤談\",\"checked\":false,\"value\":\"LMYAGSTBUMUCQBJRDOYSNGWWGELJJI\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}],\"isNormalOption\":true},{\"text\":\"規律作息：規律睡眠或休息習慣(6-18個月)\",\"checked\":false,\"value\":\"SOMLKNUXHYSSJMDIVXSBXZIWGRZJNC\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}],\"description\":\"(可以獨立完成請打O、需要協助請打V、完全依賴請打X)\"},{\"text\":\"規律作息：吃飯或點心時間，自己坐到位子上準備吃東西(1.5-2歲)\",\"checked\":false,\"value\":\"ZOUPYSAIVEPTQWSOSBJNZCVMGGIKXG\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"規律作息：在大人陪同下，自己上床、蓋被子睡覺(2-2.5歲)\",\"checked\":false,\"value\":\"JLBTFKZJVZGBBWHCBEKKYVCUDNWSJH\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"規律作息：自己會去完成例行常規，如洗手、擦乾，再來拿東西吃(4-4.5歲)\",\"checked\":false,\"value\":\"YJBVMISCBYCEDCKJABFAPXDSTHNKQX\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"規律作息：在提醒下，自己收玩具、去刷牙，然後上床睡覺(4-4.5歲)\",\"checked\":false,\"value\":\"WAHWCBUWUBLLRTECSHEMXHRQPOHUQD\",\"selectedValue\":\"O\",\"likertOptions\":[{\"text\":\"O\",\"checked\":true},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"管理自己的事物：依要求將玩具或書放置好或歸位(1.5-2歲)\",\"checked\":false,\"value\":\"HDRPXINLIHJPYRXFOEEIXYHPQSAMJD\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"管理自己的事物：常用物品使用後會自動歸位(2.5-3歲)\",\"checked\":false,\"value\":\"HIRESSOOCOZFQBGJFHPAQSAKLFHQLB\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"管理自己的事物：能收拾好個人的物品，如文具、玩具、餐具等到固定的位置等(4-4.5歲)\",\"checked\":false,\"value\":\"XAPSRBSHRGDIPFATHVWWIXGMGVYNIG\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"主動協助家庭事務：看到大人做事會要幫忙，如拿尿布去丟掉、拿東西去放好，或拿東西給收銀員(2歲) \",\"checked\":false,\"value\":\"WUQXRQGTWDMQLAGEYGVWYPZYSPPMPW\",\"selectedValue\":\"O\",\"likertOptions\":[{\"text\":\"O\",\"checked\":true},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"主動協助家庭事務：摺簡單的衣物，如毛巾，但還摺不整齊(2.5歲)\",\"checked\":false,\"value\":\"VPCLJPTXTMCLEKPBTDZFZGAEGLHAOX\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"主動協助家庭事務：接聽電話，會叫要找的人(3歲)\",\"checked\":false,\"value\":\"OOZHTYIISKMWYNWPUDAAJGGWAGMJQD\",\"selectedValue\":\"V\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":true},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"主動協助家庭事務：協助簡單的家事，如擺碗筷，擦桌子(4.5-5歲)\",\"checked\":false,\"value\":\"LEDVSLXGOVLBPKGVMDLYZCFGZACNKI\",\"selectedValue\":\"O\",\"likertOptions\":[{\"text\":\"O\",\"checked\":true},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":false}]},{\"text\":\"主動協助家庭事務：自己摺衣服、涼被(4.5-5歲)\",\"checked\":false,\"value\":\"XQONTRMAHJQDMRDTBDFTVZIKFOPXAZ\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"主動協助家庭事務：可負責簡單的家事，如負責盛每一餐的飯(5.5-6歲)\",\"checked\":false,\"value\":\"SMNEDAJILLMJVTRBYAQVPZNGCSXOUO\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}]},{\"text\":\"幼兒日常職能活動量表\",\"checked\":false,\"value\":\"GZFARSMBZKOSTLBXEPALYPQCOJXFAO\",\"selectedValue\":\"X\",\"likertOptions\":[{\"text\":\"O\",\"checked\":false},{\"text\":\"V\",\"checked\":false},{\"text\":\"X\",\"checked\":true}],\"isNormalOption\":true}]"
+          },
+          {
+            "title": "生活作息及參與",
+            "index": 145,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "行為觀察及綜合結果",
+            "value": "<p>ZPINNKDEJNPTJZFLTTVBWHMOBJKEFF</p><p>ZTAOTXFTOKSVVZSITABBDENEQQVCTH</p><p>JMNHCPVQNQOPSDOSUKMTUIBPUZAUOX</p><p>TLHSTGGFJJGPTMYYYURATSZQGEFGNE</p><p>ZPHHZRSOMHIPOCLSSNIVPZTJBSKGYE</p>"
+          },
+          {
+            "title": "生活作息訓練",
+            "index": 146,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "生活作息訓練",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "生活作息訓練",
+            "index": 147,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "能夠規律作息" },
+              { "text": "能夠管理自己的事物" },
+              { "text": "能夠主動協助家庭事務" },
+              { "text": "增加親子遊戲互動" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"能夠規律作息\",\"checked\":true,\"value\":\"\"},{\"text\":\"能夠管理自己的事物\",\"checked\":true,\"value\":\"\"},{\"text\":\"能夠主動協助家庭事務\",\"checked\":true,\"value\":\"\"},{\"text\":\"增加親子遊戲互動\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"YKXOBLRZIDPYEOSEWTVVWSIJQSLSCV\"}]"
+          },
+          {
+            "title": "生活作息訓練",
+            "index": 148,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>POCYOHGPOXHUYXTGZMQWPLUWBKEZOR</p><p>TMLYDLPHZRKKNRDMZRZGCUZMFTVUCW</p><p>JYZOVHTYDSQUMQQHABMDWWKENVUHFM</p><p>RRPDKLTFJYTIDYQHILPORUBWKRDQIX</p><p>KRZIMEKFRWELFZKBAWNBJZPMDZVPSJ</p>"
+          }
+        ]
+      },
+      {
+        "title": "環境支持",
+        "inputs": [
+          {
+            "title": "輔具需求",
+            "index": 149,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "輔具需求",
+            "options": [
+              { "text": "不需要" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要訓練" }
+            ],
+            "value": "[{\"text\":\"不需要\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要訓練\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "輔具需求",
+            "index": 150,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "上肢副木",
+            "options": [
+              { "text": "對掌副木" },
+              { "text": "豎腕副木" },
+              { "text": "固定副木" },
+              { "text": "功能性副木" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"對掌副木\",\"checked\":true,\"value\":\"\"},{\"text\":\"豎腕副木\",\"checked\":true,\"value\":\"\"},{\"text\":\"固定副木\",\"checked\":true,\"value\":\"\"},{\"text\":\"功能性副木\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"EIPBGKKLHHZMRZLJYDPCYONVXFGTPD\"}]"
+          },
+          {
+            "title": "輔具需求",
+            "index": 151,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "下肢副木",
+            "options": [
+              { "text": "短腿副木" },
+              { "text": "長腿副木" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"短腿副木\",\"checked\":true,\"value\":\"\"},{\"text\":\"長腿副木\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"RUZUUYGCMSZSNGPEOGDCDAAXQGSIWO\"}]"
+          },
+          {
+            "title": "輔具需求",
+            "index": 152,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "上肢輔具",
+            "value": "HCZIYBOLGFYISZTHMQMMYHUOJPLBHH"
+          },
+          {
+            "title": "輔具需求",
+            "index": 153,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "下肢輔具",
+            "options": [
+              { "text": "鞋墊" },
+              { "text": "足踝矯正鞋" },
+              { "text": "踝足支架" },
+              { "text": "短腿支架" },
+              { "text": "長腿支架" },
+              { "text": "髖關節脫臼架" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"鞋墊\",\"checked\":true,\"value\":\"\"},{\"text\":\"足踝矯正鞋\",\"checked\":true,\"value\":\"\"},{\"text\":\"踝足支架\",\"checked\":true,\"value\":\"\"},{\"text\":\"短腿支架\",\"checked\":true,\"value\":\"\"},{\"text\":\"長腿支架\",\"checked\":true,\"value\":\"\"},{\"text\":\"髖關節脫臼架\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"ZNXDITOOTGQITEWPTEDBJVSDJRIIZR\"}]"
+          },
+          {
+            "title": "輔具需求",
+            "index": 154,
+            "isRequired": false,
+            "type": "TextBox",
+            "label": "軀幹輔具",
+            "value": "EWQLMJBVADKZLKZHAPKBRTCSJMAWXX"
+          },
+          {
+            "title": "輔具需求",
+            "index": 155,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "擺位輔具",
+            "options": [
+              { "text": "特製擺位椅" },
+              { "text": "站立架" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"特製擺位椅\",\"checked\":true,\"value\":\"\"},{\"text\":\"站立架\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"SCVVTZVNIUZRFWKNJFUOLCVCAGXRSU\"}]"
+          },
+          {
+            "title": "輔具需求",
+            "index": 156,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "移位輔具",
+            "options": [
+              { "text": "轉位輔具" },
+              { "text": "柺杖" },
+              { "text": "助行器" },
+              { "text": "輪椅" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"轉位輔具\",\"checked\":true,\"value\":\"\"},{\"text\":\"柺杖\",\"checked\":true,\"value\":\"\"},{\"text\":\"助行器\",\"checked\":true,\"value\":\"\"},{\"text\":\"輪椅\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"FDYKZSMTLOHGJMZQQZWISCNIIJCLMU\"}]"
+          },
+          {
+            "title": "輔具需求",
+            "index": 157,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "溝通輔具",
+            "options": [
+              { "text": "溝通板" },
+              { "text": "語言訓練系統" },
+              { "text": "圖卡或照片" },
+              { "text": "語音溝通器" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"溝通板\",\"checked\":true,\"value\":\"\"},{\"text\":\"語言訓練系統\",\"checked\":true,\"value\":\"\"},{\"text\":\"圖卡或照片\",\"checked\":true,\"value\":\"\"},{\"text\":\"語音溝通器\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"UBOLQTJLJNBEDECPDMBTZEMVZKJCXL\"}]"
+          },
+          {
+            "title": "輔具需求",
+            "index": 158,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "日常生活輔具",
+            "options": [
+              { "text": "進食輔具" },
+              { "text": "書寫輔具" },
+              { "text": "著衣輔具" },
+              { "text": "盥洗輔具" },
+              { "text": "人機介面輔具" },
+              { "text": "休閒輔具" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"進食輔具\",\"checked\":true,\"value\":\"\"},{\"text\":\"書寫輔具\",\"checked\":true,\"value\":\"\"},{\"text\":\"著衣輔具\",\"checked\":true,\"value\":\"\"},{\"text\":\"盥洗輔具\",\"checked\":true,\"value\":\"\"},{\"text\":\"人機介面輔具\",\"checked\":true,\"value\":\"\"},{\"text\":\"休閒輔具\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"EMINQAPPTHMXGARYKPXRQAKBDUQUHS\"}]"
+          },
+          {
+            "title": "輔具需求",
+            "index": 159,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "聽覺輔具",
+            "options": [
+              { "text": "助聽器" },
+              { "text": "人工電子耳" },
+              { "text": "調頻系統" },
+              { "text": "其他助聽輔具" }
+            ],
+            "value": "[{\"text\":\"助聽器\",\"checked\":true,\"value\":\"\"},{\"text\":\"人工電子耳\",\"checked\":true,\"value\":\"\"},{\"text\":\"調頻系統\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他助聽輔具\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "輔具需求",
+            "index": 160,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "視覺輔具",
+            "options": [
+              { "text": "放大鏡" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"放大鏡\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"DSHSRDIJRJHZIZRLENQUYUFWGSTXAI\"}]"
+          },
+          {
+            "title": "無障礙環境諮商與設計",
+            "index": 161,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "無障礙環境諮商與設計",
+            "options": [{ "text": "不需要" }, { "text": "需要" }],
+            "value": "[{\"text\":\"不需要\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要\",\"checked\":true,\"value\":\"\"}]"
+          },
+          {
+            "title": "其他需求",
+            "index": 162,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "其他需求",
+            "options": [{ "text": "不需要" }, { "text": "需要追蹤及諮詢" }],
+            "value": "[{\"text\":\"不需要\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "其他需求",
+            "index": 163,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>QYVVIULWUKRPYMHJXPBCIRUBKMONTH</p><p>YMJWABKPPGJUBNELAPVSDAMADKROOU</p><p>MRUMJQMJPNUYPRLMFPCYURBAQBAJAI</p><p>RSTWXHBOMAPBKEDRKFMCAZHOMUHPRG</p><p>SRFJJFZIMFMZRAQNIPGGKBETCVAFBY</p>"
+          }
+        ]
+      },
+      {
+        "title": "家庭評估",
+        "inputs": [
+          {
+            "title": "家庭評估(含經濟狀況、家庭功能、親職照顧、資源使用)",
+            "index": 164,
+            "isRequired": false,
+            "type": "DropDownList",
+            "label": "家庭評估(含經濟狀況、家庭功能、親職照顧、資源使用)",
+            "options": [
+              { "text": "不需要協助" },
+              { "text": "需要追蹤及諮詢" },
+              { "text": "需要連結其他服務 (高風險或其他特殊個案)" }
+            ],
+            "value": "[{\"text\":\"不需要協助\",\"checked\":true,\"value\":\"\"},{\"text\":\"需要追蹤及諮詢\",\"checked\":false,\"value\":\"\"},{\"text\":\"需要連結其他服務 (高風險或其他特殊個案)\",\"checked\":false,\"value\":\"\"}]"
+          },
+          {
+            "title": "家庭評估(含經濟狀況、家庭功能、親職照顧、資源使用)",
+            "index": 165,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "訓練方向",
+            "options": [
+              { "text": "協助處理家庭經濟問題" },
+              { "text": "強化家庭功能" },
+              { "text": "強化社會支持系統" },
+              { "text": "提升照顧能力與技巧" },
+              { "text": "強化親職能力" },
+              { "text": "增加對早療資源認識及使用" },
+              { "text": "家庭諮商及治療" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"協助處理家庭經濟問題\",\"checked\":true,\"value\":\"\"},{\"text\":\"強化家庭功能\",\"checked\":true,\"value\":\"\"},{\"text\":\"強化社會支持系統\",\"checked\":true,\"value\":\"\"},{\"text\":\"提升照顧能力與技巧\",\"checked\":true,\"value\":\"\"},{\"text\":\"強化親職能力\",\"checked\":true,\"value\":\"\"},{\"text\":\"增加對早療資源認識及使用\",\"checked\":true,\"value\":\"\"},{\"text\":\"家庭諮商及治療\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"BRUDQXJNXJYVPBQSPNURJXFHUYBCRD\"}]"
+          },
+          {
+            "title": "家庭處遇具體建議",
+            "index": 166,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "家庭處遇具體建議 (請簡要摘述)",
+            "value": "<p>ZXNSHEWLKKQSGGXXYISKGCLLHNTVVF</p><p>VKSLWVPPJCSGIZDXXCFRTXQARADRUZ</p><p>CECTUKBIPCSIGHHFWPXQXEFWZQTZGK</p><p>DNWNSOTOBCYVJYVYRHIEKYPNKEODXD</p><p>MXRCXYQURJZLOXZRHFQPZREGJFZZPO</p>"
+          },
+          {
+            "title": "家庭處遇具體建議",
+            "index": 167,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "評估結果",
+            "options": [
+              { "text": "由醫院社工師繼續提供服務" },
+              { "text": "轉介至早療通報轉介或個管中心安排家庭服務" },
+              { "text": "轉介至（請說明）", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"由醫院社工師繼續提供服務\",\"checked\":true,\"value\":\"\"},{\"text\":\"轉介至早療通報轉介或個管中心安排家庭服務\",\"checked\":true,\"value\":\"\"},{\"text\":\"轉介至（請說明）\",\"checked\":true,\"hasInput\":true,\"value\":\"JFYCKPBLNYPNZXGKSCTXZAHPLSILXJ\"}]"
+          },
+          {
+            "title": "親職功能",
+            "index": 168,
+            "isRequired": false,
+            "type": "MultipleAnswers",
+            "label": "親職功能",
+            "options": [
+              { "text": "了解診斷及整體療育計畫" },
+              {
+                "text": "了解兒童發展概念、順序，了解接納孩子個別發展特性與性格特質"
+              },
+              { "text": "辨識兒童行為涵義" },
+              { "text": "協助兒童於自然環境中生活、遊戲與學習" },
+              { "text": "了解兒童情緒、問題行為及處理原則" },
+              { "text": "積極參與療育" },
+              { "text": "調節家長及孩子之壓力" },
+              { "text": "增進家長親職自信" },
+              { "text": "了解兒童長期發展、未來生涯規劃" },
+              { "text": "其他", "hasInput": true }
+            ],
+            "value": "[{\"text\":\"了解診斷及整體療育計畫\",\"checked\":true,\"value\":\"\"},{\"text\":\"了解兒童發展概念、順序，了解接納孩子個別發展特性與性格特質\",\"checked\":true,\"value\":\"\"},{\"text\":\"辨識兒童行為涵義\",\"checked\":true,\"value\":\"\"},{\"text\":\"協助兒童於自然環境中生活、遊戲與學習\",\"checked\":true,\"value\":\"\"},{\"text\":\"了解兒童情緒、問題行為及處理原則\",\"checked\":true,\"value\":\"\"},{\"text\":\"積極參與療育\",\"checked\":true,\"value\":\"\"},{\"text\":\"調節家長及孩子之壓力\",\"checked\":true,\"value\":\"\"},{\"text\":\"增進家長親職自信\",\"checked\":true,\"value\":\"\"},{\"text\":\"了解兒童長期發展、未來生涯規劃\",\"checked\":true,\"value\":\"\"},{\"text\":\"其他\",\"checked\":true,\"hasInput\":true,\"value\":\"DDCZKATHRQTULFOISMADAOJIIWEBGR\"}]"
+          },
+          {
+            "title": "親職功能",
+            "index": 169,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>SKSVNEHSKFGCLGVQSGNFUZWMUXVJNU</p><p>VHFRUVPRZICTQFYUROEVSTZICAHXMI</p><p>RGIXFELNWOARUOQUIFJQDOOXIWPJFJ</p><p>HFLTUNQWVPQREUPOKLWFHSAQIRTAXO</p><p>CPHOIPLJAUAPXGEOJTXCPVUHEANGUV</p>"
+          }
+        ]
+      },
+      {
+        "title": "其他建議",
+        "inputs": [
+          {
+            "title": "其他建議",
+            "index": 170,
+            "isRequired": false,
+            "type": "TextArea",
+            "label": "具體建議",
+            "value": "<p>KOLNFFISLSVSJNTRBDGODZKZEQJCVH</p><p>ITUNEVQTUJPLHEUXFPOXNMQTLGTEED</p><p>NCCLPKQCOLYTKIDUJEXDLMPXEAKVTG</p><p>IYDPKGVOOFWKHKPFGDDMKPASAFCDSE</p><p>AAGTXSAGAWHIWXOHRITRKGDCQCMQJK</p>"
+          }
+        ]
+      }
+    ],
+    "inputs": [],
+    "data": {
+      "知覺動作功能_粗大動作_粗大動作評估": [
+        { "text": "無異常", "checked": false, "value": "" },
+        { "text": "臨界發展遲緩", "checked": false, "value": "" },
+        { "text": "發展遲緩", "checked": true, "value": "" }
+      ],
+      "知覺動作功能_粗大動作_評估日期": "2023-05-15",
+      "知覺動作功能_粗大動作_目前能力約_歲": "QTVLOXRWSECUMMXKUHLVFNFBWCPHNO",
+      "知覺動作功能_粗大動作_目前能力約_個月": "PRIHYJGMEUWGZFSJQCKTEQRVJANATF",
+      "知覺動作功能_粗大動作_百分位": "UMUEJUFIFFPJKBWELALAWKGRSDMBKQ",
+      "知覺動作功能_粗大動作_發展商數": 5,
+      "知覺動作功能_粗大動作_標準分數": 74,
+      "知覺動作功能_粗大動作_評估工具": [
+        { "text": "臨床觀察", "checked": true, "value": "" },
+        {
+          "text": "臨床觀察(肌肉張力或動作型態異常):無異常",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "臨床觀察(肌肉張力或動作型態異常):異常，部位：",
+          "checked": true,
+          "hasInput": true,
+          "value": "YNORYRNCECWMMQSICALKRQEBPGZSXO"
+        },
+        { "text": "臨床晤談", "checked": true, "value": "" },
+        { "text": "亞伯它嬰幼兒動作量表 (AIMS)", "checked": true, "value": "" },
+        {
+          "text": "皮巴迪動作發展量表第二版 (PDMS-2)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "嬰幼兒綜合發展量表 (CDIIT)", "checked": true, "value": "" },
+        {
+          "text": "兒童動作ABC評量表第二版(Movement Assessment Battery For Children-2 Movement ABC-2)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "布魯茵克斯-歐西瑞斯基動作量表第二版 (Bruininks-Oseretsky Test of Motor Proficiency BOT-2)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "學前兒童粗大動作品質量表", "checked": true, "value": "" },
+        {
+          "text": "日常生活功能量表中文版 (PEDI-C)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他(請敘明)",
+          "checked": true,
+          "hasInput": true,
+          "value": "RCKVGQGWHUGZKVGARYQYUCMQNWWVLP"
+        }
+      ],
+      "知覺動作功能_粗大動作_行為觀察及綜合結果": "<p>PEIWPPZQTBOQXCWHFVEDIUGWFELTFO</p><p>MCLKZJEAATSUEBZBCEAPZLVVSUOGVI</p><p>YLALOGPDKDAUABCBNYXJEKREHNTSDR</p><p>XJJKICKSROHYPXEIQZHZRLAYMOKFJU</p><p>GDQHPLMGVEDTFEONNSVWMTXNIMVDSR</p>",
+      "知覺動作功能_粗動作訓練_粗動作訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": true, "value": "" },
+        { "text": "需要訓練", "checked": false, "value": "" }
+      ],
+      "知覺動作功能_粗動作訓練_訓練方向": [
+        {
+          "text": "誘發姿勢控制或姿勢變換的能力",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "增加走路、爬行或上下樓梯等移位能力",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "增加動態或是靜態平衡能力", "checked": true, "value": "" },
+        {
+          "text": "增加粗動作學習或粗動作計劃的能力",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "增加物品傳接的能力", "checked": true, "value": "" },
+        {
+          "text": "增加運動相關技巧或動作協調性",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "增加粗動作遊戲的能力", "checked": true, "value": "" },
+        { "text": "增加呼吸功能或心肺耐力", "checked": true, "value": "" },
+        {
+          "text": "增加肌力、肌耐力或調整肌肉張力",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "增加關節活動度或柔軟度", "checked": true, "value": "" },
+        {
+          "text": "促進與社會參與相關之動作功能",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他(請敘明)",
+          "checked": true,
+          "hasInput": true,
+          "value": "GMLTQNQRXWFOKZXHCKTGWWAKFDZLBJ"
+        }
+      ],
+      "知覺動作功能_粗動作訓練_具體建議": "<p>PIPQOALSAGUTEWDWSFAVUOBJOYPVKF</p><p>WXGCAVQCUJBIALCKDBAATHXGGRMGAN</p><p>KQPGOMOGYQYBSOJNNUPNWHHPMSJQWQ</p><p>SXPCYWDEMPMJONVGOSAOKMKODNPKSQ</p><p>LMAVXBOLHBVYXAQGYPWVSGOBPLUPEB</p>",
+      "知覺動作功能_精細動作_精細動作評估": [
+        { "text": "無異常", "checked": true, "value": "" },
+        { "text": "臨界發展遲緩", "checked": false, "value": "" },
+        { "text": "發展遲緩", "checked": false, "value": "" }
+      ],
+      "知覺動作功能_精細動作_評估日期": "2023-05-15",
+      "知覺動作功能_精細動作_目前能力約_歲": "VPCZENDLVOKYZEBBRPOFDGTSTOBMLW",
+      "知覺動作功能_精細動作_目前能力約_個月": "NNZWZJRQXFGBSUUSUYAKDSTUWCIQBP",
+      "知覺動作功能_精細動作_百分位": "TOVFATTFGWGXGPWICPAMZUQBOIBSGV",
+      "知覺動作功能_精細動作_發展商數": 58,
+      "知覺動作功能_精細動作_標準分數": 9,
+      "知覺動作功能_精細動作_評估工具": [
+        { "text": "臨床觀察", "checked": true, "value": "" },
+        {
+          "text": "臨床觀察(肌肉張力或動作型態異常):無異常",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "臨床觀察(肌肉張力或動作型態異常):異常，部位：",
+          "checked": true,
+          "hasInput": true,
+          "value": "TZPMPNWDGRAZMCPVXCDQZJHBMUFONG"
+        },
+        { "text": "臨床晤談", "checked": true, "value": "" },
+        {
+          "text": "皮巴迪動作發展量表第二版 (PDMS-2)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "嬰幼兒綜合發展量表 (CDIIT)", "checked": true, "value": "" },
+        {
+          "text": "Bayley Scales of Infant and Toddler Development",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "Test of Visual-Motor Skill 3rd Edition",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "布魯茵克斯-歐西瑞斯基動作量表第二版 (Bruininks-Oseretsky Test of Motor Proficiency BOT-2)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "兒童動作ABC評量表第二版 (Movement Assessment Battery For Children-2 Movement ABC-2)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他(請敘明)",
+          "checked": true,
+          "hasInput": true,
+          "value": "SXFVSFOYSYNQQPNOZUBRIGBTEPMWSE"
+        }
+      ],
+      "知覺動作功能_精細動作_行為觀察及綜合結果": "<p>VXTOJNUWMOTYIZTOYUXZYTTKJGDDYS</p><p>GUHZEGJAMYGCZEHPZMAQEXTOCSEKYN</p><p>SJULRWCFQMJVLEAAWAAQMGTCALIDMU</p><p>NNQQQWZGFMSUYMECUMXXFLNINBFXDH</p><p>TQMONTQMWVPFBLYXCFSDUOKOVJFHIQ</p>",
+      "知覺動作功能_精細動作訓練_精細動作訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": true, "value": "" },
+        { "text": "需要訓練", "checked": false, "value": "" }
+      ],
+      "知覺動作功能_精細動作訓練_訓練方向": [
+        { "text": "發展慣用手", "checked": true, "value": "" },
+        {
+          "text": "發展抓握、拈取及釋放等基本手功能",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "提升手部肌力、肌耐力", "checked": true, "value": "" },
+        { "text": "增進雙手使用能力/ 協調性", "checked": true, "value": "" },
+        {
+          "text": "提升力量調節及動作速度之控制",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "提升手部操作各種工具之技巧(包括剪刀、筆、膠水等之使用)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "提升手眼協調", "checked": true, "value": "" }
+      ],
+      "知覺動作功能_精細動作訓練_具體建議": "<p>VRGHOXYRQNYPGRQAKBXWJFDUQVBZSO</p><p>RHTSDMHKCACOPNDJXVKWDFVXWIGZUV</p><p>ZFVAVYDWQSWRTUTZHDOIWAEDAOCFUC</p><p>ZQLZPOSUNFRVOJHAUPNXMZGUIXHLYM</p><p>IOXBHMRAERTOYJWKMTRGXFXDFFXNAN</p>",
+      "知覺動作功能_感覺統合_感覺統合評估": [
+        { "text": "無異常", "checked": true, "value": "" },
+        { "text": "疑似失調", "checked": false, "value": "" },
+        { "text": "失調", "checked": false, "value": "" }
+      ],
+      "知覺動作功能_感覺統合_評估日期": "2023-05-15",
+      "知覺動作功能_感覺統合_目前能力約_歲": "NOUWJSLZVKPBALHKGQGJHEKUVWTUGV",
+      "知覺動作功能_感覺統合_目前能力約_個月": "CZBCCLMWSAVWFZACWKDQRUNMBUUJUZ",
+      "知覺動作功能_感覺統合_百分位": "LPYTQABOEJULJZBIBNYAIBNQJCPLCN",
+      "知覺動作功能_感覺統合_發展商數": 47,
+      "知覺動作功能_感覺統合_標準分數": 51,
+      "知覺動作功能_感覺統合_評估工具：感覺處理": [
+        {
+          "text": "感覺處理能力剖析量表7-36個月(Sensory Profile)中文版",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "感覺處理能力剖析量表3-10歲(Sensory Profile)中文版",
+          "checked": true,
+          "value": ""
+        }
+      ],
+      "知覺動作功能_感覺統合_評估工具：視覺動作": [
+        {
+          "text": "拜瑞布坦尼卡視覺 - 動作統整發展測驗中文版 (The Berry-Buktenica Developmental Test of Visual-Motor Integration, VMI) ，英文版則為第 6 版",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "視知覺技巧測驗第 4 版 (Test of Visual Perceptual Skills 4th Edition)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "視知覺發展測驗第 3 版 (Developmental Test of Visual Perception-3)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "非動作視知覺測驗第 4 版 (Motor-Free Visual Perception Test-4)",
+          "checked": true,
+          "value": ""
+        }
+      ],
+      "知覺動作功能_感覺統合_評估工具：整體功能": [
+        { "text": "臨床觀察", "checked": true, "value": "" },
+        { "text": "臨床晤談", "checked": true, "value": "" },
+        {
+          "text": "動作問題簡易量表(Quick Motor Problem Inventory)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "嬰兒感覺功能測驗(Test of Sensory Functions in Infants)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "Degangi-Berk感覺統合測驗(Degangi-Berk Test of Sensory Integration)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "感覺統合臨床評量(Sensory Integration Clinical Observation SICO)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他(請敘明)",
+          "checked": true,
+          "hasInput": true,
+          "value": "XQNYXZBDGQRELLSJKLZZOEMOPKGIXW"
+        }
+      ],
+      "知覺動作功能_感覺統合_行為觀察及綜合結果": "<p>JERATKFRXFPKNQGOKJDZNUZATAZHQW</p><p>TUMEENTZWYKTLSMPXTTXTVMWPWKEDH</p><p>VZPRHWBLVSJRDCHMRHUVEHLMATKELJ</p><p>QSKCUMPCBJNGFBWIRYXROTKPQCBMYR</p><p>GUQLXYLMLDBZGUEVQEASKYAYCQYVKX</p>",
+      "知覺動作功能_感覺統合訓練_感覺統合訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": false, "value": "" },
+        { "text": "需要訓練", "checked": true, "value": "" }
+      ],
+      "知覺動作功能_感覺統合訓練_訓練方向": [
+        { "text": "警醒度最佳化", "checked": true, "value": "" },
+        {
+          "text": "感覺系統正常化(normalization)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "建立對身體部位及功能的瞭解(body schema)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "改善視覺動作協調功能", "checked": true, "value": "" },
+        { "text": "改善平衡及兩側協調功能", "checked": true, "value": "" },
+        { "text": "改善動作計畫功能", "checked": true, "value": "" }
+      ],
+      "知覺動作功能_感覺統合訓練_具體建議": "<p>HTWBAZOCZDIMPWROFMOJNDZQNMOCYB</p><p>JRBNKUXKKJGQVFWYNALUACPVBVEFOG</p><p>ZRTDJAHYMZWFXDTKXUNBVBOMYVEIXG</p><p>KPMGXHBXPIROMRAEDJYAFDZBBAWCBE</p><p>NTZYDUMZSWOQOQZESWUOESYMJHWHYC</p>",
+      "吞嚥/口腔功能_口腔動作_口腔動作": [
+        { "text": "無異常", "checked": true, "value": "" },
+        { "text": "臨界", "checked": false, "value": "" },
+        { "text": "異常", "checked": false, "value": "" }
+      ],
+      "吞嚥/口腔功能_口腔動作_評估日期": "2023-05-15",
+      "吞嚥/口腔功能_口腔動作_評估結果": [
+        { "text": "過度敏感", "checked": true, "value": "" },
+        { "text": "反應遲鈍", "checked": true, "value": "" },
+        { "text": "動作不靈活", "checked": true, "value": "" },
+        { "text": "動作不協調", "checked": true, "value": "" },
+        { "text": "流口水", "checked": true, "value": "" },
+        { "text": "張力過低", "checked": true, "value": "" },
+        { "text": "張力過高", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "IKMIGPWOQLCYKIRVCPGMSTSYXPRHTD"
+        }
+      ],
+      "吞嚥/口腔功能_口腔動作_行為觀察及綜合結果": "<p>KOPNACWWTOTETTBIOPHLIZBLANQBBP</p><p>EEKTKVUFAROROOKAGHFTRPOIZCKLEO</p><p>ZYGHBWQFDJHFLXXEJXIUBEFWTRLKPA</p><p>PWURZBYGOZPHJMLAQHKEFZHHLCNADJ</p><p>TXSFVELTPHHQKAIYUIHHQJEAMQVYLB</p>",
+      "吞嚥/口腔功能_口腔功能訓練_口腔功能訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": false, "value": "" },
+        { "text": "需要訓練", "checked": true, "value": "" }
+      ],
+      "吞嚥/口腔功能_口腔功能訓練_訓練方向": [
+        { "text": "減/增 敏感訓練", "checked": true, "value": "" },
+        { "text": "口腔動作訓練", "checked": true, "value": "" },
+        { "text": "口腔動作訓練:雙唇動作訓練", "checked": true, "value": "" },
+        { "text": "口腔動作訓練:下頷動作訓練", "checked": true, "value": "" },
+        { "text": "口腔動作訓練:舌頭動作訓練", "checked": true, "value": "" },
+        { "text": "口腔動作訓練:咀嚼動作訓練", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "CZIFFUUKGWBBWQOZSBGZHVJXCTWOTT"
+        }
+      ],
+      "吞嚥/口腔功能_口腔功能訓練_具體建議": "<p>KXZOEHKZTHEQYDAOZOVCUEBXFRPQKP</p><p>PSQNGMPXALDBSTDYXDXLDADFBMDBFZ</p><p>YFBBDFAQBFAWAPJJWJDVVYRFVHMFPZ</p><p>YHZPBTXUELKOSTJMJTHTJHPEBJBLJM</p><p>HHUEUGSIVBFQZOWCWDLFYULQDGKDEY</p>",
+      "吞嚥/口腔功能_吞嚥反射_吞嚥反射": [
+        { "text": "異常", "checked": true, "value": "" },
+        { "text": "無異常", "checked": false, "value": "" }
+      ],
+      "吞嚥/口腔功能_吞嚥反射_行為觀察與綜合結果": "<p>GXRDFSUGPSNKMNGSFTIPOIYXHUBMZC</p><p>KTAGOKDDRGEDVCOKWTDAGKZZEFEHFL</p><p>ZGDJVRKHHVNOUOXIPEGRQYPYUCONPW</p><p>ENMGOQQFGJFHPTHRZLGSYWRQFHDQUH</p><p>TCUIXXJABUKVJUKVKIFCSSCAOSACYE</p>",
+      "吞嚥/口腔功能_吞嚥功能_吞嚥功能": [
+        { "text": "無異常", "checked": true, "value": "" },
+        { "text": "臨界", "checked": false, "value": "" },
+        { "text": "異常", "checked": false, "value": "" }
+      ],
+      "吞嚥/口腔功能_吞嚥功能_會嗆食": [
+        { "text": "液體", "checked": true, "value": "" },
+        { "text": "半固體", "checked": true, "value": "" },
+        { "text": "固體", "checked": true, "value": "" }
+      ],
+      "吞嚥/口腔功能_吞嚥功能_主要食材": "<p>ISCCABRXNNYNNIWRGHGVXIUXVBINJA</p><p>GLQZIORQGPTGDTVYPNXCVKQOBLJYPY</p><p>ZQUMMZBTIOYTJGTFJHFEFGUYIASFKR</p><p>QOGSJGYOVLPBIKYZGBMENVPCBHTQNQ</p><p>LJXBJFPEJRUZVIEWTSIGPKUNWQNPAC</p>",
+      "吞嚥/口腔功能_吞嚥功能_行為觀察及綜合結果": "<p>RIEKQTZKXZBETJUPXWNSGPQLZLMMFW</p><p>CXOAEQQWPJODIBOHKGHLOXNTVSGQTI</p><p>ALNAADOKCAYZGBJFQTIRQUBRHETSOQ</p><p>JNUCEWKUDXOTFNZGSUEXWBLQMQLMBA</p><p>MCCKICRGWREIDLQVFMBUISPFTJKGGK</p>",
+      "吞嚥/口腔功能_吞嚥訓練_吞嚥訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": false, "value": "" },
+        { "text": "需要訓練", "checked": true, "value": "" }
+      ],
+      "吞嚥/口腔功能_吞嚥訓練_訓練方向": [
+        { "text": "改變姿勢", "checked": true, "value": "" },
+        {
+          "text": "控制量",
+          "checked": true,
+          "hasInput": true,
+          "value": "ETRKDZBUXTLLVIXAJRKGJFYHJICMXS"
+        },
+        { "text": "食物材質的選擇", "checked": true, "value": "" },
+        { "text": "食物材質的選擇：流質", "checked": true, "value": "" },
+        { "text": "食物材質的選擇：糊狀", "checked": true, "value": "" },
+        { "text": "食物材質的選擇：軟質", "checked": true, "value": "" },
+        { "text": "食物材質的選擇：固體", "checked": true, "value": "" },
+        {
+          "text": "食物材質的選擇：其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "KXKXVHCKWAWCFNHWDPNGYUOMCJVLIK"
+        },
+        { "text": "食器的選擇", "checked": true, "value": "" },
+        { "text": "食器的選擇：奶瓶", "checked": true, "value": "" },
+        { "text": "食器的選擇：杯子", "checked": true, "value": "" },
+        { "text": "食器的選擇：湯匙", "checked": true, "value": "" },
+        { "text": "食器的選擇：筷子", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "OADVQOLEWLYUBUHAFBCSMPKNRUELSI"
+        }
+      ],
+      "吞嚥/口腔功能_吞嚥訓練_具體建議": "<p>FHGCWZSXVACNJBHAJKFZKWWEGJAJZQ</p><p>ZIYXDWDJQTGLDYGECFGCQDMCGQYAZM</p><p>CJELWDZODMHEZJNFFRSDVIOKMHCQGJ</p><p>ZUBPMAFKRLEZCHSBVITGWCDRVNTWIQ</p><p>DDUFHNJZYWLPWWNRGUFCUZYEGYCVDH</p>",
+      "口語溝通功能_口語理解_口語理解": [
+        { "text": "無異常", "checked": false, "value": "" },
+        { "text": "臨界發展遲緩", "checked": true, "value": "" },
+        { "text": "發展遲緩", "checked": false, "value": "" }
+      ],
+      "口語溝通功能_口語理解_評估日期": "2023-05-15",
+      "口語溝通功能_口語理解_目前能力約_歲": "FVABLUODQFDAFYCGVAIVKGTWIUEJFZ",
+      "口語溝通功能_口語理解_目前能力約_個月": "LVTJQYGKTDKQAMMIDYKADOFDJRZATV",
+      "口語溝通功能_口語理解_百分位": "PECRRBVBGSJHWQNDYHRDQCYCUAESEW",
+      "口語溝通功能_口語理解_發展商數": 35,
+      "口語溝通功能_口語理解_T分數": "CHSCLVFYTFHKFWDZMECDWPDWLVKAAT",
+      "口語溝通功能_口語理解_評估工具": [
+        { "text": "臨床觀察", "checked": true, "value": "" },
+        { "text": "臨床晤談", "checked": true, "value": "" },
+        {
+          "text": "修訂畢保德圖畫詞彙測驗 (PPVT-R)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "修訂學前兒童語言障礙評量表", "checked": true, "value": "" },
+        { "text": "修訂學齡兒童語言障礙評量表", "checked": true, "value": "" },
+        { "text": "學前兒童語言能力測驗", "checked": true, "value": "" },
+        { "text": "嬰幼兒綜合發展測驗 (CDIIT)", "checked": true, "value": "" },
+        {
+          "text": "零至三歲華語嬰幼兒溝通及語言診斷測驗 (0-3CLST)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "華語兒童理解與表達詞彙測驗 (REVT)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "學前幼兒與國小低年級兒童口語語法診斷測驗",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他(請敘明)",
+          "checked": true,
+          "hasInput": true,
+          "value": "ZRHSAAEXRDFICDLCJTIMHPVBANDQEX"
+        }
+      ],
+      "口語溝通功能_口語理解_行為觀察及綜合結果": "<p>AWSUPXDKJCXLNKUAMYPGFNXATWBGDJ</p><p>RKTOWISBBEXRXKSFXWDMOFEUOXRDGJ</p><p>LFZGEWMDOKMKPABIORMVHKSVCLLKVT</p><p>IIYTAINLWPDHPKUBVVBWEIZQUKDVVC</p><p>LRPBSJUPLWBUPYIFIOADQPWNTPTOHE</p>",
+      "口語溝通功能_理解訓練_理解訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": true, "value": "" },
+        { "text": "需要訓練", "checked": false, "value": "" }
+      ],
+      "口語溝通功能_理解訓練_訓練方向": [
+        { "text": "聽能訓練", "checked": true, "value": "" },
+        { "text": "鼓勵兒童對話時能注視說話者", "checked": true, "value": "" },
+        {
+          "text": "理解手勢及肢體動作的意思(如：搖頭／搖手表示”不可以”)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "聽懂無手勢動作提示的單一口語指令(如：拿積木給我)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "能指認一般日常生活等熟悉物品或圖片(如：杯子／蘋果)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "理解形容詞、感覺、表情等抽象詞彙",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "理解兩個或以上連續動作指令", "checked": true, "value": "" },
+        { "text": "理解複雜句型", "checked": true, "value": "" },
+        { "text": "理解經歷過的事件內容", "checked": true, "value": "" },
+        { "text": "理解故事內容", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "ZCRQWZSSIQXJJDFGNYNUGRDXMTOIOK"
+        }
+      ],
+      "口語溝通功能_理解訓練_具體建議": "<p>WCOQWFPHHLYFAHBEEWHQKWOGKQTKIE</p><p>VGNQYZBERKGNZLTKGCIFVJIADFOBVX</p><p>NUDUJNVCHLMXPXSQBGFJQVTBCVGMUS</p><p>GGHAWSAYXHJKTAKZVMFZNZNGXZQQAK</p><p>WRBXWPZYUPJAZDLPWZRMXKKIVNPITD</p>",
+      "口語溝通功能_口語表達_口語表達": [
+        { "text": "無異常", "checked": false, "value": "" },
+        { "text": "臨界發展遲緩", "checked": true, "value": "" },
+        { "text": "發展遲緩", "checked": false, "value": "" }
+      ],
+      "口語溝通功能_口語表達_評估日期": "2023-05-15",
+      "口語溝通功能_口語表達_目前能力約_歲": "CFFSDWZCYJZAUXPHBSEZWCXKOQDENI",
+      "口語溝通功能_口語表達_目前能力約_個月": "IGMLUWBCEYYDQWKCPAOYJUHHLQNBMC",
+      "口語溝通功能_口語表達_百分位": "XRBVYPZCCGAFHEOUDWVOMQIMUFFFAI",
+      "口語溝通功能_口語表達_發展商數": 31,
+      "口語溝通功能_口語表達_T分數": "SGGJKBURLIAQYYLSQDADSOBNXILDEQ",
+      "口語溝通功能_口語表達_評估工具": [
+        { "text": "臨床觀察", "checked": true, "value": "" },
+        { "text": "臨床晤談", "checked": true, "value": "" },
+        { "text": "修訂學前兒童語言障礙評量表", "checked": true, "value": "" },
+        { "text": "修訂學齡兒童語言障礙評量表", "checked": true, "value": "" },
+        { "text": "嬰幼兒綜合發展測驗 (CDIIT)", "checked": true, "value": "" },
+        {
+          "text": "零至三歲華語嬰幼兒溝通及語言診斷測驗 (0-3CLST)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "華語兒童理解與表達詞彙測驗 (REVT)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他(請敘明)",
+          "checked": true,
+          "hasInput": true,
+          "value": "KZNDOSJMZCMLEKRSVHEBJHJKJBFDXK"
+        }
+      ],
+      "口語溝通功能_口語表達_行為觀察及綜合結果": "<p>FBCIBXRWDGPADMTBYUAXVZCNKGNSOO</p><p>QEJOVCISZBASIBBCPQDFRFEBUJBXDL</p><p>EPEIAOTCMLIZRLUDACPDEVNJQLGPRR</p><p>TWUWAJEXLBWPLZLEDEZOWFYOCOFMHL</p><p>ZJCIENRQFVBOUEENNONCPIRYUNCRBL</p>",
+      "口語溝通功能_表達訓練_表達訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": true, "value": "" },
+        { "text": "需要訓練", "checked": false, "value": "" }
+      ],
+      "口語溝通功能_表達訓練_訓練方向": [
+        {
+          "text": "使用溝通輔具／手勢／手語輔助溝通",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "提升語用溝通技巧", "checked": true, "value": "" },
+        { "text": "增加主動表達的意願和機會", "checked": true, "value": "" },
+        {
+          "text": "模仿發聲或模仿語音(發聲遊戲)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "以單字加上手勢動作表達，如：我要",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "加強詞彙使用，如：常見物品名稱、功能性詞彙",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "加強完整句的表達，如：我要喝水",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "加強抽象詞彙的表達，如：好大的車子",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "增長語句長度", "checked": true, "value": "" },
+        {
+          "text": "練習使用複雜句表達(如：因為…就…)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "練習描述經歷過的事件或說故事",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "PZZNBVPQMHANHSXCBVIYFWIOLDQZDR"
+        }
+      ],
+      "口語溝通功能_表達訓練_具體建議": "<p>VXKRQVIGZZWGGACPBYKSQIURZIYENT</p><p>QIAJMESDCKGILQSBKNWVWTAZDVSVUV</p><p>IEQXOUXCOFMNIRJRXYSWQKTETHTOTQ</p><p>XPWVELKQLQCGIMJFQPLHCGNZIOMWGS</p><p>YXQJKDNXEKJTFJCKGVIWOQXRVYIFNR</p>",
+      "口語溝通功能_語用訓練_語用訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": true, "value": "" },
+        { "text": "需要訓練", "checked": false, "value": "" }
+      ],
+      "口語溝通功能_語用訓練_訓練方向": [
+        {
+          "text": "建立對事物的廣泛興趣，勿過於侷限",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "維持合乎情境的對話主題", "checked": true, "value": "" },
+        { "text": "維持一來一往的對話輪替", "checked": true, "value": "" },
+        { "text": "能使用合乎情境的適當口語", "checked": true, "value": "" },
+        {
+          "text": "能聽懂笑話、雙關語或詞彙非字面的意義",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "能適切的開啟及結束對話", "checked": true, "value": "" },
+        { "text": "增加語用預設的能力", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "WUJPNMLUPCEPGHWJZDFEJUAFPQYYOO"
+        }
+      ],
+      "口語溝通功能_說話_說話": [
+        { "text": "無異常", "checked": false, "value": "" },
+        { "text": "異常", "checked": true, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": false, "value": "" }
+      ],
+      "口語溝通功能_說話_評估日期": "2023-05-15",
+      "口語溝通功能_說話_評估結果": [
+        { "text": "構音障礙", "checked": true, "value": "" },
+        { "text": "言語不流暢/口吃/迅吃", "checked": true, "value": "" },
+        { "text": "嗓音障礙", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "TEHUKIXSHAWOAASZCLFKDPWHWPOSLG"
+        }
+      ],
+      "口語溝通功能_說話_評估工具": [
+        { "text": "國語正音檢核表", "checked": true, "value": "" },
+        { "text": "華語兒童構音與音韻測驗", "checked": true, "value": "" },
+        {
+          "text": "修訂中文口吃嚴重度評估工具(兒童版)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他(請敘明)",
+          "checked": true,
+          "hasInput": true,
+          "value": "BLWDIBKFNLOJPCNOETOMIKQYLQJCMT"
+        }
+      ],
+      "口語溝通功能_說話_訓練方向": [
+        { "text": "構音矯正", "checked": true, "value": "" },
+        { "text": "語暢訓練", "checked": true, "value": "" },
+        { "text": "嗓音復健", "checked": true, "value": "" },
+        { "text": "嗓音保健", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "YIHKDZKANCVTSEXABDJVNECEOFXBID"
+        }
+      ],
+      "口語溝通功能_說話_具體建議": "<p>AYGKUYNOANIABUQCXRYKGDYBJIIJXZ</p><p>XVYKJEUSDWKZBEHMFMWOLWERXHPJVA</p><p>KORNJREVDKYQSIPRNCVXGQFPBKVGQJ</p><p>FZUHOZOKKFLWJFOWPSQOKUAPYNLMLE</p><p>GCPMUONACZRXYGKMKQDFVZOMNSUYCC</p>",
+      "認知功能_認知功能_認知功能": [
+        { "text": "無異常", "checked": false, "value": "" },
+        { "text": "臨界發展遲緩", "checked": true, "value": "" },
+        { "text": "發展遲緩", "checked": false, "value": "" }
+      ],
+      "認知功能_認知功能_評估日期": "2023-05-15",
+      "認知功能_認知功能_發展商數或智商(百分位)": "MBMHZVEGQBUGQPXXBICLPFJFWSVTHO",
+      "認知功能_認知功能_分量表(發展年齡／SS)": "LRKCUOLLMGOPQIFGJJWENWIWRUSDQR",
+      "認知功能_認知功能_評估工具": [
+        { "text": "臨床觀察", "checked": true, "value": "" },
+        { "text": "臨床晤談", "checked": true, "value": "" },
+        {
+          "text": "貝萊嬰兒發展量表 (Bayley-II或III)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "魏氏幼兒智力量表 (WPPSI-R 或 IV)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "魏氏兒童智力量表 (WISC-III或 IV)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "斯比智力量表(S-B IV或V)", "checked": true, "value": "" },
+        {
+          "text": "來特國際操作量表 (Leiter-R 或 III)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "穆林早期學期量表", "checked": true, "value": "" },
+        {
+          "text": "托尼非語文智力測驗-再版 (幼兒版 E1-7)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "適應行為評量系統第二版 (ABAS-II)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "社會適應表現檢核表", "checked": true, "value": "" },
+        {
+          "text": "文蘭適應行為量表教室版 (VABS)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "電腦化持續性注意力測驗Conners’ Continuous Performance Test (CPT II)或(CPT III)或Conners Kiddie Continuous Performance Test II (KCPT II)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他(請敘明)",
+          "checked": true,
+          "hasInput": true,
+          "value": "CGSEYMTQXOTSWBEKTMNQWCWDLETBJG"
+        }
+      ],
+      "認知功能_認知功能_行為觀察及綜合結果": "<p>WJEISIAWFAXTPJZAAGHHMLJZSISWKX</p><p>XSOYHBYDSYXVBFURSZVKYKUOZAYJBH</p><p>BWMMXDJDOJRSGXVSZVTANWAKRIVQAG</p><p>RRBPUGJWASCXAUYGALTYBIVSFHGQVU</p><p>KHYMUYSCQIETRPYSBBTVFFSJEKDVTQ</p>",
+      "認知功能_認知功能訓練_認知功能訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": false, "value": "" },
+        { "text": "需要訓練", "checked": true, "value": "" }
+      ],
+      "認知功能_認知功能訓練_訓練方向": [
+        { "text": "嬰兒刺激/促發活動", "checked": true, "value": "" },
+        {
+          "text": "認知技能促發(遊戲、物品使用、符號及表徵技能、模仿能力、問題解決、區辨、概念形成、一一對應、順序能力、畫圖等)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "語彙/語意、基底常識、敘事、論述與對話能力",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "良好工作習慣", "checked": true, "value": "" },
+        { "text": "專注、記憶與執行功能", "checked": true, "value": "" },
+        { "text": "提供童書、玩具和遊戲處方", "checked": true, "value": "" },
+        { "text": "結構環境策略", "checked": true, "value": "" },
+        { "text": "生活適應(相關認知應用)訓練", "checked": true, "value": "" },
+        {
+          "text": "接受應用行為原理強化目標行為的訓練方案",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "教育／社區資源參與", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "CZDKOFLAEJIPRAFGJVNCYIFORAWPGB"
+        }
+      ],
+      "認知功能_認知功能訓練_具體建議": "<p>ODCWSIJRVEZVRNUWVRMURMEGNZKDJO</p><p>LCBETAPFZKFEJZKVYKKFDZFQCNYKWH</p><p>MREACNJCDYLVIQRBRQSCJDYXAEHIYX</p><p>QLBBACKNTKOLYDUUFCRRAVEVXIGVYB</p><p>XEFJUWWSNZVSUKMRWYPWTLNJEVPKJM</p>",
+      "社會情緒功能_情緒行為與社會適應功能_情緒行為與社會適應功能": [
+        { "text": "無異常", "checked": false, "value": "" },
+        { "text": "臨界", "checked": true, "value": "" },
+        { "text": "異常", "checked": false, "value": "" }
+      ],
+      "社會情緒功能_情緒行為與社會適應功能_評估日期": "2023-05-15",
+      "社會情緒功能_情緒行為與社會適應功能_評估工具": [
+        { "text": "臨床觀察", "checked": true, "value": "" },
+        { "text": "臨床晤談", "checked": true, "value": "" },
+        {
+          "text": "Autism Diagnostic Observation Schedule (ADOS或II)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "The Childhood Autism Rating Scale(CARS 或II)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "Clancy Behavior Scale", "checked": true, "value": "" },
+        {
+          "text": "Modified Checklist for Autism in Toddlers",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "Screening Tool for Autism in Toddlers & Young Children",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "Bayley-III Social-Emotional Questionnaire",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "Leiter-R或3 Rating Scale", "checked": true, "value": "" },
+        {
+          "text": "適應行為評量系統第二版(ABAS-II)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "社會適應表現檢核表", "checked": true, "value": "" },
+        {
+          "text": "文蘭適應行為量表教室版(VABS或 II)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "嬰幼兒綜合發展測驗(CDIIT)", "checked": true, "value": "" },
+        { "text": "兒童氣質量表", "checked": true, "value": "" },
+        { "text": "SNAP-IV", "checked": true, "value": "" },
+        { "text": "決裂(干擾)行為量表", "checked": true, "value": "" },
+        { "text": "兒童活動量表", "checked": true, "value": "" },
+        {
+          "text": "阿肯巴克實證衡鑑系統(ASEBA；臺灣版)、CBCL、C-TRF、TRF",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他(請敘明)",
+          "checked": true,
+          "hasInput": true,
+          "value": "VVDAIJSSCLWITNNMSDFOSUADSXFFOK"
+        }
+      ],
+      "社會情緒功能_情緒行為與社會適應功能_宜處理的問題行為": "<p>NILJEMCVPSMCRJLLJSQQSQZSVUVUST</p><p>BTCGWYFPLGOHQCBOZSEAIUISLFAXRI</p><p>IMBZBHZCOPVIZOHYYKILRTGBHZHYRM</p><p>JARITLSFWAKVSFIQPKTLFHSQJPGIZH</p><p>IIAMYNAHHJFEZLZFJRFISKQWOYSCTP</p>",
+      "社會情緒功能_情緒行為與社會適應功能_行為觀察及綜合結果": "<p>ZCPFLPVHHFEDZUQTMJGLRHQHTFCBZD</p><p>AITDRZDUTUSPMWCYEKLYMDYIQNSULB</p><p>QUYSWIRTYMPOZOHOZJJCOZOFLYAPBX</p><p>IIIRCMXMFJVOADYLOLLAEEEIOSCQRO</p><p>BCFEVSOMULSXFJNVRJIKOYFMTVVBUN</p>",
+      "社會情緒功能_情緒行為與社會適應功能訓練_情緒行為與社會適應功能訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": false, "value": "" },
+        { "text": "需要訓練", "checked": true, "value": "" }
+      ],
+      "社會情緒功能_情緒行為與社會適應功能訓練_訓練方向": [
+        { "text": "心理行為治療(團體/個別)", "checked": true, "value": "" },
+        { "text": "提升表達身心需求能力", "checked": true, "value": "" },
+        { "text": "提升社會互動的興趣", "checked": true, "value": "" },
+        {
+          "text": "增強表情辨識、情緒解讀之能力",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "提升注意與理解互動對象意圖、情緒感受之能力",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "提升理解情境潛規則及合宜社交應對行為 (如對話、合作遊戲、友誼處理、自我調節、同理、衝突處理等)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "提升情緒調節能力", "checked": true, "value": "" },
+        {
+          "text": "運用行為功能分析及行為改變策略處理行為問題及行為塑造",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "提升團體生活之常規遵循能力", "checked": true, "value": "" },
+        { "text": "使用教室管理策略", "checked": true, "value": "" },
+        { "text": "親職諮商", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "RQWTQSTOJLVYHQRLNIELXOXTSJJDOY"
+        }
+      ],
+      "社會情緒功能_情緒行為與社會適應功能訓練_具體建議": "<p>BUMUYFKIJLFCNMVVRVOHRNBHMVKSPS</p><p>RJLGPOHBNAGLPLSHWLKBRPALHWBXHJ</p><p>NBDHCMOVLUHNFXXECIEWIHENKRSZNT</p><p>LXABACIVLIYSUMMGKBPROWOGLXKUPH</p><p>MVGRSWRHGHHXVTRSIWWJYEWHHLEDMU</p>",
+      "日常生活功能_飲食_飲食": [
+        { "text": "無異常", "checked": false, "value": "" },
+        { "text": "臨界發展遲緩", "checked": true, "value": "" },
+        { "text": "發展遲緩", "checked": false, "value": "" }
+      ],
+      "日常生活功能_飲食_評估日期": "2023-05-15",
+      "日常生活功能_飲食_評估方法": [
+        {
+          "text": "臨床觀察",
+          "checked": false,
+          "value": "DGCIGIJFISZTMEVPLNFHGUDNFUXUZT",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ],
+          "isNormalOption": true
+        },
+        {
+          "text": "臨床晤談",
+          "checked": false,
+          "value": "VXSBHRWSSVEYCSWCSHVLJRLPILQIQZ",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ],
+          "isNormalOption": true
+        },
+        {
+          "text": "自己會拿奶瓶喝奶或拿餅乾吃(1歲)",
+          "checked": false,
+          "value": "UQJEVBUDZOWPMIWIUOQHBRKWSRHONW",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ],
+          "description": "(可以獨立完成請打O、需要協助請打V、完全依賴請打X)"
+        },
+        {
+          "text": "會用聲音或動作表達想吃東西或想喝水(1-1.5歲)",
+          "checked": false,
+          "value": "UPKWWUUTCPAYPXWTGAZWISDUNBCMPA",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "自己用湯匙吃東西(1.5-2歲)",
+          "checked": false,
+          "value": "DAHEXYIYVWEWEWJXIIHLQROBSWHLRP",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "可使用吸管喝飲料(1.5歲)",
+          "checked": false,
+          "value": "WMQHVMELOWHGVRNLSRJCODZENZDDGU",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "自己可以雙手拿著杯子喝水(2.5歲)",
+          "checked": false,
+          "value": "XXBDGDWBBWIYCJDAJBCRAPXQMGHDQG",
+          "selectedValue": "O",
+          "likertOptions": [
+            { "text": "O", "checked": true },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "自己用筷子夾食物吃(5.5-6歲)",
+          "checked": false,
+          "value": "HDGKJSQKKLWMQJWGBNMUCZJTBIXQYV",
+          "selectedValue": "O",
+          "likertOptions": [
+            { "text": "O", "checked": true },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "其他",
+          "checked": false,
+          "hasInput": true,
+          "value": "XRKUNOYXRZOXDZWKCQMIFPWRNUJZMQ",
+          "selectedValue": "O",
+          "likertOptions": [
+            { "text": "O", "checked": true },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": false }
+          ],
+          "isNormalOption": true
+        }
+      ],
+      "日常生活功能_飲食_行為觀察及綜合結果": "<p>EWWLIRCTHYUMFPKWXZDXIDBTCKXMIK</p><p>LUXMAMZQKFOKILIWILKLNOWTMSMIWM</p><p>OTWOFEQYMZIMXSATOBXYOALHUGXDMO</p><p>AOQKROLTSAUVAIKYHYRQXEDNNPTHNX</p><p>EPISNCRGXECRMXTVWOUUINNWVTTPTJ</p>",
+      "日常生活功能_飲食訓練_飲食訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": true, "value": "" },
+        { "text": "需要訓練", "checked": false, "value": "" }
+      ],
+      "日常生活功能_飲食訓練_訓練方向": [
+        { "text": "會表示要吃東西", "checked": true, "value": "" },
+        {
+          "text": "大人餵食時，練習用手扶食器或用嘴抿食物",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "使用吸管喝飲料", "checked": true, "value": "" },
+        {
+          "text": "自己用湯匙吃東西或拿杯子喝水",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "練習用筷子吃東西", "checked": true, "value": "" },
+        {
+          "text": "練習吃喝東西很少或不會掉落殘渣",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "RBFAQTNTMPKWDDGRTHYFYHKDGEHVFO"
+        }
+      ],
+      "日常生活功能_飲食訓練_具體建議": "<p>MZLKGVJRDVTURDNICDYUDRRXLHIIFF</p><p>VQKGDXMXZBALTBXIWAECDMTUNCHTEF</p><p>MASGGVZRZZVPIIXTAPKJZTCIOEBOIZ</p><p>OOUHRGOTDMAARTHGOJYSHSOKCRTVGJ</p><p>DTYLSMBPBOXPLWMLPZSNMMJEKDVELD</p>",
+      "日常生活功能_穿脫衣_穿脫衣": [
+        { "text": "無異常", "checked": true, "value": "" },
+        { "text": "臨界發展遲緩", "checked": false, "value": "" },
+        { "text": "發展遲緩", "checked": false, "value": "" }
+      ],
+      "日常生活功能_穿脫衣_評估日期": "2023-05-15",
+      "日常生活功能_穿脫衣_評估方法": [
+        {
+          "text": "臨床觀察",
+          "checked": false,
+          "value": "LGGSPKQYOPNYVADESKPTFXTDSKOFXZ",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ],
+          "isNormalOption": true
+        },
+        {
+          "text": "臨床晤談",
+          "checked": false,
+          "value": "MYFFCANBPYAXYTJAHINWDQBORESUAX",
+          "selectedValue": "O",
+          "likertOptions": [
+            { "text": "O", "checked": true },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": false }
+          ],
+          "isNormalOption": true
+        },
+        {
+          "text": "可自己脫掉外套或鞋子(不包含開扣子與解鞋帶)(2歲)",
+          "checked": false,
+          "value": "EJXXZUFLXYVOBFDMDLIQWMISIKGAWS",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ],
+          "description": "(可以獨立完成請打O、需要協助請打V、完全依賴請打X)"
+        },
+        {
+          "text": "可自己穿上襪子、鞋子(可能對不正、穿錯腳，不含繫鞋帶) (3歲)",
+          "checked": false,
+          "value": "SHEOPGAYNFJCLEUFAEJRYHHVUATCFT",
+          "selectedValue": "O",
+          "likertOptions": [
+            { "text": "O", "checked": true },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "可以自己穿上衣 (3.5歲)",
+          "checked": false,
+          "value": "RKMSNPLVMSTVIMMFGYIUZUBOCQMYES",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "可自己脫套頭的衣服(4歲)",
+          "checked": false,
+          "value": "UQVFQCZIZIPMTNAJUVYOFLUTKDOPNK",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "可以扣一般大小的扣子(4.5歲)",
+          "checked": false,
+          "value": "TWKOFLMWBIVQMNZELUPLGFQJOJAWEZ",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "可完全獨立穿脫衣物(5-6歲)",
+          "checked": false,
+          "value": "KDYJWBGJUSHFAQDGUZHXTPCBJAVSHZ",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "其他",
+          "checked": false,
+          "hasInput": true,
+          "value": "WYQHSEIPDYVRDIYOBNRJOPVDPSWEJJ",
+          "selectedValue": "O",
+          "likertOptions": [
+            { "text": "O", "checked": true },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": false }
+          ],
+          "isNormalOption": true
+        }
+      ],
+      "日常生活功能_穿脫衣_行為觀察及綜合結果": "<p>OMAJVQENLOXTTQTARMISTYHDYOTXPF</p><p>KBSOEZKYSMBNXKNBKXYNVNXYBNYPBW</p><p>DGZTIDWZRTEEFUAXLBNBVCQQMAKYPD</p><p>FAAMGFZFXJZFBTVULZYLQBJAETWSSL</p><p>ROUZVSPWOMYGLZNOQHCLDZARIOCRJW</p>",
+      "日常生活功能_穿脫衣訓練_穿脫衣訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": true, "value": "" },
+        { "text": "需要訓練", "checked": false, "value": "" }
+      ],
+      "日常生活功能_穿脫衣訓練_訓練方向": [
+        {
+          "text": "大人幫忙穿脫衣服、鞋子時，練習配合伸出手腳",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "練習自己穿脫無釦子的衣褲或無鞋帶的鞋子",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "練習自行穿脫衣物或鞋子", "checked": true, "value": "" },
+        {
+          "text": "練習拉拉鍊、綁鞋帶、解釦子、扣釦子",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "FBYTHFTQUVNRLDAXKBJALPPNDCBYKQ"
+        }
+      ],
+      "日常生活功能_穿脫衣訓練_具體建議": "<p>GOGZQJZXKTHNEVEQWEBREZCEZOMIJC</p><p>SZFMSQKKPVMMANUQLUBNGRWQWDNXAK</p><p>KQDXFJFRIOPWVYHYISZLHKXRFUVDCJ</p><p>AUHPUTIMUKVSOVLYFVPDYUYXHDDKJD</p><p>WRKILBNIWGRRPEUURGCZLJQNOVFTVP</p>",
+      "日常生活功能_盥洗衛生_盥洗衛生": [
+        { "text": "無異常", "checked": true, "value": "" },
+        { "text": "臨界發展遲緩", "checked": false, "value": "" },
+        { "text": "發展遲緩", "checked": false, "value": "" }
+      ],
+      "日常生活功能_盥洗衛生_評估日期": "2023-05-15",
+      "日常生活功能_盥洗衛生_評估方法": [
+        {
+          "text": "臨床觀察",
+          "checked": false,
+          "value": "FUNNVUKLUPOYSKCYOIZYAMPOAYZBKD",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ],
+          "isNormalOption": true
+        },
+        {
+          "text": "臨床晤談",
+          "checked": false,
+          "value": "WDVJFCTKTHSTVQELSRJNSSSIEVYSFV",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ],
+          "isNormalOption": true
+        },
+        {
+          "text": "盥洗：別人幫忙洗澡時，會配合抬手或抬腳(1.5-2歲)",
+          "checked": false,
+          "value": "JPRWTYRSRXYIULWROXPGSVZGWUSJFD",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ],
+          "description": "(可以獨立完成請打O、需要協助請打V、完全依賴請打X)"
+        },
+        {
+          "text": "盥洗：洗手時，可雙手互相搓洗(2-3歲)",
+          "checked": false,
+          "value": "EICHWLRECRJNXVRLFCFASUZNLZYGTS",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "盥洗：能獨立完成洗手及擦乾(4歲)",
+          "checked": false,
+          "value": "IZSJQIKDMQBOKGKPJMXRMDPPEYWNWS",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "盥洗：可自行刷牙(4歲)",
+          "checked": false,
+          "value": "VFVALQLTWAWUATWBQEQUMENWJUODRK",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "盥洗：在少許協助或監督下，可自己洗臉、洗澡及擦乾(5-6歲)",
+          "checked": false,
+          "value": "IAQHYCTUDYYVTXRKUMOCMQRBFJQZHS",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "盥洗：其他",
+          "checked": false,
+          "hasInput": true,
+          "value": "IXRKRPGSBIUIKMASXYGOOLYFXIRXDX",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "如廁：尿布濕了或髒了時，會有不舒服的表現(1歲)",
+          "checked": false,
+          "value": "NRGVADJGVRHXWPEWDQRDEYARIRWKEL",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "如廁：可主動表達要尿尿(2.5歲)",
+          "checked": false,
+          "value": "TXBYZUNCGXHUDIZGUSBNVXQDHOQMGO",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "如廁：白天可規律如廁，僅偶爾尿濕褲子或大便在褲子(3歲)",
+          "checked": false,
+          "value": "ROBVSVDAMJSQBHFABXZRRPWQBFTLPT",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "如廁：可自行完成所有如廁的步驟包括穿脫褲子、擦拭、沖水及洗手(5歲)",
+          "checked": false,
+          "value": "BOQFIXBAGXMWYPRZNJXWFGEGMGZCHT",
+          "selectedValue": "O",
+          "likertOptions": [
+            { "text": "O", "checked": true },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "如廁：其他",
+          "checked": false,
+          "hasInput": true,
+          "value": "DFLDFSVXSBUJECFUFLNQRSHKCNNYWK",
+          "selectedValue": "O",
+          "likertOptions": [
+            { "text": "O", "checked": true },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": false }
+          ],
+          "isNormalOption": true
+        }
+      ],
+      "日常生活功能_盥洗衛生_行為觀察及綜合結果": "<p>KAKFYOFMCLRHNUBHJVXWJOUOTHRUFP</p><p>BLABLMXBLGSTHZIXFRLJDBNGNYFWMP</p><p>JDMSQFINYCKUIIMLIDLTSHRJULEHVG</p><p>QYETMYNOHIDVDTVGJDVVHTWJOALKLZ</p><p>BKCRVEQQMOFHBEZCFDXNHANXCEQAJD</p>",
+      "日常生活功能_盥洗訓練_盥洗訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": true, "value": "" },
+        { "text": "需要訓練", "checked": false, "value": "" }
+      ],
+      "日常生活功能_盥洗訓練_訓練方向": [
+        { "text": "表示要大大或尿尿", "checked": true, "value": "" },
+        { "text": "在別人幫忙下，坐馬桶上廁所", "checked": true, "value": "" },
+        { "text": "自己去大／小便", "checked": true, "value": "" },
+        {
+          "text": "擤鼻涕／洗臉／刷牙／漱口／洗澡／洗手",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "AGMAKAPPUCYRFSOHYLCNJWUMHOBXAL"
+        }
+      ],
+      "日常生活功能_盥洗訓練_具體建議": "<p>MZIPQFFKZIMOVLEKYIDGLVXDIIFJNG</p><p>JNCUTCOOSHTSJYEKSEXJFLEDNMIIFL</p><p>IDIGUQRPQIKUERPTSKRFUVSLBJWBPB</p><p>JQHRFVJQUHITXMTVLGILBJACXZCEXO</p><p>XFGHDGNQJSXLBOKZKOWXQQNELXWXWV</p>",
+      "日常生活功能_遊戲活動_遊戲活動": [
+        { "text": "無異常", "checked": false, "value": "" },
+        { "text": "臨界發展遲緩", "checked": true, "value": "" },
+        { "text": "發展遲緩", "checked": false, "value": "" }
+      ],
+      "日常生活功能_遊戲活動_評估日期": "2023-05-15",
+      "日常生活功能_遊戲活動_目前能力約_歲": "IBLRXCVYVDKHEGEXEIRKCCJVQJZDQS",
+      "日常生活功能_遊戲活動_目前能力約_個月": "RKSWULWDYSDCOEDAXGQJLPZIELULHL",
+      "日常生活功能_遊戲活動_百分位": "JYSHLATKWKQVQQXJVUDZMYOLMQOLRI",
+      "日常生活功能_遊戲活動_發展商數": 21,
+      "日常生活功能_遊戲活動_標準分數": 13,
+      "日常生活功能_遊戲活動_評估工具": [
+        { "text": "臨床觀察", "checked": true, "value": "" },
+        { "text": "臨床晤談", "checked": true, "value": "" },
+        {
+          "text": "Knox學前遊戲量表修正版 (Revised Knox Preschool Play Scale)",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "玩性評量 (Test of Playfulness)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "遊戲史 (Play History)", "checked": true, "value": "" }
+      ],
+      "日常生活功能_遊戲活動_行為觀察及綜合結果": "<p>VMTKLRDZJXXOTHOPQBTOFNCBTQWDIO</p><p>MXBXNWHCDSYESINCKSVWNBKMCDFUAJ</p><p>EMLBONVIUFLDVJKAXCDUQZKYQZLHQM</p><p>PHNWPIPJXGOPIHSRDEMMCNYEVPYZAX</p><p>MNJIVSEYKKJOPUZICMNCJYZFPELZBJ</p>",
+      "日常生活功能_遊戲訓練_遊戲訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": true, "value": "" },
+        { "text": "需要訓練", "checked": false, "value": "" }
+      ],
+      "日常生活功能_遊戲訓練_訓練方向": [
+        { "text": "功能性及探索性遊戲", "checked": true, "value": "" },
+        { "text": "想像性遊戲", "checked": true, "value": "" },
+        { "text": "象徵性與角色扮演遊戲", "checked": true, "value": "" },
+        { "text": "建構性遊戲", "checked": true, "value": "" },
+        {
+          "text": "規則性遊戲(如123木頭人、棋藝或桌遊)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "可獨自玩一段時間", "checked": true, "value": "" },
+        {
+          "text": "可玩二人的遊戲(如親子或手足)",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "可參與三人以上的團體遊戲", "checked": true, "value": "" }
+      ],
+      "日常生活功能_遊戲訓練_具體建議": "<p>INFOHELVAEWXIHRZCBSEIOQRNJSKPU</p><p>ZPSSQBRKTGAMLAIJLSKNYOJUKOCLKI</p><p>BTKMFYPZSAKJXNCNWJNJSRVARPWEPU</p><p>IYNKMYIQDEEJIVCEOKAEIBJVLWZGUI</p><p>ASKRWIKXPETXUQQEAISZMTBHZZYQWG</p>",
+      "日常生活功能_生活作息及參與_生活作息及參與": [
+        { "text": "無異常", "checked": false, "value": "" },
+        { "text": "臨界發展遲緩", "checked": true, "value": "" },
+        { "text": "發展遲緩", "checked": false, "value": "" }
+      ],
+      "日常生活功能_生活作息及參與_評估日期": "2023-05-15",
+      "日常生活功能_生活作息及參與_目前能力約_歲": "KJGQTHYLRZECZMKTTOBBDTVRAILIET",
+      "日常生活功能_生活作息及參與_目前能力約_個月": "WTMBWIBUSDHLQFDNFYWVSKFILVSCZX",
+      "日常生活功能_生活作息及參與_百分位": "AEMAVKYCMYDOPJLTMMDZFRLLMIAAAQ",
+      "日常生活功能_生活作息及參與_發展商數": 95,
+      "日常生活功能_生活作息及參與_標準分數": 99,
+      "日常生活功能_生活作息及參與_評估工具": [
+        {
+          "text": "臨床觀察",
+          "checked": false,
+          "value": "ZCSRLZEIILPPDMOKPRIQXVZOIQMVRD",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ],
+          "isNormalOption": true
+        },
+        {
+          "text": "臨床晤談",
+          "checked": false,
+          "value": "LMYAGSTBUMUCQBJRDOYSNGWWGELJJI",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ],
+          "isNormalOption": true
+        },
+        {
+          "text": "規律作息：規律睡眠或休息習慣(6-18個月)",
+          "checked": false,
+          "value": "SOMLKNUXHYSSJMDIVXSBXZIWGRZJNC",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ],
+          "description": "(可以獨立完成請打O、需要協助請打V、完全依賴請打X)"
+        },
+        {
+          "text": "規律作息：吃飯或點心時間，自己坐到位子上準備吃東西(1.5-2歲)",
+          "checked": false,
+          "value": "ZOUPYSAIVEPTQWSOSBJNZCVMGGIKXG",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "規律作息：在大人陪同下，自己上床、蓋被子睡覺(2-2.5歲)",
+          "checked": false,
+          "value": "JLBTFKZJVZGBBWHCBEKKYVCUDNWSJH",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "規律作息：自己會去完成例行常規，如洗手、擦乾，再來拿東西吃(4-4.5歲)",
+          "checked": false,
+          "value": "YJBVMISCBYCEDCKJABFAPXDSTHNKQX",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "規律作息：在提醒下，自己收玩具、去刷牙，然後上床睡覺(4-4.5歲)",
+          "checked": false,
+          "value": "WAHWCBUWUBLLRTECSHEMXHRQPOHUQD",
+          "selectedValue": "O",
+          "likertOptions": [
+            { "text": "O", "checked": true },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "管理自己的事物：依要求將玩具或書放置好或歸位(1.5-2歲)",
+          "checked": false,
+          "value": "HDRPXINLIHJPYRXFOEEIXYHPQSAMJD",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "管理自己的事物：常用物品使用後會自動歸位(2.5-3歲)",
+          "checked": false,
+          "value": "HIRESSOOCOZFQBGJFHPAQSAKLFHQLB",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "管理自己的事物：能收拾好個人的物品，如文具、玩具、餐具等到固定的位置等(4-4.5歲)",
+          "checked": false,
+          "value": "XAPSRBSHRGDIPFATHVWWIXGMGVYNIG",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "主動協助家庭事務：看到大人做事會要幫忙，如拿尿布去丟掉、拿東西去放好，或拿東西給收銀員(2歲) ",
+          "checked": false,
+          "value": "WUQXRQGTWDMQLAGEYGVWYPZYSPPMPW",
+          "selectedValue": "O",
+          "likertOptions": [
+            { "text": "O", "checked": true },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "主動協助家庭事務：摺簡單的衣物，如毛巾，但還摺不整齊(2.5歲)",
+          "checked": false,
+          "value": "VPCLJPTXTMCLEKPBTDZFZGAEGLHAOX",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "主動協助家庭事務：接聽電話，會叫要找的人(3歲)",
+          "checked": false,
+          "value": "OOZHTYIISKMWYNWPUDAAJGGWAGMJQD",
+          "selectedValue": "V",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": true },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "主動協助家庭事務：協助簡單的家事，如擺碗筷，擦桌子(4.5-5歲)",
+          "checked": false,
+          "value": "LEDVSLXGOVLBPKGVMDLYZCFGZACNKI",
+          "selectedValue": "O",
+          "likertOptions": [
+            { "text": "O", "checked": true },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": false }
+          ]
+        },
+        {
+          "text": "主動協助家庭事務：自己摺衣服、涼被(4.5-5歲)",
+          "checked": false,
+          "value": "XQONTRMAHJQDMRDTBDFTVZIKFOPXAZ",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "主動協助家庭事務：可負責簡單的家事，如負責盛每一餐的飯(5.5-6歲)",
+          "checked": false,
+          "value": "SMNEDAJILLMJVTRBYAQVPZNGCSXOUO",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ]
+        },
+        {
+          "text": "幼兒日常職能活動量表",
+          "checked": false,
+          "value": "GZFARSMBZKOSTLBXEPALYPQCOJXFAO",
+          "selectedValue": "X",
+          "likertOptions": [
+            { "text": "O", "checked": false },
+            { "text": "V", "checked": false },
+            { "text": "X", "checked": true }
+          ],
+          "isNormalOption": true
+        }
+      ],
+      "日常生活功能_生活作息及參與_行為觀察及綜合結果": "<p>ZPINNKDEJNPTJZFLTTVBWHMOBJKEFF</p><p>ZTAOTXFTOKSVVZSITABBDENEQQVCTH</p><p>JMNHCPVQNQOPSDOSUKMTUIBPUZAUOX</p><p>TLHSTGGFJJGPTMYYYURATSZQGEFGNE</p><p>ZPHHZRSOMHIPOCLSSNIVPZTJBSKGYE</p>",
+      "日常生活功能_生活作息訓練_生活作息訓練": [
+        { "text": "不需要", "checked": false, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": true, "value": "" },
+        { "text": "需要訓練", "checked": false, "value": "" }
+      ],
+      "日常生活功能_生活作息訓練_訓練方向": [
+        { "text": "能夠規律作息", "checked": true, "value": "" },
+        { "text": "能夠管理自己的事物", "checked": true, "value": "" },
+        { "text": "能夠主動協助家庭事務", "checked": true, "value": "" },
+        { "text": "增加親子遊戲互動", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "YKXOBLRZIDPYEOSEWTVVWSIJQSLSCV"
+        }
+      ],
+      "日常生活功能_生活作息訓練_具體建議": "<p>POCYOHGPOXHUYXTGZMQWPLUWBKEZOR</p><p>TMLYDLPHZRKKNRDMZRZGCUZMFTVUCW</p><p>JYZOVHTYDSQUMQQHABMDWWKENVUHFM</p><p>RRPDKLTFJYTIDYQHILPORUBWKRDQIX</p><p>KRZIMEKFRWELFZKBAWNBJZPMDZVPSJ</p>",
+      "環境支持_輔具需求_輔具需求": [
+        { "text": "不需要", "checked": true, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": false, "value": "" },
+        { "text": "需要訓練", "checked": false, "value": "" }
+      ],
+      "環境支持_輔具需求_上肢副木": [
+        { "text": "對掌副木", "checked": true, "value": "" },
+        { "text": "豎腕副木", "checked": true, "value": "" },
+        { "text": "固定副木", "checked": true, "value": "" },
+        { "text": "功能性副木", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "EIPBGKKLHHZMRZLJYDPCYONVXFGTPD"
+        }
+      ],
+      "環境支持_輔具需求_下肢副木": [
+        { "text": "短腿副木", "checked": true, "value": "" },
+        { "text": "長腿副木", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "RUZUUYGCMSZSNGPEOGDCDAAXQGSIWO"
+        }
+      ],
+      "環境支持_輔具需求_上肢輔具": "HCZIYBOLGFYISZTHMQMMYHUOJPLBHH",
+      "環境支持_輔具需求_下肢輔具": [
+        { "text": "鞋墊", "checked": true, "value": "" },
+        { "text": "足踝矯正鞋", "checked": true, "value": "" },
+        { "text": "踝足支架", "checked": true, "value": "" },
+        { "text": "短腿支架", "checked": true, "value": "" },
+        { "text": "長腿支架", "checked": true, "value": "" },
+        { "text": "髖關節脫臼架", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "ZNXDITOOTGQITEWPTEDBJVSDJRIIZR"
+        }
+      ],
+      "環境支持_輔具需求_軀幹輔具": "EWQLMJBVADKZLKZHAPKBRTCSJMAWXX",
+      "環境支持_輔具需求_擺位輔具": [
+        { "text": "特製擺位椅", "checked": true, "value": "" },
+        { "text": "站立架", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "SCVVTZVNIUZRFWKNJFUOLCVCAGXRSU"
+        }
+      ],
+      "環境支持_輔具需求_移位輔具": [
+        { "text": "轉位輔具", "checked": true, "value": "" },
+        { "text": "柺杖", "checked": true, "value": "" },
+        { "text": "助行器", "checked": true, "value": "" },
+        { "text": "輪椅", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "FDYKZSMTLOHGJMZQQZWISCNIIJCLMU"
+        }
+      ],
+      "環境支持_輔具需求_溝通輔具": [
+        { "text": "溝通板", "checked": true, "value": "" },
+        { "text": "語言訓練系統", "checked": true, "value": "" },
+        { "text": "圖卡或照片", "checked": true, "value": "" },
+        { "text": "語音溝通器", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "UBOLQTJLJNBEDECPDMBTZEMVZKJCXL"
+        }
+      ],
+      "環境支持_輔具需求_日常生活輔具": [
+        { "text": "進食輔具", "checked": true, "value": "" },
+        { "text": "書寫輔具", "checked": true, "value": "" },
+        { "text": "著衣輔具", "checked": true, "value": "" },
+        { "text": "盥洗輔具", "checked": true, "value": "" },
+        { "text": "人機介面輔具", "checked": true, "value": "" },
+        { "text": "休閒輔具", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "EMINQAPPTHMXGARYKPXRQAKBDUQUHS"
+        }
+      ],
+      "環境支持_輔具需求_聽覺輔具": [
+        { "text": "助聽器", "checked": true, "value": "" },
+        { "text": "人工電子耳", "checked": true, "value": "" },
+        { "text": "調頻系統", "checked": true, "value": "" },
+        { "text": "其他助聽輔具", "checked": true, "value": "" }
+      ],
+      "環境支持_輔具需求_視覺輔具": [
+        { "text": "放大鏡", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "DSHSRDIJRJHZIZRLENQUYUFWGSTXAI"
+        }
+      ],
+      "環境支持_無障礙環境諮商與設計_無障礙環境諮商與設計": [
+        { "text": "不需要", "checked": true, "value": "" },
+        { "text": "需要", "checked": true, "value": "" }
+      ],
+      "環境支持_其他需求_其他需求": [
+        { "text": "不需要", "checked": true, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": false, "value": "" }
+      ],
+      "環境支持_其他需求_具體建議": "<p>QYVVIULWUKRPYMHJXPBCIRUBKMONTH</p><p>YMJWABKPPGJUBNELAPVSDAMADKROOU</p><p>MRUMJQMJPNUYPRLMFPCYURBAQBAJAI</p><p>RSTWXHBOMAPBKEDRKFMCAZHOMUHPRG</p><p>SRFJJFZIMFMZRAQNIPGGKBETCVAFBY</p>",
+      "家庭評估_家庭評估(含經濟狀況、家庭功能、親職照顧、資源使用)_家庭評估(含經濟狀況、家庭功能、親職照顧、資源使用)": [
+        { "text": "不需要協助", "checked": true, "value": "" },
+        { "text": "需要追蹤及諮詢", "checked": false, "value": "" },
+        {
+          "text": "需要連結其他服務 (高風險或其他特殊個案)",
+          "checked": false,
+          "value": ""
+        }
+      ],
+      "家庭評估_家庭評估(含經濟狀況、家庭功能、親職照顧、資源使用)_訓練方向": [
+        { "text": "協助處理家庭經濟問題", "checked": true, "value": "" },
+        { "text": "強化家庭功能", "checked": true, "value": "" },
+        { "text": "強化社會支持系統", "checked": true, "value": "" },
+        { "text": "提升照顧能力與技巧", "checked": true, "value": "" },
+        { "text": "強化親職能力", "checked": true, "value": "" },
+        { "text": "增加對早療資源認識及使用", "checked": true, "value": "" },
+        { "text": "家庭諮商及治療", "checked": true, "value": "" },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "BRUDQXJNXJYVPBQSPNURJXFHUYBCRD"
+        }
+      ],
+      "家庭評估_家庭處遇具體建議_家庭處遇具體建議 (請簡要摘述)": "<p>ZXNSHEWLKKQSGGXXYISKGCLLHNTVVF</p><p>VKSLWVPPJCSGIZDXXCFRTXQARADRUZ</p><p>CECTUKBIPCSIGHHFWPXQXEFWZQTZGK</p><p>DNWNSOTOBCYVJYVYRHIEKYPNKEODXD</p><p>MXRCXYQURJZLOXZRHFQPZREGJFZZPO</p>",
+      "家庭評估_家庭處遇具體建議_評估結果": [
+        { "text": "由醫院社工師繼續提供服務", "checked": true, "value": "" },
+        {
+          "text": "轉介至早療通報轉介或個管中心安排家庭服務",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "轉介至（請說明）",
+          "checked": true,
+          "hasInput": true,
+          "value": "JFYCKPBLNYPNZXGKSCTXZAHPLSILXJ"
+        }
+      ],
+      "家庭評估_親職功能_親職功能": [
+        { "text": "了解診斷及整體療育計畫", "checked": true, "value": "" },
+        {
+          "text": "了解兒童發展概念、順序，了解接納孩子個別發展特性與性格特質",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "辨識兒童行為涵義", "checked": true, "value": "" },
+        {
+          "text": "協助兒童於自然環境中生活、遊戲與學習",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "了解兒童情緒、問題行為及處理原則",
+          "checked": true,
+          "value": ""
+        },
+        { "text": "積極參與療育", "checked": true, "value": "" },
+        { "text": "調節家長及孩子之壓力", "checked": true, "value": "" },
+        { "text": "增進家長親職自信", "checked": true, "value": "" },
+        {
+          "text": "了解兒童長期發展、未來生涯規劃",
+          "checked": true,
+          "value": ""
+        },
+        {
+          "text": "其他",
+          "checked": true,
+          "hasInput": true,
+          "value": "DDCZKATHRQTULFOISMADAOJIIWEBGR"
+        }
+      ],
+      "家庭評估_親職功能_具體建議": "<p>SKSVNEHSKFGCLGVQSGNFUZWMUXVJNU</p><p>VHFRUVPRZICTQFYUROEVSTZICAHXMI</p><p>RGIXFELNWOARUOQUIFJQDOOXIWPJFJ</p><p>HFLTUNQWVPQREUPOKLWFHSAQIRTAXO</p><p>CPHOIPLJAUAPXGEOJTXCPVUHEANGUV</p>",
+      "其他建議_其他建議_具體建議": "<p>KOLNFFISLSVSJNTRBDGODZKZEQJCVH</p><p>ITUNEVQTUJPLHEUXFPOXNMQTLGTEED</p><p>NCCLPKQCOLYTKIDUJEXDLMPXEAKVTG</p><p>IYDPKGVOOFWKHKPFGDDMKPASAFCDSE</p><p>AAGTXSAGAWHIWXOHRITRKGDCQCMQJK</p>"
+    }
+  }
+}

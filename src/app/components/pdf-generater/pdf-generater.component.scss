@@ -1,0 +1,121 @@
+.pdf {
+  // padding: 0 5rem;
+  // display: none;
+  font-size: 13px;
+  &-title {
+    text-align: center;
+    font-size: 20px;
+  }
+  &-info {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+    font-size: 20px;
+  }
+  &-description {
+    margin: 0;
+  }
+}
+figure {
+  width: auto !important;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  p {
+    margin: 5px;
+  }
+}
+
+table tr td,
+table tr th {
+  border: 1px solid black;
+}
+table tr {
+  page-break-before: always;
+}
+h3 {
+  margin: 5px 0;
+}
+p {
+  margin: 5px 0;
+}
+.bold {
+  font-weight: bold;
+}
+.flex {
+  display: flex;
+}
+.justify {
+  &-center {
+    justify-content: center;
+  }
+  &-between {
+    justify-content: space-between;
+  }
+}
+.half-width {
+  width: 50%;
+}
+.border {
+  &.l {
+    border-left: none !important;
+  }
+  &.r {
+    border-right: none !important;
+  }
+  &.t {
+    border-top: none !important;
+  }
+  &.b {
+    border-bottom: none !important;
+  }
+}
+
+.mt-0 {
+  margin-top: 0;
+}
+.mr-2 {
+  margin-right: 20px;
+}
+.mx-0 {
+  margin-left: 0;
+  margin-right: 0;
+}
+.my-0 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.html2pdf__page-break {
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #64bb82;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  &:hover {
+    background-color: #3e7952;
+  }
+}
+.col {
+  &-half {
+    width: 50% !important;
+  }
+  &-third {
+    width: 30% !important;
+  }
+}
+.word {
+  margin-top: 100px;
+  font-size: 4rem;
+}
